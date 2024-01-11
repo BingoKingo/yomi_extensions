@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tachiyomi-zh.copymanga-v1.4.53.apk",
+    "path": "apk/tachiyomi-zh.copymanga-v1.4.53.apk",
+    "sha": "2eee1fc8419ad4008444cdcaf476ff9d6fbcbc3a",
+    "size": 142451,
+    "url": "https://api.github.com/repos/stevenyomi/copymanga/contents/apk/tachiyomi-zh.copymanga-v1.4.53.apk?ref=repo",
+    "html_url": "https://github.com/stevenyomi/copymanga/blob/repo/apk/tachiyomi-zh.copymanga-v1.4.53.apk",
+    "git_url": "https://api.github.com/repos/stevenyomi/copymanga/git/blobs/2eee1fc8419ad4008444cdcaf476ff9d6fbcbc3a",
+    "download_url": "https://raw.githubusercontent.com/stevenyomi/copymanga/repo/apk/tachiyomi-zh.copymanga-v1.4.53.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevenyomi/copymanga/contents/apk/tachiyomi-zh.copymanga-v1.4.53.apk?ref=repo",
+      "git": "https://api.github.com/repos/stevenyomi/copymanga/git/blobs/2eee1fc8419ad4008444cdcaf476ff9d6fbcbc3a",
+      "html": "https://github.com/stevenyomi/copymanga/blob/repo/apk/tachiyomi-zh.copymanga-v1.4.53.apk"
+    }
+  }
+]
