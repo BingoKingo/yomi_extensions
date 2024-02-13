@@ -1,0 +1,66 @@
+[
+  {
+    "name": "tachiyomi-en.flamescansunofficial-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.flamescansunofficial-v1.4.8.apk",
+    "sha": "b7fa66c6d5296462f2fdbaf2cb45ad68b7289a38",
+    "size": 66944,
+    "url": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk/tachiyomi-en.flamescansunofficial-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/nzoba/unofficial-tachiyomi-extensions/blob/repo/apk/tachiyomi-en.flamescansunofficial-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/git/blobs/b7fa66c6d5296462f2fdbaf2cb45ad68b7289a38",
+    "download_url": "https://raw.githubusercontent.com/nzoba/unofficial-tachiyomi-extensions/repo/apk/tachiyomi-en.flamescansunofficial-v1.4.8.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk/tachiyomi-en.flamescansunofficial-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/git/blobs/b7fa66c6d5296462f2fdbaf2cb45ad68b7289a38",
+      "html": "https://github.com/nzoba/unofficial-tachiyomi-extensions/blob/repo/apk/tachiyomi-en.flamescansunofficial-v1.4.8.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.luminousscansunofficial-v1.4.15.apk",
+    "path": "apk/tachiyomi-en.luminousscansunofficial-v1.4.15.apk",
+    "sha": "c076228effd1c66ad678c32b83cceb1237425ffa",
+    "size": 76970,
+    "url": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk/tachiyomi-en.luminousscansunofficial-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/nzoba/unofficial-tachiyomi-extensions/blob/repo/apk/tachiyomi-en.luminousscansunofficial-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/git/blobs/c076228effd1c66ad678c32b83cceb1237425ffa",
+    "download_url": "https://raw.githubusercontent.com/nzoba/unofficial-tachiyomi-extensions/repo/apk/tachiyomi-en.luminousscansunofficial-v1.4.15.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk/tachiyomi-en.luminousscansunofficial-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/git/blobs/c076228effd1c66ad678c32b83cceb1237425ffa",
+      "html": "https://github.com/nzoba/unofficial-tachiyomi-extensions/blob/repo/apk/tachiyomi-en.luminousscansunofficial-v1.4.15.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.reaperscansunofficial-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.reaperscansunofficial-v1.4.8.apk",
+    "sha": "54f8c0b4257805aa86584a39ab39293c71d82063",
+    "size": 70305,
+    "url": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk/tachiyomi-en.reaperscansunofficial-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/nzoba/unofficial-tachiyomi-extensions/blob/repo/apk/tachiyomi-en.reaperscansunofficial-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/git/blobs/54f8c0b4257805aa86584a39ab39293c71d82063",
+    "download_url": "https://raw.githubusercontent.com/nzoba/unofficial-tachiyomi-extensions/repo/apk/tachiyomi-en.reaperscansunofficial-v1.4.8.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk/tachiyomi-en.reaperscansunofficial-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/git/blobs/54f8c0b4257805aa86584a39ab39293c71d82063",
+      "html": "https://github.com/nzoba/unofficial-tachiyomi-extensions/blob/repo/apk/tachiyomi-en.reaperscansunofficial-v1.4.8.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-fr.japscanunofficial-v1.4.9.apk",
+    "path": "apk/tachiyomi-fr.japscanunofficial-v1.4.9.apk",
+    "sha": "5e80c26460d0e2762536f9aae92ecf28da42d8f2",
+    "size": 174029,
+    "url": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk/tachiyomi-fr.japscanunofficial-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/nzoba/unofficial-tachiyomi-extensions/blob/repo/apk/tachiyomi-fr.japscanunofficial-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/git/blobs/5e80c26460d0e2762536f9aae92ecf28da42d8f2",
+    "download_url": "https://raw.githubusercontent.com/nzoba/unofficial-tachiyomi-extensions/repo/apk/tachiyomi-fr.japscanunofficial-v1.4.9.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk/tachiyomi-fr.japscanunofficial-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/git/blobs/5e80c26460d0e2762536f9aae92ecf28da42d8f2",
+      "html": "https://github.com/nzoba/unofficial-tachiyomi-extensions/blob/repo/apk/tachiyomi-fr.japscanunofficial-v1.4.9.apk"
+    }
+  }
+]
