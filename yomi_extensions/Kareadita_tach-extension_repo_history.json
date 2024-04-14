@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tachiyomi-all.kavita-v1.4.15.apk",
+    "path": "apk/tachiyomi-all.kavita-v1.4.15.apk",
+    "sha": "54f69711aca7ad627708a31e64ac30d09f02497a",
+    "size": 128752,
+    "url": "https://api.github.com/repos/Kareadita/tach-extension/contents/apk/tachiyomi-all.kavita-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/Kareadita/tach-extension/blob/repo/apk/tachiyomi-all.kavita-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/Kareadita/tach-extension/git/blobs/54f69711aca7ad627708a31e64ac30d09f02497a",
+    "download_url": "https://raw.githubusercontent.com/Kareadita/tach-extension/repo/apk/tachiyomi-all.kavita-v1.4.15.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Kareadita/tach-extension/contents/apk/tachiyomi-all.kavita-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/Kareadita/tach-extension/git/blobs/54f69711aca7ad627708a31e64ac30d09f02497a",
+      "html": "https://github.com/Kareadita/tach-extension/blob/repo/apk/tachiyomi-all.kavita-v1.4.15.apk"
+    }
+  }
+]
