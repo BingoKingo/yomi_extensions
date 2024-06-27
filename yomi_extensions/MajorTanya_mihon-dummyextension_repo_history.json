@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tachiyomi-all.dummyextension-v1.4.20.apk",
+    "path": "apk/tachiyomi-all.dummyextension-v1.4.20.apk",
+    "sha": "503ae3c1829048b8b72474d608f602e2e94b3459",
+    "size": 631261,
+    "url": "https://api.github.com/repos/MajorTanya/mihon-dummyextension/contents/apk/tachiyomi-all.dummyextension-v1.4.20.apk?ref=repo",
+    "html_url": "https://github.com/MajorTanya/mihon-dummyextension/blob/repo/apk/tachiyomi-all.dummyextension-v1.4.20.apk",
+    "git_url": "https://api.github.com/repos/MajorTanya/mihon-dummyextension/git/blobs/503ae3c1829048b8b72474d608f602e2e94b3459",
+    "download_url": "https://raw.githubusercontent.com/MajorTanya/mihon-dummyextension/repo/apk/tachiyomi-all.dummyextension-v1.4.20.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/MajorTanya/mihon-dummyextension/contents/apk/tachiyomi-all.dummyextension-v1.4.20.apk?ref=repo",
+      "git": "https://api.github.com/repos/MajorTanya/mihon-dummyextension/git/blobs/503ae3c1829048b8b72474d608f602e2e94b3459",
+      "html": "https://github.com/MajorTanya/mihon-dummyextension/blob/repo/apk/tachiyomi-all.dummyextension-v1.4.20.apk"
+    }
+  }
+]
