@@ -1,0 +1,146 @@
+[
+  {
+    "name": "tachiyomi-all.mangaplus-v1.4.15.apk",
+    "path": "apk/tachiyomi-all.mangaplus-v1.4.15.apk",
+    "sha": "6faefeda563d975b7d005af9a1d4ba3065759d5d",
+    "size": 123824,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-all.mangaplus-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-all.mangaplus-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/6faefeda563d975b7d005af9a1d4ba3065759d5d",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-all.mangaplus-v1.4.15.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-all.mangaplus-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/6faefeda563d975b7d005af9a1d4ba3065759d5d",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-all.mangaplus-v1.4.15.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-all.smbshare-v1.4.1.apk",
+    "path": "apk/tachiyomi-all.smbshare-v1.4.1.apk",
+    "sha": "c01a689b8303fe81b884b59a3485a3135946feae",
+    "size": 3657575,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-all.smbshare-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-all.smbshare-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/c01a689b8303fe81b884b59a3485a3135946feae",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-all.smbshare-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-all.smbshare-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/c01a689b8303fe81b884b59a3485a3135946feae",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-all.smbshare-v1.4.1.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.fakku-v1.4.1.apk",
+    "path": "apk/tachiyomi-en.fakku-v1.4.1.apk",
+    "sha": "367c045d1498a4a441a1a304f9b404fbb9e1424d",
+    "size": 59699,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-en.fakku-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-en.fakku-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/367c045d1498a4a441a1a304f9b404fbb9e1424d",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-en.fakku-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-en.fakku-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/367c045d1498a4a441a1a304f9b404fbb9e1424d",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-en.fakku-v1.4.1.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.kmanga-v1.4.1.apk",
+    "path": "apk/tachiyomi-en.kmanga-v1.4.1.apk",
+    "sha": "145b76a5f287ae31c8b92507001dd68cf7cdd52d",
+    "size": 106554,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-en.kmanga-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-en.kmanga-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/145b76a5f287ae31c8b92507001dd68cf7cdd52d",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-en.kmanga-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-en.kmanga-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/145b76a5f287ae31c8b92507001dd68cf7cdd52d",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-en.kmanga-v1.4.1.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.shonenjumpapp-v1.4.7.apk",
+    "path": "apk/tachiyomi-en.shonenjumpapp-v1.4.7.apk",
+    "sha": "eec3442efe24f3306830dd8ef8d9246d14e816c5",
+    "size": 84991,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-en.shonenjumpapp-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-en.shonenjumpapp-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/eec3442efe24f3306830dd8ef8d9246d14e816c5",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-en.shonenjumpapp-v1.4.7.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-en.shonenjumpapp-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/eec3442efe24f3306830dd8ef8d9246d14e816c5",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-en.shonenjumpapp-v1.4.7.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.vizmangaapp-v1.4.7.apk",
+    "path": "apk/tachiyomi-en.vizmangaapp-v1.4.7.apk",
+    "sha": "35d53dbcadbc693fef3a0ff6283d2a51997633cd",
+    "size": 63599,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-en.vizmangaapp-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-en.vizmangaapp-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/35d53dbcadbc693fef3a0ff6283d2a51997633cd",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-en.vizmangaapp-v1.4.7.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-en.vizmangaapp-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/35d53dbcadbc693fef3a0ff6283d2a51997633cd",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-en.vizmangaapp-v1.4.7.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-ja.mangagaugau-v1.4.1.apk",
+    "path": "apk/tachiyomi-ja.mangagaugau-v1.4.1.apk",
+    "sha": "6da74c12f963ece4a688f9cbd5af472fcbf8ce51",
+    "size": 64659,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-ja.mangagaugau-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-ja.mangagaugau-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/6da74c12f963ece4a688f9cbd5af472fcbf8ce51",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-ja.mangagaugau-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-ja.mangagaugau-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/6da74c12f963ece4a688f9cbd5af472fcbf8ce51",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-ja.mangagaugau-v1.4.1.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-ja.shonenmagazinepocket-v1.4.1.apk",
+    "path": "apk/tachiyomi-ja.shonenmagazinepocket-v1.4.1.apk",
+    "sha": "5ade855b56f8647e34a7034d578f7072f6dcfdc4",
+    "size": 106818,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-ja.shonenmagazinepocket-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-ja.shonenmagazinepocket-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/5ade855b56f8647e34a7034d578f7072f6dcfdc4",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-ja.shonenmagazinepocket-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-ja.shonenmagazinepocket-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/5ade855b56f8647e34a7034d578f7072f6dcfdc4",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-ja.shonenmagazinepocket-v1.4.1.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-vi.cuutruyen-v1.4.13.apk",
+    "path": "apk/tachiyomi-vi.cuutruyen-v1.4.13.apk",
+    "sha": "a42bbc89a4f2226fddf456b30147dd6d22264a56",
+    "size": 71185,
+    "url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-vi.cuutruyen-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-vi.cuutruyen-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/a42bbc89a4f2226fddf456b30147dd6d22264a56",
+    "download_url": "https://raw.githubusercontent.com/beer-psi/tachiyomi-unofficial-extensions/repo/apk/tachiyomi-vi.cuutruyen-v1.4.13.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk/tachiyomi-vi.cuutruyen-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/git/blobs/a42bbc89a4f2226fddf456b30147dd6d22264a56",
+      "html": "https://github.com/beer-psi/tachiyomi-unofficial-extensions/blob/repo/apk/tachiyomi-vi.cuutruyen-v1.4.13.apk"
+    }
+  }
+]
