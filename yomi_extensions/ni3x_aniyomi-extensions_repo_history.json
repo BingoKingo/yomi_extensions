@@ -1,0 +1,194 @@
+[
+  {
+    "name": "aniyomi-all.debridindex-v14.1.apk",
+    "path": "apk/aniyomi-all.debridindex-v14.1.apk",
+    "sha": "f9c6f5e98a30abf613656837ac8c4892f7bb4500",
+    "size": 48323,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.debridindex-v14.1.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.debridindex-v14.1.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/f9c6f5e98a30abf613656837ac8c4892f7bb4500",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-all.debridindex-v14.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.debridindex-v14.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/f9c6f5e98a30abf613656837ac8c4892f7bb4500",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.debridindex-v14.1.apk"
+    }
+  },
+  {
+    "name": "aniyomi-all.hentaitorrent-v14.3.apk",
+    "path": "apk/aniyomi-all.hentaitorrent-v14.3.apk",
+    "sha": "5180462007bb60b87a3815091d2a34b63c919cd1",
+    "size": 31576,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.hentaitorrent-v14.3.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.hentaitorrent-v14.3.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/5180462007bb60b87a3815091d2a34b63c919cd1",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-all.hentaitorrent-v14.3.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.hentaitorrent-v14.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/5180462007bb60b87a3815091d2a34b63c919cd1",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.hentaitorrent-v14.3.apk"
+    }
+  },
+  {
+    "name": "aniyomi-all.nyaatorrent-v14.3.apk",
+    "path": "apk/aniyomi-all.nyaatorrent-v14.3.apk",
+    "sha": "cf71de068ede8eda4a930200c0b2484b3a8fe92c",
+    "size": 44218,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.nyaatorrent-v14.3.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.nyaatorrent-v14.3.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/cf71de068ede8eda4a930200c0b2484b3a8fe92c",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-all.nyaatorrent-v14.3.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.nyaatorrent-v14.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/cf71de068ede8eda4a930200c0b2484b3a8fe92c",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.nyaatorrent-v14.3.apk"
+    }
+  },
+  {
+    "name": "aniyomi-all.ptorrent-v14.3.apk",
+    "path": "apk/aniyomi-all.ptorrent-v14.3.apk",
+    "sha": "289808c1b34cd3abf11a73b5aa2e91684ce4e8ce",
+    "size": 32825,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.ptorrent-v14.3.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.ptorrent-v14.3.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/289808c1b34cd3abf11a73b5aa2e91684ce4e8ce",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-all.ptorrent-v14.3.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.ptorrent-v14.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/289808c1b34cd3abf11a73b5aa2e91684ce4e8ce",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.ptorrent-v14.3.apk"
+    }
+  },
+  {
+    "name": "aniyomi-all.torrentio-v14.4.apk",
+    "path": "apk/aniyomi-all.torrentio-v14.4.apk",
+    "sha": "4def8039efb4ae8108e37d355f79be03db20724e",
+    "size": 75493,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.torrentio-v14.4.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.torrentio-v14.4.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/4def8039efb4ae8108e37d355f79be03db20724e",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-all.torrentio-v14.4.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.torrentio-v14.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/4def8039efb4ae8108e37d355f79be03db20724e",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.torrentio-v14.4.apk"
+    }
+  },
+  {
+    "name": "aniyomi-all.torrentioanime-v14.10.apk",
+    "path": "apk/aniyomi-all.torrentioanime-v14.10.apk",
+    "sha": "d8393ede9dab51927be7c0ed24cbd4ba8633fb80",
+    "size": 85025,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.torrentioanime-v14.10.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.torrentioanime-v14.10.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/d8393ede9dab51927be7c0ed24cbd4ba8633fb80",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-all.torrentioanime-v14.10.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-all.torrentioanime-v14.10.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/d8393ede9dab51927be7c0ed24cbd4ba8633fb80",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-all.torrentioanime-v14.10.apk"
+    }
+  },
+  {
+    "name": "aniyomi-en.hanime-v14.18.apk",
+    "path": "apk/aniyomi-en.hanime-v14.18.apk",
+    "sha": "f796c4eac128a9f659971dde6d3069700cc0a645",
+    "size": 81210,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.hanime-v14.18.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.hanime-v14.18.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/f796c4eac128a9f659971dde6d3069700cc0a645",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-en.hanime-v14.18.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.hanime-v14.18.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/f796c4eac128a9f659971dde6d3069700cc0a645",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.hanime-v14.18.apk"
+    }
+  },
+  {
+    "name": "aniyomi-en.hentaimama-v14.7.apk",
+    "path": "apk/aniyomi-en.hentaimama-v14.7.apk",
+    "sha": "365471655e9449387740556fde61179137b52575",
+    "size": 67040,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.hentaimama-v14.7.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.hentaimama-v14.7.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/365471655e9449387740556fde61179137b52575",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-en.hentaimama-v14.7.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.hentaimama-v14.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/365471655e9449387740556fde61179137b52575",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.hentaimama-v14.7.apk"
+    }
+  },
+  {
+    "name": "aniyomi-en.hstream-v14.9.apk",
+    "path": "apk/aniyomi-en.hstream-v14.9.apk",
+    "sha": "d172f4622cba33b16c5953fc07c508fa224595cf",
+    "size": 85793,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.hstream-v14.9.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.hstream-v14.9.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/d172f4622cba33b16c5953fc07c508fa224595cf",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-en.hstream-v14.9.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.hstream-v14.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/d172f4622cba33b16c5953fc07c508fa224595cf",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.hstream-v14.9.apk"
+    }
+  },
+  {
+    "name": "aniyomi-en.oppaistream-v14.7.apk",
+    "path": "apk/aniyomi-en.oppaistream-v14.7.apk",
+    "sha": "e2b275e5c0c6ca54f3d3daa124c82d2b23acdfd3",
+    "size": 69754,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.oppaistream-v14.7.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.oppaistream-v14.7.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/e2b275e5c0c6ca54f3d3daa124c82d2b23acdfd3",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-en.oppaistream-v14.7.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.oppaistream-v14.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/e2b275e5c0c6ca54f3d3daa124c82d2b23acdfd3",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.oppaistream-v14.7.apk"
+    }
+  },
+  {
+    "name": "aniyomi-en.rule34video-v14.8.apk",
+    "path": "apk/aniyomi-en.rule34video-v14.8.apk",
+    "sha": "7eddfa36d7ac5bf84931e88d64849bb941cba85c",
+    "size": 45222,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.rule34video-v14.8.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.rule34video-v14.8.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/7eddfa36d7ac5bf84931e88d64849bb941cba85c",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-en.rule34video-v14.8.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.rule34video-v14.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/7eddfa36d7ac5bf84931e88d64849bb941cba85c",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.rule34video-v14.8.apk"
+    }
+  },
+  {
+    "name": "aniyomi-en.subsplease-v14.1.apk",
+    "path": "apk/aniyomi-en.subsplease-v14.1.apk",
+    "sha": "97a64986e2ecae66cbe6fb9e635d8b910bceac78",
+    "size": 53931,
+    "url": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.subsplease-v14.1.apk?ref=repo",
+    "html_url": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.subsplease-v14.1.apk",
+    "git_url": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/97a64986e2ecae66cbe6fb9e635d8b910bceac78",
+    "download_url": "https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/apk/aniyomi-en.subsplease-v14.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk/aniyomi-en.subsplease-v14.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/ni3x/aniyomi-extensions/git/blobs/97a64986e2ecae66cbe6fb9e635d8b910bceac78",
+      "html": "https://github.com/ni3x/aniyomi-extensions/blob/repo/apk/aniyomi-en.subsplease-v14.1.apk"
+    }
+  }
+]
