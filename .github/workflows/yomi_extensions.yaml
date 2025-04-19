@@ -1,0 +1,129 @@
+name: Yomi Extensions RSS Monitor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  monitor-sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      matrix:
+        feeds:
+          - filename: "keiyoushi_extensions_repo_history.json"
+            rss_url: "https://github.com/keiyoushi/extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/keiyoushi/extensions/contents/apk?ref=repo"
+
+          - filename: "aniyomiorg_aniyomi-extensions_repo_history.json"
+            rss_url: "https://github.com/aniyomiorg/aniyomi-extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/aniyomiorg/aniyomi-extensions/contents/apk?ref=repo"
+
+          - filename: "stevenyomi_copymanga_repo_history.json"
+            rss_url: "https://github.com/stevenyomi/copymanga/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/stevenyomi/copymanga/contents/apk?ref=repo"
+
+          - filename: "HDYOU_tachi-ext_repo_history.json"
+            rss_url: "https://github.com/HDYOU/tachi-ext/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk?ref=repo"
+
+          - filename: "nzoba_unofficial-tachiyomi-extensions_repo_history.json"
+            rss_url: "https://github.com/nzoba/unofficial-tachiyomi-extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/nzoba/unofficial-tachiyomi-extensions/contents/apk?ref=repo"
+
+          - filename: "beer-psi_tachiyomi-unofficial-extensions_repo_history.json"
+            rss_url: "https://github.com/beer-psi/tachiyomi-unofficial-extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/beer-psi/tachiyomi-unofficial-extensions/contents/apk?ref=repo"
+
+          - filename: "MajorTanya_mihon-dummyextension_repo_history.json"
+            rss_url: "https://github.com/MajorTanya/mihon-dummyextension/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/MajorTanya/mihon-dummyextension/contents/apk?ref=repo"
+
+          - filename: "Sadwhy_aniyomi-extensions_repo_history.json"
+            rss_url: "https://github.com/Sadwhy/aniyomi-extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/Sadwhy/aniyomi-extensions/contents/apk?ref=repo"
+
+          - filename: "Kohi-den_extensions_main_history.json"
+            rss_url: "https://github.com/Kohi-den/extensions/commits/main/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/Kohi-den/extensions/contents/apk?ref=main"
+
+          - filename: "Suwayomi_tachiyomi-extension_repo_history.json"
+            rss_url: "https://github.com/Suwayomi/tachiyomi-extension/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/Suwayomi/tachiyomi-extension/contents/apk?ref=repo"
+
+          - filename: "Kareadita_tach-extension_repo_history.json"
+            rss_url: "https://github.com/Kareadita/tach-extension/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/Kareadita/tach-extension/contents/apk?ref=repo"
+
+          - filename: "ni3x_aniyomi-extensions_repo_history.json"
+            rss_url: "https://github.com/ni3x/aniyomi-extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/ni3x/aniyomi-extensions/contents/apk?ref=repo"
+
+          - filename: "Secozzi_aniyomi-extensions_repo_history.json"
+            rss_url: "https://github.com/Secozzi/aniyomi-extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk?ref=repo"
+
+          - filename: "Claudemirovsky_cursedyomi-extensions_repo_history.json"
+            rss_url: "https://github.com/Claudemirovsky/cursedyomi-extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/Claudemirovsky/cursedyomi-extensions/contents/apk?ref=repo"
+
+          - filename: "komikku-repo_extensions_repo_history.json"
+            rss_url: "https://github.com/komikku-repo/extensions/commits/repo/index.min.json.atom"
+            api_endpoint: "https://api.github.com/repos/komikku-repo/extensions/contents/apk?ref=repo"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup tools
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils jq
+
+      - name: Check ${{ matrix.feeds.filename }}
+        id: feed-processor
+        env:
+          RSS_URL: ${{ matrix.feeds.rss_url }}
+          FILENAME: ${{ matrix.feeds.filename }}
+          API_ENDPOINT: ${{ matrix.feeds.api_endpoint }}
+        run: |
+          last_time=$(curl -fsSL "${{ matrix.feeds.rss_url }}" | \
+          xmllint --xpath '//*[local-name()="entry"][1]/*[local-name()="updated"]/text()' - 2>/dev/null || echo "error")
+
+          last_commit_hash=$(curl -fsSL "${{ matrix.feeds.rss_url }}" | \
+          xmllint --xpath '//*[local-name()="entry"][1]/*[local-name()="id"]/text()' - 2>/dev/null | \
+          awk -F/ '{print $NF}' || echo "error")
+
+          local_last_time=$(git log -1 --format=%cd --date=iso-strict --grep="${{ matrix.feeds.filename }}" 2>/dev/null || echo "error")
+          if [[ "$local_last_time" == "$last_time" ]]; then
+            echo "status=skipped" >> $GITHUB_OUTPUT
+            exit 0
+          else
+            echo "status=success" >> $GITHUB_OUTPUT
+            echo "last_time=$last_time" >> $GITHUB_ENV
+            echo "last_commit_hash=$last_commit_hash" >> $GITHUB_ENV
+          fi
+
+      - name: Fetch ${{ matrix.feeds.filename }}
+        if: steps.feed-processor.outputs.status == 'success'
+        run: |
+          curl -fsSL "${{ matrix.feeds.api_endpoint }}" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -o "${{ matrix.feeds.filename }}"
+
+      - name: Commit changes
+        if: steps.feed-processor.outputs.status == 'success'
+        env:
+          GIT_AUTHOR_DATE: ${{ env.last_time }}
+          GIT_COMMITTER_DATE: ${{ env.last_time }}
+        run: |
+          git pull origin main --rebase --autostash
+          git config user.name "Bingo Kingo"
+          git config user.email "24961267+BingoKingo@users.noreply.github.com"
+          mkdir -p yomi_extensions
+          mv "${{ matrix.feeds.filename }}" "yomi_extensions/${{ matrix.feeds.filename }}"
+          git add "yomi_extensions/${{ matrix.feeds.filename }}"
+          git commit -m "chore(sync): Update ${{ matrix.feeds.filename }}: ${{ env.last_commit_hash }}"
+          git push origin main
