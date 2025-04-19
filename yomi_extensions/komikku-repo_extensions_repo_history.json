@@ -7792,19 +7792,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.readcomiconline-v1.4.33.apk",
-    "path": "apk/tachiyomi-en.readcomiconline-v1.4.33.apk",
-    "sha": "b3850065aaba5b64c9f365bdaf093dbb5595631e",
-    "size": 70346,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.readcomiconline-v1.4.33.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.33.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/b3850065aaba5b64c9f365bdaf093dbb5595631e",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.readcomiconline-v1.4.33.apk",
+    "name": "tachiyomi-en.readcomiconline-v1.4.34.apk",
+    "path": "apk/tachiyomi-en.readcomiconline-v1.4.34.apk",
+    "sha": "33515f6c644db8511c4615ab21a420f62e330fb6",
+    "size": 70435,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.readcomiconline-v1.4.34.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.34.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/33515f6c644db8511c4615ab21a420f62e330fb6",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.readcomiconline-v1.4.34.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.readcomiconline-v1.4.33.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/b3850065aaba5b64c9f365bdaf093dbb5595631e",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.33.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.readcomiconline-v1.4.34.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/33515f6c644db8511c4615ab21a420f62e330fb6",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.34.apk"
     }
   },
   {
