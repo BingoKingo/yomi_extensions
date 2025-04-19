@@ -7728,19 +7728,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.readcomiconline-v1.4.33.apk",
-    "path": "apk/tachiyomi-en.readcomiconline-v1.4.33.apk",
-    "sha": "f0d5924395ebb38c7fff1743f5a6a5e78b3d8901",
-    "size": 70363,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.33.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.33.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f0d5924395ebb38c7fff1743f5a6a5e78b3d8901",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.readcomiconline-v1.4.33.apk",
+    "name": "tachiyomi-en.readcomiconline-v1.4.34.apk",
+    "path": "apk/tachiyomi-en.readcomiconline-v1.4.34.apk",
+    "sha": "1d492f952d3f31f42a5f49a5859a1966e7e9904e",
+    "size": 70444,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.34.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.34.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/1d492f952d3f31f42a5f49a5859a1966e7e9904e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.readcomiconline-v1.4.34.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.33.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f0d5924395ebb38c7fff1743f5a6a5e78b3d8901",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.33.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readcomiconline-v1.4.34.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/1d492f952d3f31f42a5f49a5859a1966e7e9904e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.34.apk"
     }
   },
   {
