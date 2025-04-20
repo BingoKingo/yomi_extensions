@@ -5440,19 +5440,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangadistrict-v1.4.53.apk",
-    "path": "apk/tachiyomi-en.mangadistrict-v1.4.53.apk",
-    "sha": "7f3737758196d60e19644db20ba06799c51cef0d",
-    "size": 106730,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangadistrict-v1.4.53.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.53.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/7f3737758196d60e19644db20ba06799c51cef0d",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangadistrict-v1.4.53.apk",
+    "name": "tachiyomi-en.mangadistrict-v1.4.54.apk",
+    "path": "apk/tachiyomi-en.mangadistrict-v1.4.54.apk",
+    "sha": "9cd5e5552b79601cd03f3980643dd1d9eb45974f",
+    "size": 106733,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangadistrict-v1.4.54.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.54.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/9cd5e5552b79601cd03f3980643dd1d9eb45974f",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangadistrict-v1.4.54.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangadistrict-v1.4.53.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/7f3737758196d60e19644db20ba06799c51cef0d",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.53.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangadistrict-v1.4.54.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/9cd5e5552b79601cd03f3980643dd1d9eb45974f",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.54.apk"
     }
   },
   {
