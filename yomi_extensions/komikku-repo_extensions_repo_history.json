@@ -800,19 +800,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.kdtscans-v1.4.43.apk",
-    "path": "apk/tachiyomi-all.kdtscans-v1.4.43.apk",
-    "sha": "39c43df1352b8189c8290be5201c6a0755a572f8",
-    "size": 79736,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.kdtscans-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.kdtscans-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/39c43df1352b8189c8290be5201c6a0755a572f8",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-all.kdtscans-v1.4.43.apk",
+    "name": "tachiyomi-all.kdtscans-v1.4.44.apk",
+    "path": "apk/tachiyomi-all.kdtscans-v1.4.44.apk",
+    "sha": "c5a929a00708ca8f008c7f6d5f8976d1e86ecc4f",
+    "size": 79778,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.kdtscans-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.kdtscans-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/c5a929a00708ca8f008c7f6d5f8976d1e86ecc4f",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-all.kdtscans-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.kdtscans-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/39c43df1352b8189c8290be5201c6a0755a572f8",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.kdtscans-v1.4.43.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.kdtscans-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/c5a929a00708ca8f008c7f6d5f8976d1e86ecc4f",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.kdtscans-v1.4.44.apk"
     }
   },
   {
@@ -8784,19 +8784,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.toonily-v1.4.54.apk",
-    "path": "apk/tachiyomi-en.toonily-v1.4.54.apk",
-    "sha": "d94d3e697ebea4422c4fa8b494e911503f940519",
-    "size": 74021,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.toonily-v1.4.54.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.toonily-v1.4.54.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/d94d3e697ebea4422c4fa8b494e911503f940519",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.toonily-v1.4.54.apk",
+    "name": "tachiyomi-en.toonily-v1.4.55.apk",
+    "path": "apk/tachiyomi-en.toonily-v1.4.55.apk",
+    "sha": "877df66cf4ad60aff8c0fa4a96db1f1e964c2f5b",
+    "size": 74375,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.toonily-v1.4.55.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.toonily-v1.4.55.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/877df66cf4ad60aff8c0fa4a96db1f1e964c2f5b",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.toonily-v1.4.55.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.toonily-v1.4.54.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/d94d3e697ebea4422c4fa8b494e911503f940519",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.toonily-v1.4.54.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.toonily-v1.4.55.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/877df66cf4ad60aff8c0fa4a96db1f1e964c2f5b",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.toonily-v1.4.55.apk"
     }
   },
   {
