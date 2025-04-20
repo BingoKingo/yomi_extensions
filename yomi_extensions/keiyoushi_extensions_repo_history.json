@@ -752,19 +752,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.kdtscans-v1.4.43.apk",
-    "path": "apk/tachiyomi-all.kdtscans-v1.4.43.apk",
-    "sha": "edcb04961b7097f033a86e2ae04f757c1718e8c6",
-    "size": 79759,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kdtscans-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kdtscans-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/edcb04961b7097f033a86e2ae04f757c1718e8c6",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.kdtscans-v1.4.43.apk",
+    "name": "tachiyomi-all.kdtscans-v1.4.44.apk",
+    "path": "apk/tachiyomi-all.kdtscans-v1.4.44.apk",
+    "sha": "0d9ecabf9aa929f4e9284d603e28b7be962b7210",
+    "size": 79801,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kdtscans-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kdtscans-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0d9ecabf9aa929f4e9284d603e28b7be962b7210",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.kdtscans-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kdtscans-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/edcb04961b7097f033a86e2ae04f757c1718e8c6",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kdtscans-v1.4.43.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kdtscans-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0d9ecabf9aa929f4e9284d603e28b7be962b7210",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kdtscans-v1.4.44.apk"
     }
   },
   {
@@ -8720,19 +8720,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.toonily-v1.4.54.apk",
-    "path": "apk/tachiyomi-en.toonily-v1.4.54.apk",
-    "sha": "4475018465da57f8950e50825db081e81bc70421",
-    "size": 74056,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.toonily-v1.4.54.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.toonily-v1.4.54.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4475018465da57f8950e50825db081e81bc70421",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.toonily-v1.4.54.apk",
+    "name": "tachiyomi-en.toonily-v1.4.55.apk",
+    "path": "apk/tachiyomi-en.toonily-v1.4.55.apk",
+    "sha": "06dde9fbe3e0418d597e26167881192e546e45c0",
+    "size": 74392,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.toonily-v1.4.55.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.toonily-v1.4.55.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/06dde9fbe3e0418d597e26167881192e546e45c0",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.toonily-v1.4.55.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.toonily-v1.4.54.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4475018465da57f8950e50825db081e81bc70421",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.toonily-v1.4.54.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.toonily-v1.4.55.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/06dde9fbe3e0418d597e26167881192e546e45c0",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.toonily-v1.4.55.apk"
     }
   },
   {
