@@ -5376,19 +5376,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangadistrict-v1.4.52.apk",
-    "path": "apk/tachiyomi-en.mangadistrict-v1.4.52.apk",
-    "sha": "a8981904628fdd4279703a9f9aebe1c122cbc929",
-    "size": 106659,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangadistrict-v1.4.52.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.52.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a8981904628fdd4279703a9f9aebe1c122cbc929",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangadistrict-v1.4.52.apk",
+    "name": "tachiyomi-en.mangadistrict-v1.4.53.apk",
+    "path": "apk/tachiyomi-en.mangadistrict-v1.4.53.apk",
+    "sha": "30ee69c28b00460084acc6aee50cc1b50d9cd6cd",
+    "size": 106638,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangadistrict-v1.4.53.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.53.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/30ee69c28b00460084acc6aee50cc1b50d9cd6cd",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangadistrict-v1.4.53.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangadistrict-v1.4.52.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a8981904628fdd4279703a9f9aebe1c122cbc929",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.52.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangadistrict-v1.4.53.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/30ee69c28b00460084acc6aee50cc1b50d9cd6cd",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.53.apk"
     }
   },
   {
