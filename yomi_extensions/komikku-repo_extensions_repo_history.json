@@ -1808,19 +1808,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.webtoons-v1.4.44.apk",
-    "path": "apk/tachiyomi-all.webtoons-v1.4.44.apk",
-    "sha": "4a68045b473126feeca2bd877fa183d25095974f",
-    "size": 76988,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.webtoons-v1.4.44.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.webtoons-v1.4.44.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/4a68045b473126feeca2bd877fa183d25095974f",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-all.webtoons-v1.4.44.apk",
+    "name": "tachiyomi-all.webtoons-v1.4.45.apk",
+    "path": "apk/tachiyomi-all.webtoons-v1.4.45.apk",
+    "sha": "f6a4240ddc0b1a502bd216d7f4d3c58dd01a4531",
+    "size": 77480,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.webtoons-v1.4.45.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.webtoons-v1.4.45.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/f6a4240ddc0b1a502bd216d7f4d3c58dd01a4531",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-all.webtoons-v1.4.45.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.webtoons-v1.4.44.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/4a68045b473126feeca2bd877fa183d25095974f",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.webtoons-v1.4.44.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.webtoons-v1.4.45.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/f6a4240ddc0b1a502bd216d7f4d3c58dd01a4531",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.webtoons-v1.4.45.apk"
     }
   },
   {
@@ -8640,19 +8640,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.tcbscans-v1.4.10.apk",
-    "path": "apk/tachiyomi-en.tcbscans-v1.4.10.apk",
-    "sha": "9d84fc10e9f76277620857c6350abe22193b704c",
-    "size": 37736,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.tcbscans-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.tcbscans-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/9d84fc10e9f76277620857c6350abe22193b704c",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.tcbscans-v1.4.10.apk",
+    "name": "tachiyomi-en.tcbscans-v1.4.11.apk",
+    "path": "apk/tachiyomi-en.tcbscans-v1.4.11.apk",
+    "sha": "d4e0dac7ddf683f82bcd01509f8a92919107b62d",
+    "size": 37746,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.tcbscans-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.tcbscans-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/d4e0dac7ddf683f82bcd01509f8a92919107b62d",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.tcbscans-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.tcbscans-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/9d84fc10e9f76277620857c6350abe22193b704c",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.tcbscans-v1.4.10.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.tcbscans-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/d4e0dac7ddf683f82bcd01509f8a92919107b62d",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.tcbscans-v1.4.11.apk"
     }
   },
   {
