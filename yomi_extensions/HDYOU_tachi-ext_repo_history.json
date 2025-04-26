@@ -496,19 +496,19 @@
     }
   },
   {
-    "name": "tachiyomi-zh.mangalegado.khd4-v1.4.1739954726-debug.apk",
-    "path": "apk/tachiyomi-zh.mangalegado.khd4-v1.4.1739954726-debug.apk",
-    "sha": "b6b84aed71050d5c1d05eb49db28f233275b1602",
-    "size": 16290,
-    "url": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1739954726-debug.apk?ref=repo",
-    "html_url": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1739954726-debug.apk",
-    "git_url": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/b6b84aed71050d5c1d05eb49db28f233275b1602",
-    "download_url": "https://raw.githubusercontent.com/HDYOU/tachi-ext/repo/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1739954726-debug.apk",
+    "name": "tachiyomi-zh.mangalegado.khd4-v1.4.1745662526-debug.apk",
+    "path": "apk/tachiyomi-zh.mangalegado.khd4-v1.4.1745662526-debug.apk",
+    "sha": "4f3791884b99a12b224e9b3a2394e2e7e940496f",
+    "size": 16360,
+    "url": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1745662526-debug.apk?ref=repo",
+    "html_url": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1745662526-debug.apk",
+    "git_url": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/4f3791884b99a12b224e9b3a2394e2e7e940496f",
+    "download_url": "https://raw.githubusercontent.com/HDYOU/tachi-ext/repo/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1745662526-debug.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1739954726-debug.apk?ref=repo",
-      "git": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/b6b84aed71050d5c1d05eb49db28f233275b1602",
-      "html": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1739954726-debug.apk"
+      "self": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1745662526-debug.apk?ref=repo",
+      "git": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/4f3791884b99a12b224e9b3a2394e2e7e940496f",
+      "html": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.khd4-v1.4.1745662526-debug.apk"
     }
   },
   {
