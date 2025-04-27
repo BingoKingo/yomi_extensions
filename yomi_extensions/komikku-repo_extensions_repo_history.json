@@ -384,19 +384,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.eternalmangas-v1.4.6.apk",
-    "path": "apk/tachiyomi-all.eternalmangas-v1.4.6.apk",
-    "sha": "fb7743fe74b696f51aeb595f4dbcb9085f9a3197",
-    "size": 117027,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.eternalmangas-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.eternalmangas-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/fb7743fe74b696f51aeb595f4dbcb9085f9a3197",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-all.eternalmangas-v1.4.6.apk",
+    "name": "tachiyomi-all.eternalmangas-v1.4.7.apk",
+    "path": "apk/tachiyomi-all.eternalmangas-v1.4.7.apk",
+    "sha": "ddd2249b650f8d96aa44d9fda0a10da5aff671b7",
+    "size": 116695,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.eternalmangas-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.eternalmangas-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/ddd2249b650f8d96aa44d9fda0a10da5aff671b7",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-all.eternalmangas-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.eternalmangas-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/fb7743fe74b696f51aeb595f4dbcb9085f9a3197",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.eternalmangas-v1.4.6.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.eternalmangas-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/ddd2249b650f8d96aa44d9fda0a10da5aff671b7",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.eternalmangas-v1.4.7.apk"
     }
   },
   {
@@ -509,6 +509,22 @@
       "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.galaxy-v1.4.5.apk?ref=repo",
       "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/08af3e76dd82964efcd6362719d71d362f70b3ab",
       "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.galaxy-v1.4.5.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-all.globalcomix-v1.4.1.apk",
+    "path": "apk/tachiyomi-all.globalcomix-v1.4.1.apk",
+    "sha": "ee760af52d594e8ed8fb0ca4ef8f835fd9b7cb10",
+    "size": 73935,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.globalcomix-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.globalcomix-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/ee760af52d594e8ed8fb0ca4ef8f835fd9b7cb10",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-all.globalcomix-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-all.globalcomix-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/ee760af52d594e8ed8fb0ca4ef8f835fd9b7cb10",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-all.globalcomix-v1.4.1.apk"
     }
   },
   {
@@ -2656,19 +2672,19 @@
     }
   },
   {
-    "name": "tachiyomi-ar.teamx-v1.4.21.apk",
-    "path": "apk/tachiyomi-ar.teamx-v1.4.21.apk",
-    "sha": "e3d31dde54910657f4b35065fef4a79c963d4c1f",
-    "size": 43807,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-ar.teamx-v1.4.21.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.21.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e3d31dde54910657f4b35065fef4a79c963d4c1f",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-ar.teamx-v1.4.21.apk",
+    "name": "tachiyomi-ar.teamx-v1.4.22.apk",
+    "path": "apk/tachiyomi-ar.teamx-v1.4.22.apk",
+    "sha": "8844c2b57c4b59a90b979742fdbe8660dde48b51",
+    "size": 43833,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-ar.teamx-v1.4.22.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.22.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/8844c2b57c4b59a90b979742fdbe8660dde48b51",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-ar.teamx-v1.4.22.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-ar.teamx-v1.4.21.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e3d31dde54910657f4b35065fef4a79c963d4c1f",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.21.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-ar.teamx-v1.4.22.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/8844c2b57c4b59a90b979742fdbe8660dde48b51",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-ar.teamx-v1.4.22.apk"
     }
   },
   {
@@ -5152,19 +5168,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.lunarscans-v1.4.33.apk",
-    "path": "apk/tachiyomi-en.lunarscans-v1.4.33.apk",
-    "sha": "9213cb517e1738960311030e11096752337bd03e",
-    "size": 78564,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.lunarscans-v1.4.33.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.lunarscans-v1.4.33.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/9213cb517e1738960311030e11096752337bd03e",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.lunarscans-v1.4.33.apk",
+    "name": "tachiyomi-en.lunarscans-v1.4.34.apk",
+    "path": "apk/tachiyomi-en.lunarscans-v1.4.34.apk",
+    "sha": "1468996856e8f6a67e7d4a15f21a840b8dd487df",
+    "size": 75808,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.lunarscans-v1.4.34.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.lunarscans-v1.4.34.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/1468996856e8f6a67e7d4a15f21a840b8dd487df",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.lunarscans-v1.4.34.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.lunarscans-v1.4.33.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/9213cb517e1738960311030e11096752337bd03e",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.lunarscans-v1.4.33.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.lunarscans-v1.4.34.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/1468996856e8f6a67e7d4a15f21a840b8dd487df",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.lunarscans-v1.4.34.apk"
     }
   },
   {
@@ -5568,19 +5584,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangafoxfun-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.mangafoxfun-v1.4.32.apk",
-    "sha": "c57c820d2fad19f5524dafdb33d0e66c6dfdddb6",
-    "size": 81108,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangafoxfun-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangafoxfun-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/c57c820d2fad19f5524dafdb33d0e66c6dfdddb6",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangafoxfun-v1.4.32.apk",
+    "name": "tachiyomi-en.mangafoxfun-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.mangafoxfun-v1.4.33.apk",
+    "sha": "25162e349fba17396d7a088138595c4f9de30ab1",
+    "size": 155930,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangafoxfun-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangafoxfun-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/25162e349fba17396d7a088138595c4f9de30ab1",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangafoxfun-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangafoxfun-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/c57c820d2fad19f5524dafdb33d0e66c6dfdddb6",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangafoxfun-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangafoxfun-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/25162e349fba17396d7a088138595c4f9de30ab1",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangafoxfun-v1.4.33.apk"
     }
   },
   {
@@ -5728,35 +5744,35 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangahereonl-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.mangahereonl-v1.4.32.apk",
-    "sha": "82e40ecb7ed14fb64b7968f4d18d84ca1831f1c6",
-    "size": 81122,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangahereonl-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangahereonl-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/82e40ecb7ed14fb64b7968f4d18d84ca1831f1c6",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangahereonl-v1.4.32.apk",
+    "name": "tachiyomi-en.mangahereonl-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.mangahereonl-v1.4.33.apk",
+    "sha": "533230f8a258129eb4b7d96c25e12d247fc49bf3",
+    "size": 155929,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangahereonl-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangahereonl-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/533230f8a258129eb4b7d96c25e12d247fc49bf3",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangahereonl-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangahereonl-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/82e40ecb7ed14fb64b7968f4d18d84ca1831f1c6",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangahereonl-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangahereonl-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/533230f8a258129eb4b7d96c25e12d247fc49bf3",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangahereonl-v1.4.33.apk"
     }
   },
   {
-    "name": "tachiyomi-en.mangahubio-v1.4.42.apk",
-    "path": "apk/tachiyomi-en.mangahubio-v1.4.42.apk",
-    "sha": "e06903ba1c20b4ddea9f3f75ab74f29ff97a6891",
-    "size": 85012,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangahubio-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangahubio-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e06903ba1c20b4ddea9f3f75ab74f29ff97a6891",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangahubio-v1.4.42.apk",
+    "name": "tachiyomi-en.mangahubio-v1.4.43.apk",
+    "path": "apk/tachiyomi-en.mangahubio-v1.4.43.apk",
+    "sha": "c9d34b8f54bedb4537f772461b174ce6b8209ac2",
+    "size": 159799,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangahubio-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangahubio-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/c9d34b8f54bedb4537f772461b174ce6b8209ac2",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangahubio-v1.4.43.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangahubio-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e06903ba1c20b4ddea9f3f75ab74f29ff97a6891",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangahubio-v1.4.42.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangahubio-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/c9d34b8f54bedb4537f772461b174ce6b8209ac2",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangahubio-v1.4.43.apk"
     }
   },
   {
@@ -5776,19 +5792,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangakakalotfun-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.mangakakalotfun-v1.4.32.apk",
-    "sha": "e31f8aded0225843e265f086bc471b2fce3b1336",
-    "size": 81128,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangakakalotfun-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangakakalotfun-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e31f8aded0225843e265f086bc471b2fce3b1336",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangakakalotfun-v1.4.32.apk",
+    "name": "tachiyomi-en.mangakakalotfun-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.mangakakalotfun-v1.4.33.apk",
+    "sha": "e369f414eb1dc15431831df191ee47f2e554ed0d",
+    "size": 155925,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangakakalotfun-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangakakalotfun-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e369f414eb1dc15431831df191ee47f2e554ed0d",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangakakalotfun-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangakakalotfun-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e31f8aded0225843e265f086bc471b2fce3b1336",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangakakalotfun-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangakakalotfun-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e369f414eb1dc15431831df191ee47f2e554ed0d",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangakakalotfun-v1.4.33.apk"
     }
   },
   {
@@ -5904,19 +5920,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.manganel-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.manganel-v1.4.32.apk",
-    "sha": "0634b0fa57d28cd93c7d8a41a10e16ef37704a22",
-    "size": 81106,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.manganel-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.manganel-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/0634b0fa57d28cd93c7d8a41a10e16ef37704a22",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.manganel-v1.4.32.apk",
+    "name": "tachiyomi-en.manganel-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.manganel-v1.4.33.apk",
+    "sha": "6f77702fd685fcc44ff7e2fe60e5a7528a55c7a9",
+    "size": 155891,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.manganel-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.manganel-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/6f77702fd685fcc44ff7e2fe60e5a7528a55c7a9",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.manganel-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.manganel-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/0634b0fa57d28cd93c7d8a41a10e16ef37704a22",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.manganel-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.manganel-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/6f77702fd685fcc44ff7e2fe60e5a7528a55c7a9",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.manganel-v1.4.33.apk"
     }
   },
   {
@@ -5952,19 +5968,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangaonlinefun-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.mangaonlinefun-v1.4.32.apk",
-    "sha": "e4cd7b57055ac875af73adcb369c3430a5eb8f5a",
-    "size": 81132,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangaonlinefun-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangaonlinefun-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e4cd7b57055ac875af73adcb369c3430a5eb8f5a",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangaonlinefun-v1.4.32.apk",
+    "name": "tachiyomi-en.mangaonlinefun-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.mangaonlinefun-v1.4.33.apk",
+    "sha": "138a2a55e20974180fa8ddf0eb0af32b36c3073a",
+    "size": 155914,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangaonlinefun-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangaonlinefun-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/138a2a55e20974180fa8ddf0eb0af32b36c3073a",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangaonlinefun-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangaonlinefun-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/e4cd7b57055ac875af73adcb369c3430a5eb8f5a",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangaonlinefun-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangaonlinefun-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/138a2a55e20974180fa8ddf0eb0af32b36c3073a",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangaonlinefun-v1.4.33.apk"
     }
   },
   {
@@ -6000,19 +6016,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangapandaonl-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.mangapandaonl-v1.4.32.apk",
-    "sha": "ae705ec829c9c2e687f62d48a30c0ebf6fe1213b",
-    "size": 82558,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangapandaonl-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangapandaonl-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/ae705ec829c9c2e687f62d48a30c0ebf6fe1213b",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangapandaonl-v1.4.32.apk",
+    "name": "tachiyomi-en.mangapandaonl-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.mangapandaonl-v1.4.33.apk",
+    "sha": "c0691f8746f6f291dbec785a5547264e991a0865",
+    "size": 157365,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangapandaonl-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangapandaonl-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/c0691f8746f6f291dbec785a5547264e991a0865",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangapandaonl-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangapandaonl-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/ae705ec829c9c2e687f62d48a30c0ebf6fe1213b",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangapandaonl-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangapandaonl-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/c0691f8746f6f291dbec785a5547264e991a0865",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangapandaonl-v1.4.33.apk"
     }
   },
   {
@@ -6128,19 +6144,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangareadersite-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.mangareadersite-v1.4.32.apk",
-    "sha": "8de22a6de486aa8848abe2a68f135546dd08fb16",
-    "size": 77544,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangareadersite-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangareadersite-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/8de22a6de486aa8848abe2a68f135546dd08fb16",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangareadersite-v1.4.32.apk",
+    "name": "tachiyomi-en.mangareadersite-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.mangareadersite-v1.4.33.apk",
+    "sha": "04739e19983bb9dc66a6b83949e6d67cd819d93f",
+    "size": 152329,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangareadersite-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangareadersite-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/04739e19983bb9dc66a6b83949e6d67cd819d93f",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangareadersite-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangareadersite-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/8de22a6de486aa8848abe2a68f135546dd08fb16",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangareadersite-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangareadersite-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/04739e19983bb9dc66a6b83949e6d67cd819d93f",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangareadersite-v1.4.33.apk"
     }
   },
   {
@@ -6272,19 +6288,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangatoday-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.mangatoday-v1.4.32.apk",
-    "sha": "fee24e06d9c21bf4a57c6b58c2e4f33564512b0b",
-    "size": 81101,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangatoday-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangatoday-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/fee24e06d9c21bf4a57c6b58c2e4f33564512b0b",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangatoday-v1.4.32.apk",
+    "name": "tachiyomi-en.mangatoday-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.mangatoday-v1.4.33.apk",
+    "sha": "8d46bba89dee5099eda8620f91a9bb253d549d5d",
+    "size": 155905,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangatoday-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangatoday-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/8d46bba89dee5099eda8620f91a9bb253d549d5d",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangatoday-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangatoday-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/fee24e06d9c21bf4a57c6b58c2e4f33564512b0b",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangatoday-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangatoday-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/8d46bba89dee5099eda8620f91a9bb253d549d5d",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangatoday-v1.4.33.apk"
     }
   },
   {
@@ -6320,19 +6336,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangatown-v1.4.7.apk",
-    "path": "apk/tachiyomi-en.mangatown-v1.4.7.apk",
-    "sha": "b828e13a54ab91eb54e1bbf90eed6a23d463481f",
-    "size": 51641,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangatown-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangatown-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/b828e13a54ab91eb54e1bbf90eed6a23d463481f",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangatown-v1.4.7.apk",
+    "name": "tachiyomi-en.mangatown-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.mangatown-v1.4.8.apk",
+    "sha": "8f5b1e519c95abb111d7a8fe26a2de6556f653a2",
+    "size": 51752,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangatown-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangatown-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/8f5b1e519c95abb111d7a8fe26a2de6556f653a2",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.mangatown-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangatown-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/b828e13a54ab91eb54e1bbf90eed6a23d463481f",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangatown-v1.4.7.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.mangatown-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/8f5b1e519c95abb111d7a8fe26a2de6556f653a2",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.mangatown-v1.4.8.apk"
     }
   },
   {
@@ -7424,35 +7440,35 @@
     }
   },
   {
-    "name": "tachiyomi-en.onemangaco-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.onemangaco-v1.4.32.apk",
-    "sha": "433c8d5b23f1d49dbd0fd0060bb7f2da83bd37da",
-    "size": 81117,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.onemangaco-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.onemangaco-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/433c8d5b23f1d49dbd0fd0060bb7f2da83bd37da",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.onemangaco-v1.4.32.apk",
+    "name": "tachiyomi-en.onemangaco-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.onemangaco-v1.4.33.apk",
+    "sha": "ee609a01edb5b7054e529bcabe629f2e9057405b",
+    "size": 155910,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.onemangaco-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.onemangaco-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/ee609a01edb5b7054e529bcabe629f2e9057405b",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.onemangaco-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.onemangaco-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/433c8d5b23f1d49dbd0fd0060bb7f2da83bd37da",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.onemangaco-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.onemangaco-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/ee609a01edb5b7054e529bcabe629f2e9057405b",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.onemangaco-v1.4.33.apk"
     }
   },
   {
-    "name": "tachiyomi-en.onemangainfo-v1.4.32.apk",
-    "path": "apk/tachiyomi-en.onemangainfo-v1.4.32.apk",
-    "sha": "9d10b79eda5c520e546f7f93eed14055550b5c32",
-    "size": 81121,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.onemangainfo-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.onemangainfo-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/9d10b79eda5c520e546f7f93eed14055550b5c32",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.onemangainfo-v1.4.32.apk",
+    "name": "tachiyomi-en.onemangainfo-v1.4.33.apk",
+    "path": "apk/tachiyomi-en.onemangainfo-v1.4.33.apk",
+    "sha": "2c5737d046fde3021ec01d16aa6dd4f4bd666880",
+    "size": 155915,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.onemangainfo-v1.4.33.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.onemangainfo-v1.4.33.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/2c5737d046fde3021ec01d16aa6dd4f4bd666880",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.onemangainfo-v1.4.33.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.onemangainfo-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/9d10b79eda5c520e546f7f93eed14055550b5c32",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.onemangainfo-v1.4.32.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.onemangainfo-v1.4.33.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/2c5737d046fde3021ec01d16aa6dd4f4bd666880",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.onemangainfo-v1.4.33.apk"
     }
   },
   {
@@ -9248,19 +9264,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.xoxocomics-v1.4.10.apk",
-    "path": "apk/tachiyomi-en.xoxocomics-v1.4.10.apk",
-    "sha": "64f2d5ebb50d3931e11b9d8a34b9f51b3ec1bafb",
-    "size": 60380,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.xoxocomics-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.xoxocomics-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/64f2d5ebb50d3931e11b9d8a34b9f51b3ec1bafb",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.xoxocomics-v1.4.10.apk",
+    "name": "tachiyomi-en.xoxocomics-v1.4.11.apk",
+    "path": "apk/tachiyomi-en.xoxocomics-v1.4.11.apk",
+    "sha": "05b49bc731a369b4d53a58e64e9a8a16fb9c4fc5",
+    "size": 60397,
+    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.xoxocomics-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.xoxocomics-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/05b49bc731a369b4d53a58e64e9a8a16fb9c4fc5",
+    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-en.xoxocomics-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.xoxocomics-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/64f2d5ebb50d3931e11b9d8a34b9f51b3ec1bafb",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.xoxocomics-v1.4.10.apk"
+      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-en.xoxocomics-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/05b49bc731a369b4d53a58e64e9a8a16fb9c4fc5",
+      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-en.xoxocomics-v1.4.11.apk"
     }
   },
   {
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-pt.safirescan-v1.4.10.apk?ref=repo",
       "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/522e307f22fcc58c650989d25dace366a8bc4f62",
       "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-pt.safirescan-v1.4.10.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.saikaiscan-v1.4.11.apk",
-    "path": "apk/tachiyomi-pt.saikaiscan-v1.4.11.apk",
-    "sha": "73f2be1b1e1a7e38344fea662f35948587882f13",
-    "size": 67370,
-    "url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/73f2be1b1e1a7e38344fea662f35948587882f13",
-    "download_url": "https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/zosetsu-repo/tachi-repo/contents/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/zosetsu-repo/tachi-repo/git/blobs/73f2be1b1e1a7e38344fea662f35948587882f13",
-      "html": "https://github.com/zosetsu-repo/tachi-repo/blob/repo/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk"
     }
   }
 ]
