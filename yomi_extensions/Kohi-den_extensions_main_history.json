@@ -880,19 +880,19 @@
     }
   },
   {
-    "name": "aniyomi-en.aniplay-v14.21.apk",
-    "path": "apk/aniyomi-en.aniplay-v14.21.apk",
-    "sha": "db1f4903cb1b6704c42fc137646a4b35e10e5033",
-    "size": 102762,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.aniplay-v14.21.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.aniplay-v14.21.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/db1f4903cb1b6704c42fc137646a4b35e10e5033",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.aniplay-v14.21.apk",
+    "name": "aniyomi-en.aniplay-v14.22.apk",
+    "path": "apk/aniyomi-en.aniplay-v14.22.apk",
+    "sha": "1b91ccef20d46dcb0b24a9eeee99f736c8213061",
+    "size": 102775,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.aniplay-v14.22.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.aniplay-v14.22.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/1b91ccef20d46dcb0b24a9eeee99f736c8213061",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.aniplay-v14.22.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.aniplay-v14.21.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/db1f4903cb1b6704c42fc137646a4b35e10e5033",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.aniplay-v14.21.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.aniplay-v14.22.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/1b91ccef20d46dcb0b24a9eeee99f736c8213061",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.aniplay-v14.22.apk"
     }
   },
   {
@@ -1040,19 +1040,19 @@
     }
   },
   {
-    "name": "aniyomi-en.kaido-v14.13.apk",
-    "path": "apk/aniyomi-en.kaido-v14.13.apk",
-    "sha": "b09c5b92dcd952852088da3a8367e057d2eb6fc7",
-    "size": 161319,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.kaido-v14.13.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.kaido-v14.13.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b09c5b92dcd952852088da3a8367e057d2eb6fc7",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.kaido-v14.13.apk",
+    "name": "aniyomi-en.kaido-v14.14.apk",
+    "path": "apk/aniyomi-en.kaido-v14.14.apk",
+    "sha": "b21dbd9eb23ba648cb13873afc27e41668a9bf15",
+    "size": 161324,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.kaido-v14.14.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.kaido-v14.14.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b21dbd9eb23ba648cb13873afc27e41668a9bf15",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.kaido-v14.14.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.kaido-v14.13.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b09c5b92dcd952852088da3a8367e057d2eb6fc7",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.kaido-v14.13.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.kaido-v14.14.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b21dbd9eb23ba648cb13873afc27e41668a9bf15",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.kaido-v14.14.apk"
     }
   },
   {
@@ -1408,19 +1408,19 @@
     }
   },
   {
-    "name": "aniyomi-en.zoro-v14.55.apk",
-    "path": "apk/aniyomi-en.zoro-v14.55.apk",
-    "sha": "91ab0e05690ff9453e530b716bb1473f47803ad0",
-    "size": 162011,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.zoro-v14.55.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.zoro-v14.55.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/91ab0e05690ff9453e530b716bb1473f47803ad0",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.zoro-v14.55.apk",
+    "name": "aniyomi-en.zoro-v14.56.apk",
+    "path": "apk/aniyomi-en.zoro-v14.56.apk",
+    "sha": "8c8135cedf6390bd4d77b54758c5e081a09b80b6",
+    "size": 162014,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.zoro-v14.56.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.zoro-v14.56.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/8c8135cedf6390bd4d77b54758c5e081a09b80b6",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.zoro-v14.56.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.zoro-v14.55.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/91ab0e05690ff9453e530b716bb1473f47803ad0",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.zoro-v14.55.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.zoro-v14.56.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/8c8135cedf6390bd4d77b54758c5e081a09b80b6",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.zoro-v14.56.apk"
     }
   },
   {
