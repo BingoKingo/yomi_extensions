@@ -832,19 +832,19 @@
     }
   },
   {
-    "name": "aniyomi-en.animepahe-v14.30.apk",
-    "path": "apk/aniyomi-en.animepahe-v14.30.apk",
-    "sha": "6d8d1cdc780953877e34ea3ee9ced6048b3cd9eb",
-    "size": 645636,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.animepahe-v14.30.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.animepahe-v14.30.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/6d8d1cdc780953877e34ea3ee9ced6048b3cd9eb",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.animepahe-v14.30.apk",
+    "name": "aniyomi-en.animepahe-v14.31.apk",
+    "path": "apk/aniyomi-en.animepahe-v14.31.apk",
+    "sha": "ac26ebf1fb39fec0210eec744e16ebd27c3f3143",
+    "size": 645666,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.animepahe-v14.31.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.animepahe-v14.31.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ac26ebf1fb39fec0210eec744e16ebd27c3f3143",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.animepahe-v14.31.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.animepahe-v14.30.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/6d8d1cdc780953877e34ea3ee9ced6048b3cd9eb",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.animepahe-v14.30.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.animepahe-v14.31.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ac26ebf1fb39fec0210eec744e16ebd27c3f3143",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.animepahe-v14.31.apk"
     }
   },
   {
