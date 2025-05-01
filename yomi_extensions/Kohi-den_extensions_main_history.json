@@ -608,19 +608,19 @@
     }
   },
   {
-    "name": "aniyomi-de.cinemathek-v14.27.apk",
-    "path": "apk/aniyomi-de.cinemathek-v14.27.apk",
-    "sha": "9067b5f868fbd04c8d24425f89f64a9ad730fef2",
-    "size": 71724,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-de.cinemathek-v14.27.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-de.cinemathek-v14.27.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/9067b5f868fbd04c8d24425f89f64a9ad730fef2",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-de.cinemathek-v14.27.apk",
+    "name": "aniyomi-de.cinemathek-v14.28.apk",
+    "path": "apk/aniyomi-de.cinemathek-v14.28.apk",
+    "sha": "f70564b7da27f0edb3426f0182185c4545c62039",
+    "size": 71716,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-de.cinemathek-v14.28.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-de.cinemathek-v14.28.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/f70564b7da27f0edb3426f0182185c4545c62039",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-de.cinemathek-v14.28.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-de.cinemathek-v14.27.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/9067b5f868fbd04c8d24425f89f64a9ad730fef2",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-de.cinemathek-v14.27.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-de.cinemathek-v14.28.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/f70564b7da27f0edb3426f0182185c4545c62039",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-de.cinemathek-v14.28.apk"
     }
   },
   {
@@ -656,19 +656,19 @@
     }
   },
   {
-    "name": "aniyomi-de.kinoking-v14.25.apk",
-    "path": "apk/aniyomi-de.kinoking-v14.25.apk",
-    "sha": "fe228f9600ad77773e138adbd37d1fad91bd5ba4",
-    "size": 64581,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-de.kinoking-v14.25.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-de.kinoking-v14.25.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/fe228f9600ad77773e138adbd37d1fad91bd5ba4",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-de.kinoking-v14.25.apk",
+    "name": "aniyomi-de.kinoking-v14.26.apk",
+    "path": "apk/aniyomi-de.kinoking-v14.26.apk",
+    "sha": "eba1d2cb438d859c7072317cf2d150680ec047a1",
+    "size": 64602,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-de.kinoking-v14.26.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-de.kinoking-v14.26.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/eba1d2cb438d859c7072317cf2d150680ec047a1",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-de.kinoking-v14.26.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-de.kinoking-v14.25.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/fe228f9600ad77773e138adbd37d1fad91bd5ba4",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-de.kinoking-v14.25.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-de.kinoking-v14.26.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/eba1d2cb438d859c7072317cf2d150680ec047a1",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-de.kinoking-v14.26.apk"
     }
   },
   {
@@ -1248,19 +1248,19 @@
     }
   },
   {
-    "name": "aniyomi-en.pinoymoviepedia-v14.4.apk",
-    "path": "apk/aniyomi-en.pinoymoviepedia-v14.4.apk",
-    "sha": "cabe060cf76528e71437ff4c807ed7f6ff45cb11",
-    "size": 102305,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.pinoymoviepedia-v14.4.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.pinoymoviepedia-v14.4.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/cabe060cf76528e71437ff4c807ed7f6ff45cb11",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.pinoymoviepedia-v14.4.apk",
+    "name": "aniyomi-en.pinoymoviepedia-v14.5.apk",
+    "path": "apk/aniyomi-en.pinoymoviepedia-v14.5.apk",
+    "sha": "7bf677dcfcc635d3a5ef2d8e6675b9801515afd7",
+    "size": 102314,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.pinoymoviepedia-v14.5.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.pinoymoviepedia-v14.5.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/7bf677dcfcc635d3a5ef2d8e6675b9801515afd7",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.pinoymoviepedia-v14.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.pinoymoviepedia-v14.4.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/cabe060cf76528e71437ff4c807ed7f6ff45cb11",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.pinoymoviepedia-v14.4.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.pinoymoviepedia-v14.5.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/7bf677dcfcc635d3a5ef2d8e6675b9801515afd7",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.pinoymoviepedia-v14.5.apk"
     }
   },
   {
@@ -1360,19 +1360,19 @@
     }
   },
   {
-    "name": "aniyomi-en.uniquestream-v14.5.apk",
-    "path": "apk/aniyomi-en.uniquestream-v14.5.apk",
-    "sha": "604e9a0a6074e47bf9422dfa8320293cd03914f1",
-    "size": 60204,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.uniquestream-v14.5.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.uniquestream-v14.5.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/604e9a0a6074e47bf9422dfa8320293cd03914f1",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.uniquestream-v14.5.apk",
+    "name": "aniyomi-en.uniquestream-v14.6.apk",
+    "path": "apk/aniyomi-en.uniquestream-v14.6.apk",
+    "sha": "a0a6f3ee68275d2a6d908c8b8a29ddf9caff20ca",
+    "size": 60211,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.uniquestream-v14.6.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.uniquestream-v14.6.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/a0a6f3ee68275d2a6d908c8b8a29ddf9caff20ca",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.uniquestream-v14.6.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.uniquestream-v14.5.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/604e9a0a6074e47bf9422dfa8320293cd03914f1",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.uniquestream-v14.5.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.uniquestream-v14.6.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/a0a6f3ee68275d2a6d908c8b8a29ddf9caff20ca",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.uniquestream-v14.6.apk"
     }
   },
   {
@@ -1536,35 +1536,35 @@
     }
   },
   {
-    "name": "aniyomi-es.animenix-v14.12.apk",
-    "path": "apk/aniyomi-es.animenix-v14.12.apk",
-    "sha": "398f49ab9940cf678fcaf93f9a86fad3da4bcda7",
-    "size": 84755,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.animenix-v14.12.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.animenix-v14.12.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/398f49ab9940cf678fcaf93f9a86fad3da4bcda7",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.animenix-v14.12.apk",
+    "name": "aniyomi-es.animenix-v14.13.apk",
+    "path": "apk/aniyomi-es.animenix-v14.13.apk",
+    "sha": "cabedee21028417411f7b6417c4ae8c3e3ab901a",
+    "size": 84768,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.animenix-v14.13.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.animenix-v14.13.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/cabedee21028417411f7b6417c4ae8c3e3ab901a",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.animenix-v14.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.animenix-v14.12.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/398f49ab9940cf678fcaf93f9a86fad3da4bcda7",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.animenix-v14.12.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.animenix-v14.13.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/cabedee21028417411f7b6417c4ae8c3e3ab901a",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.animenix-v14.13.apk"
     }
   },
   {
-    "name": "aniyomi-es.animeonlineninja-v14.47.apk",
-    "path": "apk/aniyomi-es.animeonlineninja-v14.47.apk",
-    "sha": "b34ce01ea55e9f3efa0930bd725f7243fa5835b6",
-    "size": 100301,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.animeonlineninja-v14.47.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.animeonlineninja-v14.47.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b34ce01ea55e9f3efa0930bd725f7243fa5835b6",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.animeonlineninja-v14.47.apk",
+    "name": "aniyomi-es.animeonlineninja-v14.48.apk",
+    "path": "apk/aniyomi-es.animeonlineninja-v14.48.apk",
+    "sha": "28b0fc68bce80c150976c4cacba27774ae43bebd",
+    "size": 100316,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.animeonlineninja-v14.48.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.animeonlineninja-v14.48.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/28b0fc68bce80c150976c4cacba27774ae43bebd",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.animeonlineninja-v14.48.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.animeonlineninja-v14.47.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b34ce01ea55e9f3efa0930bd725f7243fa5835b6",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.animeonlineninja-v14.47.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.animeonlineninja-v14.48.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/28b0fc68bce80c150976c4cacba27774ae43bebd",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.animeonlineninja-v14.48.apk"
     }
   },
   {
@@ -1680,19 +1680,19 @@
     }
   },
   {
-    "name": "aniyomi-es.cineplus123-v14.9.apk",
-    "path": "apk/aniyomi-es.cineplus123-v14.9.apk",
-    "sha": "69ae7034cb3a2f68342a459b75d28a779b07d810",
-    "size": 123205,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.cineplus123-v14.9.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.cineplus123-v14.9.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/69ae7034cb3a2f68342a459b75d28a779b07d810",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.cineplus123-v14.9.apk",
+    "name": "aniyomi-es.cineplus123-v14.10.apk",
+    "path": "apk/aniyomi-es.cineplus123-v14.10.apk",
+    "sha": "c3057e8b54474c30eb47416307a1bfdb659803d3",
+    "size": 123212,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.cineplus123-v14.10.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.cineplus123-v14.10.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/c3057e8b54474c30eb47416307a1bfdb659803d3",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.cineplus123-v14.10.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.cineplus123-v14.9.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/69ae7034cb3a2f68342a459b75d28a779b07d810",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.cineplus123-v14.9.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.cineplus123-v14.10.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/c3057e8b54474c30eb47416307a1bfdb659803d3",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.cineplus123-v14.10.apk"
     }
   },
   {
@@ -1712,19 +1712,19 @@
     }
   },
   {
-    "name": "aniyomi-es.detodopeliculas-v14.6.apk",
-    "path": "apk/aniyomi-es.detodopeliculas-v14.6.apk",
-    "sha": "9669780b9d8843c8b781060e12b8b075675e4874",
-    "size": 714924,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.detodopeliculas-v14.6.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.detodopeliculas-v14.6.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/9669780b9d8843c8b781060e12b8b075675e4874",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.detodopeliculas-v14.6.apk",
+    "name": "aniyomi-es.detodopeliculas-v14.7.apk",
+    "path": "apk/aniyomi-es.detodopeliculas-v14.7.apk",
+    "sha": "97a825599059a4ab4678048c0573b9c712a62cf0",
+    "size": 714914,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.detodopeliculas-v14.7.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.detodopeliculas-v14.7.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/97a825599059a4ab4678048c0573b9c712a62cf0",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.detodopeliculas-v14.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.detodopeliculas-v14.6.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/9669780b9d8843c8b781060e12b8b075675e4874",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.detodopeliculas-v14.6.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.detodopeliculas-v14.7.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/97a825599059a4ab4678048c0573b9c712a62cf0",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.detodopeliculas-v14.7.apk"
     }
   },
   {
@@ -1808,19 +1808,19 @@
     }
   },
   {
-    "name": "aniyomi-es.flixlatam-v14.7.apk",
-    "path": "apk/aniyomi-es.flixlatam-v14.7.apk",
-    "sha": "ba03a38f3f71ccb90ef5e56f64dd477f604ffb2d",
-    "size": 1325816,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.flixlatam-v14.7.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.flixlatam-v14.7.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ba03a38f3f71ccb90ef5e56f64dd477f604ffb2d",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.flixlatam-v14.7.apk",
+    "name": "aniyomi-es.flixlatam-v14.8.apk",
+    "path": "apk/aniyomi-es.flixlatam-v14.8.apk",
+    "sha": "272090413d528843ecd3ba3ffd671556d4ba5b99",
+    "size": 1325804,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.flixlatam-v14.8.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.flixlatam-v14.8.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/272090413d528843ecd3ba3ffd671556d4ba5b99",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.flixlatam-v14.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.flixlatam-v14.7.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ba03a38f3f71ccb90ef5e56f64dd477f604ffb2d",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.flixlatam-v14.7.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.flixlatam-v14.8.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/272090413d528843ecd3ba3ffd671556d4ba5b99",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.flixlatam-v14.8.apk"
     }
   },
   {
@@ -2176,19 +2176,19 @@
     }
   },
   {
-    "name": "aniyomi-es.sololatino-v14.9.apk",
-    "path": "apk/aniyomi-es.sololatino-v14.9.apk",
-    "sha": "b714cc779a5c68be848c5719691b951149fff749",
-    "size": 715996,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.sololatino-v14.9.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.sololatino-v14.9.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b714cc779a5c68be848c5719691b951149fff749",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.sololatino-v14.9.apk",
+    "name": "aniyomi-es.sololatino-v14.10.apk",
+    "path": "apk/aniyomi-es.sololatino-v14.10.apk",
+    "sha": "c5a694d60370f1eafeea38af4d985270d7220fc9",
+    "size": 716061,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.sololatino-v14.10.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.sololatino-v14.10.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/c5a694d60370f1eafeea38af4d985270d7220fc9",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-es.sololatino-v14.10.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.sololatino-v14.9.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b714cc779a5c68be848c5719691b951149fff749",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.sololatino-v14.9.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-es.sololatino-v14.10.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/c5a694d60370f1eafeea38af4d985270d7220fc9",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-es.sololatino-v14.10.apk"
     }
   },
   {
@@ -2400,35 +2400,35 @@
     }
   },
   {
-    "name": "aniyomi-fr.hds-v14.7.apk",
-    "path": "apk/aniyomi-fr.hds-v14.7.apk",
-    "sha": "ebd08b8f6057177335fd5ac0fa09ecf76d69d8f0",
-    "size": 68744,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.hds-v14.7.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.hds-v14.7.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ebd08b8f6057177335fd5ac0fa09ecf76d69d8f0",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-fr.hds-v14.7.apk",
+    "name": "aniyomi-fr.hds-v14.8.apk",
+    "path": "apk/aniyomi-fr.hds-v14.8.apk",
+    "sha": "6121562911e67a34648841981a68507facda5765",
+    "size": 68764,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.hds-v14.8.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.hds-v14.8.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/6121562911e67a34648841981a68507facda5765",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-fr.hds-v14.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.hds-v14.7.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ebd08b8f6057177335fd5ac0fa09ecf76d69d8f0",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.hds-v14.7.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.hds-v14.8.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/6121562911e67a34648841981a68507facda5765",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.hds-v14.8.apk"
     }
   },
   {
-    "name": "aniyomi-fr.jetanime-v14.11.apk",
-    "path": "apk/aniyomi-fr.jetanime-v14.11.apk",
-    "sha": "062959d947fb3aa6a8a3c3a9c1f71b69d6d5c9d2",
-    "size": 665141,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.jetanime-v14.11.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.jetanime-v14.11.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/062959d947fb3aa6a8a3c3a9c1f71b69d6d5c9d2",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-fr.jetanime-v14.11.apk",
+    "name": "aniyomi-fr.jetanime-v14.12.apk",
+    "path": "apk/aniyomi-fr.jetanime-v14.12.apk",
+    "sha": "6e34029af39cb8cdea475758dc93da4918e82423",
+    "size": 665180,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.jetanime-v14.12.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.jetanime-v14.12.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/6e34029af39cb8cdea475758dc93da4918e82423",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-fr.jetanime-v14.12.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.jetanime-v14.11.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/062959d947fb3aa6a8a3c3a9c1f71b69d6d5c9d2",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.jetanime-v14.11.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.jetanime-v14.12.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/6e34029af39cb8cdea475758dc93da4918e82423",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.jetanime-v14.12.apk"
     }
   },
   {
@@ -2464,19 +2464,19 @@
     }
   },
   {
-    "name": "aniyomi-fr.voircartoon-v14.9.apk",
-    "path": "apk/aniyomi-fr.voircartoon-v14.9.apk",
-    "sha": "ee79c6ef813d67a5155db3c9f19e16f8b2c6a670",
-    "size": 82663,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.voircartoon-v14.9.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.voircartoon-v14.9.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ee79c6ef813d67a5155db3c9f19e16f8b2c6a670",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-fr.voircartoon-v14.9.apk",
+    "name": "aniyomi-fr.voircartoon-v14.10.apk",
+    "path": "apk/aniyomi-fr.voircartoon-v14.10.apk",
+    "sha": "ac05a549bc4742dfe85720d007eaf10323040e75",
+    "size": 82681,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.voircartoon-v14.10.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.voircartoon-v14.10.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ac05a549bc4742dfe85720d007eaf10323040e75",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-fr.voircartoon-v14.10.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.voircartoon-v14.9.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ee79c6ef813d67a5155db3c9f19e16f8b2c6a670",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.voircartoon-v14.9.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-fr.voircartoon-v14.10.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/ac05a549bc4742dfe85720d007eaf10323040e75",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-fr.voircartoon-v14.10.apk"
     }
   },
   {
@@ -2512,19 +2512,19 @@
     }
   },
   {
-    "name": "aniyomi-hi.animesaga-v14.20.apk",
-    "path": "apk/aniyomi-hi.animesaga-v14.20.apk",
-    "sha": "4708b51d517b7c995774b23bfd6b8a593b25f512",
-    "size": 65415,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-hi.animesaga-v14.20.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-hi.animesaga-v14.20.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/4708b51d517b7c995774b23bfd6b8a593b25f512",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-hi.animesaga-v14.20.apk",
+    "name": "aniyomi-hi.animesaga-v14.21.apk",
+    "path": "apk/aniyomi-hi.animesaga-v14.21.apk",
+    "sha": "7e2103138675864f45b4362d7f64f9c07441a807",
+    "size": 65423,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-hi.animesaga-v14.21.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-hi.animesaga-v14.21.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/7e2103138675864f45b4362d7f64f9c07441a807",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-hi.animesaga-v14.21.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-hi.animesaga-v14.20.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/4708b51d517b7c995774b23bfd6b8a593b25f512",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-hi.animesaga-v14.20.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-hi.animesaga-v14.21.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/7e2103138675864f45b4362d7f64f9c07441a807",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-hi.animesaga-v14.21.apk"
     }
   },
   {
@@ -2912,19 +2912,19 @@
     }
   },
   {
-    "name": "aniyomi-pt.animeplayer-v14.6.apk",
-    "path": "apk/aniyomi-pt.animeplayer-v14.6.apk",
-    "sha": "18ffb7708ae47cf3d96e6d6dc347ae561b936cb3",
-    "size": 89908,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animeplayer-v14.6.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animeplayer-v14.6.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/18ffb7708ae47cf3d96e6d6dc347ae561b936cb3",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animeplayer-v14.6.apk",
+    "name": "aniyomi-pt.animeplayer-v14.7.apk",
+    "path": "apk/aniyomi-pt.animeplayer-v14.7.apk",
+    "sha": "548419704e59deef648ab0df019c904d06ec8a21",
+    "size": 89909,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animeplayer-v14.7.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animeplayer-v14.7.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/548419704e59deef648ab0df019c904d06ec8a21",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animeplayer-v14.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animeplayer-v14.6.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/18ffb7708ae47cf3d96e6d6dc347ae561b936cb3",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animeplayer-v14.6.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animeplayer-v14.7.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/548419704e59deef648ab0df019c904d06ec8a21",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animeplayer-v14.7.apk"
     }
   },
   {
@@ -2944,19 +2944,19 @@
     }
   },
   {
-    "name": "aniyomi-pt.animesbr-v14.3.apk",
-    "path": "apk/aniyomi-pt.animesbr-v14.3.apk",
-    "sha": "03200b04d891175f853992c45cf98ec31c1d64fc",
-    "size": 691437,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesbr-v14.3.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesbr-v14.3.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/03200b04d891175f853992c45cf98ec31c1d64fc",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesbr-v14.3.apk",
+    "name": "aniyomi-pt.animesbr-v14.4.apk",
+    "path": "apk/aniyomi-pt.animesbr-v14.4.apk",
+    "sha": "622b7c6167a9314b12a34cf2fbb7a904b940a83d",
+    "size": 691461,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesbr-v14.4.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesbr-v14.4.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/622b7c6167a9314b12a34cf2fbb7a904b940a83d",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesbr-v14.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesbr-v14.3.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/03200b04d891175f853992c45cf98ec31c1d64fc",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesbr-v14.3.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesbr-v14.4.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/622b7c6167a9314b12a34cf2fbb7a904b940a83d",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesbr-v14.4.apk"
     }
   },
   {
@@ -2992,19 +2992,19 @@
     }
   },
   {
-    "name": "aniyomi-pt.animesdrive-v14.3.apk",
-    "path": "apk/aniyomi-pt.animesdrive-v14.3.apk",
-    "sha": "b48100ad0e63f509304a582e051e9b830cf2c41e",
-    "size": 62234,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesdrive-v14.3.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesdrive-v14.3.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b48100ad0e63f509304a582e051e9b830cf2c41e",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesdrive-v14.3.apk",
+    "name": "aniyomi-pt.animesdrive-v14.4.apk",
+    "path": "apk/aniyomi-pt.animesdrive-v14.4.apk",
+    "sha": "0f8f8cb6fcf4a9327a5d467be92434c3508869ac",
+    "size": 62246,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesdrive-v14.4.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesdrive-v14.4.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/0f8f8cb6fcf4a9327a5d467be92434c3508869ac",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesdrive-v14.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesdrive-v14.3.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b48100ad0e63f509304a582e051e9b830cf2c41e",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesdrive-v14.3.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesdrive-v14.4.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/0f8f8cb6fcf4a9327a5d467be92434c3508869ac",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesdrive-v14.4.apk"
     }
   },
   {
@@ -3024,67 +3024,67 @@
     }
   },
   {
-    "name": "aniyomi-pt.animesgratis-v14.21.apk",
-    "path": "apk/aniyomi-pt.animesgratis-v14.21.apk",
-    "sha": "77330e9d18e0571a79af62356992d7628f11a3dd",
-    "size": 93084,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesgratis-v14.21.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesgratis-v14.21.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/77330e9d18e0571a79af62356992d7628f11a3dd",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesgratis-v14.21.apk",
+    "name": "aniyomi-pt.animesgratis-v14.22.apk",
+    "path": "apk/aniyomi-pt.animesgratis-v14.22.apk",
+    "sha": "06bb5858f01e2b9ee239b30b0d6e078c439712b7",
+    "size": 93100,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesgratis-v14.22.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesgratis-v14.22.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/06bb5858f01e2b9ee239b30b0d6e078c439712b7",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesgratis-v14.22.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesgratis-v14.21.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/77330e9d18e0571a79af62356992d7628f11a3dd",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesgratis-v14.21.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesgratis-v14.22.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/06bb5858f01e2b9ee239b30b0d6e078c439712b7",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesgratis-v14.22.apk"
     }
   },
   {
-    "name": "aniyomi-pt.animeshouse-v14.3.apk",
-    "path": "apk/aniyomi-pt.animeshouse-v14.3.apk",
-    "sha": "493e2b559f52a214fb3dddc5f5d13aa7332e63f3",
-    "size": 62608,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animeshouse-v14.3.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animeshouse-v14.3.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/493e2b559f52a214fb3dddc5f5d13aa7332e63f3",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animeshouse-v14.3.apk",
+    "name": "aniyomi-pt.animeshouse-v14.4.apk",
+    "path": "apk/aniyomi-pt.animeshouse-v14.4.apk",
+    "sha": "53fbbb96085dbac77edae871d2768c506c8be239",
+    "size": 62620,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animeshouse-v14.4.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animeshouse-v14.4.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/53fbbb96085dbac77edae871d2768c506c8be239",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animeshouse-v14.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animeshouse-v14.3.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/493e2b559f52a214fb3dddc5f5d13aa7332e63f3",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animeshouse-v14.3.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animeshouse-v14.4.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/53fbbb96085dbac77edae871d2768c506c8be239",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animeshouse-v14.4.apk"
     }
   },
   {
-    "name": "aniyomi-pt.animesonlinecc-v14.3.apk",
-    "path": "apk/aniyomi-pt.animesonlinecc-v14.3.apk",
-    "sha": "23065f2852b26392882af34ecae76404aaeb97cf",
-    "size": 54283,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesonlinecc-v14.3.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesonlinecc-v14.3.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/23065f2852b26392882af34ecae76404aaeb97cf",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesonlinecc-v14.3.apk",
+    "name": "aniyomi-pt.animesonlinecc-v14.4.apk",
+    "path": "apk/aniyomi-pt.animesonlinecc-v14.4.apk",
+    "sha": "b18c76238278b6b639f31305ed9d982ec25b89e3",
+    "size": 54290,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesonlinecc-v14.4.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesonlinecc-v14.4.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b18c76238278b6b639f31305ed9d982ec25b89e3",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesonlinecc-v14.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesonlinecc-v14.3.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/23065f2852b26392882af34ecae76404aaeb97cf",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesonlinecc-v14.3.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesonlinecc-v14.4.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/b18c76238278b6b639f31305ed9d982ec25b89e3",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesonlinecc-v14.4.apk"
     }
   },
   {
-    "name": "aniyomi-pt.animesonlinecloud-v14.3.apk",
-    "path": "apk/aniyomi-pt.animesonlinecloud-v14.3.apk",
-    "sha": "2fe0cf2932b38d916bc10002230eba6e756bfa78",
-    "size": 76155,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesonlinecloud-v14.3.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesonlinecloud-v14.3.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/2fe0cf2932b38d916bc10002230eba6e756bfa78",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesonlinecloud-v14.3.apk",
+    "name": "aniyomi-pt.animesonlinecloud-v14.4.apk",
+    "path": "apk/aniyomi-pt.animesonlinecloud-v14.4.apk",
+    "sha": "fce6e6355715e9986539364593e033661ec14319",
+    "size": 76161,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesonlinecloud-v14.4.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesonlinecloud-v14.4.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/fce6e6355715e9986539364593e033661ec14319",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.animesonlinecloud-v14.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesonlinecloud-v14.3.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/2fe0cf2932b38d916bc10002230eba6e756bfa78",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesonlinecloud-v14.3.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.animesonlinecloud-v14.4.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/fce6e6355715e9986539364593e033661ec14319",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.animesonlinecloud-v14.4.apk"
     }
   },
   {
@@ -3264,19 +3264,19 @@
     }
   },
   {
-    "name": "aniyomi-pt.pifansubs-v14.24.apk",
-    "path": "apk/aniyomi-pt.pifansubs-v14.24.apk",
-    "sha": "1d7ae2d7f3e473b2114ab10de76eeed3e4bcfd45",
-    "size": 71119,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.pifansubs-v14.24.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.pifansubs-v14.24.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/1d7ae2d7f3e473b2114ab10de76eeed3e4bcfd45",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.pifansubs-v14.24.apk",
+    "name": "aniyomi-pt.pifansubs-v14.25.apk",
+    "path": "apk/aniyomi-pt.pifansubs-v14.25.apk",
+    "sha": "1310e0153dbc11997aef2e2fe0d82d2f16948c80",
+    "size": 71140,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.pifansubs-v14.25.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.pifansubs-v14.25.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/1310e0153dbc11997aef2e2fe0d82d2f16948c80",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-pt.pifansubs-v14.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.pifansubs-v14.24.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/1d7ae2d7f3e473b2114ab10de76eeed3e4bcfd45",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.pifansubs-v14.24.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-pt.pifansubs-v14.25.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/1310e0153dbc11997aef2e2fe0d82d2f16948c80",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-pt.pifansubs-v14.25.apk"
     }
   },
   {
