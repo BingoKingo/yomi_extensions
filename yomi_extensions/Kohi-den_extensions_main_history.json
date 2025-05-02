@@ -1392,19 +1392,19 @@
     }
   },
   {
-    "name": "aniyomi-en.wcostream-v14.5.apk",
-    "path": "apk/aniyomi-en.wcostream-v14.5.apk",
-    "sha": "f91401894775ba582ac55cad67fd75c9c6c20bc4",
-    "size": 50169,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.wcostream-v14.5.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.wcostream-v14.5.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/f91401894775ba582ac55cad67fd75c9c6c20bc4",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.wcostream-v14.5.apk",
+    "name": "aniyomi-en.wcostream-v14.6.apk",
+    "path": "apk/aniyomi-en.wcostream-v14.6.apk",
+    "sha": "a1df5a02e455b3d731d71d2f2b153035a8561149",
+    "size": 50173,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.wcostream-v14.6.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.wcostream-v14.6.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/a1df5a02e455b3d731d71d2f2b153035a8561149",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.wcostream-v14.6.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.wcostream-v14.5.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/f91401894775ba582ac55cad67fd75c9c6c20bc4",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.wcostream-v14.5.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.wcostream-v14.6.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/a1df5a02e455b3d731d71d2f2b153035a8561149",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.wcostream-v14.6.apk"
     }
   },
   {
