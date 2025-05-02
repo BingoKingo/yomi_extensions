@@ -2768,19 +2768,19 @@
     }
   },
   {
-    "name": "aniyomi-it.streamingcommunity-v14.5.apk",
-    "path": "apk/aniyomi-it.streamingcommunity-v14.5.apk",
-    "sha": "e2ceab6d3bb53ec5101f0aea17f4be06f350d673",
-    "size": 79615,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-it.streamingcommunity-v14.5.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-it.streamingcommunity-v14.5.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/e2ceab6d3bb53ec5101f0aea17f4be06f350d673",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-it.streamingcommunity-v14.5.apk",
+    "name": "aniyomi-it.streamingcommunity-v14.6.apk",
+    "path": "apk/aniyomi-it.streamingcommunity-v14.6.apk",
+    "sha": "6f3f565bb9c351428464cceed15e87bed695d9e6",
+    "size": 79617,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-it.streamingcommunity-v14.6.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-it.streamingcommunity-v14.6.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/6f3f565bb9c351428464cceed15e87bed695d9e6",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-it.streamingcommunity-v14.6.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-it.streamingcommunity-v14.5.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/e2ceab6d3bb53ec5101f0aea17f4be06f350d673",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-it.streamingcommunity-v14.5.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-it.streamingcommunity-v14.6.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/6f3f565bb9c351428464cceed15e87bed695d9e6",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-it.streamingcommunity-v14.6.apk"
     }
   },
   {
