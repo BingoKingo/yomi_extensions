@@ -96,19 +96,19 @@
     }
   },
   {
-    "name": "aniyomi-all.hikari-v14.19.apk",
-    "path": "apk/aniyomi-all.hikari-v14.19.apk",
-    "sha": "202c0893c55adb35942de9e5f58e016fd71dbd2c",
-    "size": 163735,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-all.hikari-v14.19.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-all.hikari-v14.19.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/202c0893c55adb35942de9e5f58e016fd71dbd2c",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-all.hikari-v14.19.apk",
+    "name": "aniyomi-all.hikari-v14.20.apk",
+    "path": "apk/aniyomi-all.hikari-v14.20.apk",
+    "sha": "763f287f0d72ace6ac97d7eb7d5b3256ee7ec78b",
+    "size": 163824,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-all.hikari-v14.20.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-all.hikari-v14.20.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/763f287f0d72ace6ac97d7eb7d5b3256ee7ec78b",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-all.hikari-v14.20.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-all.hikari-v14.19.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/202c0893c55adb35942de9e5f58e016fd71dbd2c",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-all.hikari-v14.19.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-all.hikari-v14.20.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/763f287f0d72ace6ac97d7eb7d5b3256ee7ec78b",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-all.hikari-v14.20.apk"
     }
   },
   {
@@ -1328,19 +1328,19 @@
     }
   },
   {
-    "name": "aniyomi-en.tokuzilla-v14.22.apk",
-    "path": "apk/aniyomi-en.tokuzilla-v14.22.apk",
-    "sha": "96813e52ad20d799e66f94e25b451b11e64a097f",
-    "size": 61412,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.tokuzilla-v14.22.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.tokuzilla-v14.22.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/96813e52ad20d799e66f94e25b451b11e64a097f",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.tokuzilla-v14.22.apk",
+    "name": "aniyomi-en.tokuzilla-v14.23.apk",
+    "path": "apk/aniyomi-en.tokuzilla-v14.23.apk",
+    "sha": "f4a509615dc818a531bb2723cf1ae626bc2d832f",
+    "size": 61496,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.tokuzilla-v14.23.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.tokuzilla-v14.23.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/f4a509615dc818a531bb2723cf1ae626bc2d832f",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-en.tokuzilla-v14.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.tokuzilla-v14.22.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/96813e52ad20d799e66f94e25b451b11e64a097f",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.tokuzilla-v14.22.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-en.tokuzilla-v14.23.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/f4a509615dc818a531bb2723cf1ae626bc2d832f",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-en.tokuzilla-v14.23.apk"
     }
   },
   {
@@ -2512,19 +2512,19 @@
     }
   },
   {
-    "name": "aniyomi-hi.animesaga-v14.21.apk",
-    "path": "apk/aniyomi-hi.animesaga-v14.21.apk",
-    "sha": "7e2103138675864f45b4362d7f64f9c07441a807",
-    "size": 65423,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-hi.animesaga-v14.21.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-hi.animesaga-v14.21.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/7e2103138675864f45b4362d7f64f9c07441a807",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-hi.animesaga-v14.21.apk",
+    "name": "aniyomi-hi.animesaga-v14.22.apk",
+    "path": "apk/aniyomi-hi.animesaga-v14.22.apk",
+    "sha": "a2a4dd1401cef90c7b95604d10a2301e42e5ead8",
+    "size": 65507,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-hi.animesaga-v14.22.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-hi.animesaga-v14.22.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/a2a4dd1401cef90c7b95604d10a2301e42e5ead8",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-hi.animesaga-v14.22.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-hi.animesaga-v14.21.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/7e2103138675864f45b4362d7f64f9c07441a807",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-hi.animesaga-v14.21.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-hi.animesaga-v14.22.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/a2a4dd1401cef90c7b95604d10a2301e42e5ead8",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-hi.animesaga-v14.22.apk"
     }
   },
   {
