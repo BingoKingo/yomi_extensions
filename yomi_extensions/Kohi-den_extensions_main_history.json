@@ -96,19 +96,19 @@
     }
   },
   {
-    "name": "aniyomi-all.hikari-v14.21.apk",
-    "path": "apk/aniyomi-all.hikari-v14.21.apk",
-    "sha": "43bf7da62c406c431fb353394e15bb079e8c2256",
-    "size": 163578,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-all.hikari-v14.21.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-all.hikari-v14.21.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/43bf7da62c406c431fb353394e15bb079e8c2256",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-all.hikari-v14.21.apk",
+    "name": "aniyomi-all.hikari-v14.22.apk",
+    "path": "apk/aniyomi-all.hikari-v14.22.apk",
+    "sha": "cd7ebfd4ca78ebe159e524bfe0067deee1e7e44c",
+    "size": 165551,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-all.hikari-v14.22.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-all.hikari-v14.22.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/cd7ebfd4ca78ebe159e524bfe0067deee1e7e44c",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-all.hikari-v14.22.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-all.hikari-v14.21.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/43bf7da62c406c431fb353394e15bb079e8c2256",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-all.hikari-v14.21.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-all.hikari-v14.22.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/cd7ebfd4ca78ebe159e524bfe0067deee1e7e44c",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-all.hikari-v14.22.apk"
     }
   },
   {
@@ -512,19 +512,19 @@
     }
   },
   {
-    "name": "aniyomi-ar.witanime-v14.52.apk",
-    "path": "apk/aniyomi-ar.witanime-v14.52.apk",
-    "sha": "4b4876d28b616e5fe510bbe157a4894571dc318b",
-    "size": 87428,
-    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-ar.witanime-v14.52.apk?ref=main",
-    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-ar.witanime-v14.52.apk",
-    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/4b4876d28b616e5fe510bbe157a4894571dc318b",
-    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-ar.witanime-v14.52.apk",
+    "name": "aniyomi-ar.witanime-v14.53.apk",
+    "path": "apk/aniyomi-ar.witanime-v14.53.apk",
+    "sha": "11f0f91bf84ff4805a015373af61d0fbac8c0ace",
+    "size": 87427,
+    "url": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-ar.witanime-v14.53.apk?ref=main",
+    "html_url": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-ar.witanime-v14.53.apk",
+    "git_url": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/11f0f91bf84ff4805a015373af61d0fbac8c0ace",
+    "download_url": "https://raw.githubusercontent.com/Kohi-den/extensions/main/apk/aniyomi-ar.witanime-v14.53.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-ar.witanime-v14.52.apk?ref=main",
-      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/4b4876d28b616e5fe510bbe157a4894571dc318b",
-      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-ar.witanime-v14.52.apk"
+      "self": "https://api.github.com/repos/Kohi-den/extensions/contents/apk/aniyomi-ar.witanime-v14.53.apk?ref=main",
+      "git": "https://api.github.com/repos/Kohi-den/extensions/git/blobs/11f0f91bf84ff4805a015373af61d0fbac8c0ace",
+      "html": "https://github.com/Kohi-den/extensions/blob/main/apk/aniyomi-ar.witanime-v14.53.apk"
     }
   },
   {
