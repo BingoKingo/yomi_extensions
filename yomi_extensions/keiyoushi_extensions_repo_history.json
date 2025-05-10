@@ -14784,19 +14784,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.egotoons-v1.4.1.apk",
-    "path": "apk/tachiyomi-pt.egotoons-v1.4.1.apk",
-    "sha": "ffde9a7db948401105796bb77304bbc5d0155ab4",
-    "size": 78877,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.egotoons-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.egotoons-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ffde9a7db948401105796bb77304bbc5d0155ab4",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.egotoons-v1.4.1.apk",
+    "name": "tachiyomi-pt.egotoons-v1.4.2.apk",
+    "path": "apk/tachiyomi-pt.egotoons-v1.4.2.apk",
+    "sha": "9257bdd8faa233bb96db307c4d74107c01471e40",
+    "size": 78988,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.egotoons-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.egotoons-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9257bdd8faa233bb96db307c4d74107c01471e40",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.egotoons-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.egotoons-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ffde9a7db948401105796bb77304bbc5d0155ab4",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.egotoons-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.egotoons-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9257bdd8faa233bb96db307c4d74107c01471e40",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.egotoons-v1.4.2.apk"
     }
   },
   {
