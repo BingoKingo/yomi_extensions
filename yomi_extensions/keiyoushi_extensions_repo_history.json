@@ -15328,22 +15328,6 @@
     }
   },
   {
-    "name": "tachiyomi-pt.lunarscan-v1.4.44.apk",
-    "path": "apk/tachiyomi-pt.lunarscan-v1.4.44.apk",
-    "sha": "6da3f9173e6d09b52f82ec20a1bdcc954a6ccf78",
-    "size": 88956,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.lunarscan-v1.4.44.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.lunarscan-v1.4.44.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6da3f9173e6d09b52f82ec20a1bdcc954a6ccf78",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.lunarscan-v1.4.44.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.lunarscan-v1.4.44.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6da3f9173e6d09b52f82ec20a1bdcc954a6ccf78",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.lunarscan-v1.4.44.apk"
-    }
-  },
-  {
     "name": "tachiyomi-pt.mahouscan-v1.4.4.apk",
     "path": "apk/tachiyomi-pt.mahouscan-v1.4.4.apk",
     "sha": "3bc5e4579affb3333a351172ab04491ac3c49b6c",
@@ -15952,19 +15936,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.remangas-v1.4.43.apk",
-    "path": "apk/tachiyomi-pt.remangas-v1.4.43.apk",
-    "sha": "b1d6c2a15ac137d7c2ffdde80c337655e6f5c044",
-    "size": 83913,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.remangas-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.remangas-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b1d6c2a15ac137d7c2ffdde80c337655e6f5c044",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.remangas-v1.4.43.apk",
+    "name": "tachiyomi-pt.remangas-v1.4.44.apk",
+    "path": "apk/tachiyomi-pt.remangas-v1.4.44.apk",
+    "sha": "6b5d1f155ea08646a8465f170c6b27c49608c15e",
+    "size": 83978,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.remangas-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.remangas-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6b5d1f155ea08646a8465f170c6b27c49608c15e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.remangas-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.remangas-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b1d6c2a15ac137d7c2ffdde80c337655e6f5c044",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.remangas-v1.4.43.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.remangas-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6b5d1f155ea08646a8465f170c6b27c49608c15e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.remangas-v1.4.44.apk"
     }
   },
   {
@@ -15997,6 +15981,22 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.safirescan-v1.4.10.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ac99f02f9b3b531ad03689e02528117475e861f7",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.safirescan-v1.4.10.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-pt.saikaiscan-v1.4.11.apk",
+    "path": "apk/tachiyomi-pt.saikaiscan-v1.4.11.apk",
+    "sha": "9a531bac44092e54c213cda561ff0c3a7e4eac03",
+    "size": 67344,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9a531bac44092e54c213cda561ff0c3a7e4eac03",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9a531bac44092e54c213cda561ff0c3a7e4eac03",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.saikaiscan-v1.4.11.apk"
     }
   }
 ]
