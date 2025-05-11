@@ -5280,19 +5280,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangabat-v1.4.13.apk",
-    "path": "apk/tachiyomi-en.mangabat-v1.4.13.apk",
-    "sha": "0d64bf60ddb862ca3e197474f3456d373786b17f",
-    "size": 56688,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangabat-v1.4.13.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangabat-v1.4.13.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0d64bf60ddb862ca3e197474f3456d373786b17f",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangabat-v1.4.13.apk",
+    "name": "tachiyomi-en.mangabat-v1.4.14.apk",
+    "path": "apk/tachiyomi-en.mangabat-v1.4.14.apk",
+    "sha": "4bb67b3d16f7b052824572285ab0e734eb012a0f",
+    "size": 56958,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangabat-v1.4.14.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangabat-v1.4.14.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4bb67b3d16f7b052824572285ab0e734eb012a0f",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangabat-v1.4.14.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangabat-v1.4.13.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0d64bf60ddb862ca3e197474f3456d373786b17f",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangabat-v1.4.13.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangabat-v1.4.14.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4bb67b3d16f7b052824572285ab0e734eb012a0f",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangabat-v1.4.14.apk"
     }
   },
   {
@@ -5696,19 +5696,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangakakalot-v1.4.12.apk",
-    "path": "apk/tachiyomi-en.mangakakalot-v1.4.12.apk",
-    "sha": "a3006214b9dc035cdf148490763771ba0cec54ed",
-    "size": 99079,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangakakalot-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a3006214b9dc035cdf148490763771ba0cec54ed",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangakakalot-v1.4.12.apk",
+    "name": "tachiyomi-en.mangakakalot-v1.4.13.apk",
+    "path": "apk/tachiyomi-en.mangakakalot-v1.4.13.apk",
+    "sha": "5ec60744f2d4051eb53ffecf32494b8f0445ce39",
+    "size": 99335,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangakakalot-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5ec60744f2d4051eb53ffecf32494b8f0445ce39",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangakakalot-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangakakalot-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a3006214b9dc035cdf148490763771ba0cec54ed",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.12.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangakakalot-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5ec60744f2d4051eb53ffecf32494b8f0445ce39",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangakakalot-v1.4.13.apk"
     }
   },
   {
@@ -5856,19 +5856,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.manganelo-v1.4.11.apk",
-    "path": "apk/tachiyomi-en.manganelo-v1.4.11.apk",
-    "sha": "87d1b803c0ee421b40b82cecee8b718ceeca92fe",
-    "size": 59601,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manganelo-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manganelo-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/87d1b803c0ee421b40b82cecee8b718ceeca92fe",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.manganelo-v1.4.11.apk",
+    "name": "tachiyomi-en.manganelo-v1.4.12.apk",
+    "path": "apk/tachiyomi-en.manganelo-v1.4.12.apk",
+    "sha": "464d9c470f243aa57bcb15e95f615c81ca209171",
+    "size": 59838,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manganelo-v1.4.12.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manganelo-v1.4.12.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/464d9c470f243aa57bcb15e95f615c81ca209171",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.manganelo-v1.4.12.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manganelo-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/87d1b803c0ee421b40b82cecee8b718ceeca92fe",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manganelo-v1.4.11.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manganelo-v1.4.12.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/464d9c470f243aa57bcb15e95f615c81ca209171",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manganelo-v1.4.12.apk"
     }
   },
   {
