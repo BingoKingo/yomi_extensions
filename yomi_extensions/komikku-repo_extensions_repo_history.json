@@ -96,19 +96,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.buondua-v1.4.3.apk",
-    "path": "apk/tachiyomi-all.buondua-v1.4.3.apk",
-    "sha": "8b2a4e9de7a08fe5b3c04bcd7f9612c92b26cce9",
-    "size": 63778,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.3.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8b2a4e9de7a08fe5b3c04bcd7f9612c92b26cce9",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.buondua-v1.4.3.apk",
+    "name": "tachiyomi-all.buondua-v1.4.4.apk",
+    "path": "apk/tachiyomi-all.buondua-v1.4.4.apk",
+    "sha": "cf80b10df2c4788f7b76c52acfac09264cf7ce79",
+    "size": 64106,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/cf80b10df2c4788f7b76c52acfac09264cf7ce79",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.buondua-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8b2a4e9de7a08fe5b3c04bcd7f9612c92b26cce9",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.3.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/cf80b10df2c4788f7b76c52acfac09264cf7ce79",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.4.apk"
     }
   },
   {
