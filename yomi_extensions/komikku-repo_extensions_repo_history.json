@@ -1312,19 +1312,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.misskon-v1.4.10.apk",
-    "path": "apk/tachiyomi-all.misskon-v1.4.10.apk",
-    "sha": "8b39a8e3e95b28a8407b59850183e921227b25ec",
-    "size": 79469,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8b39a8e3e95b28a8407b59850183e921227b25ec",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.misskon-v1.4.10.apk",
+    "name": "tachiyomi-all.misskon-v1.4.11.apk",
+    "path": "apk/tachiyomi-all.misskon-v1.4.11.apk",
+    "sha": "f9455abf299e9afb1cbcfe3f1d81d10e475f3d73",
+    "size": 79263,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f9455abf299e9afb1cbcfe3f1d81d10e475f3d73",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.misskon-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8b39a8e3e95b28a8407b59850183e921227b25ec",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.10.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f9455abf299e9afb1cbcfe3f1d81d10e475f3d73",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.11.apk"
     }
   },
   {
