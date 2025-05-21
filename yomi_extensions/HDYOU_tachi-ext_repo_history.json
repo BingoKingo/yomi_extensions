@@ -416,19 +416,19 @@
     }
   },
   {
-    "name": "tachiyomi-zh.mangalegado.jiujiumh-v1.4.1697095464-debug.apk",
-    "path": "apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1697095464-debug.apk",
-    "sha": "914bede8bddcf4b500107d0102e86c69be0984a3",
-    "size": 23312,
-    "url": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1697095464-debug.apk?ref=repo",
-    "html_url": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1697095464-debug.apk",
-    "git_url": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/914bede8bddcf4b500107d0102e86c69be0984a3",
-    "download_url": "https://raw.githubusercontent.com/HDYOU/tachi-ext/repo/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1697095464-debug.apk",
+    "name": "tachiyomi-zh.mangalegado.jiujiumh-v1.4.1747805400-debug.apk",
+    "path": "apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1747805400-debug.apk",
+    "sha": "2b9a4d2746098c275e23d96da1f036c1a21d6ad1",
+    "size": 23197,
+    "url": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1747805400-debug.apk?ref=repo",
+    "html_url": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1747805400-debug.apk",
+    "git_url": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/2b9a4d2746098c275e23d96da1f036c1a21d6ad1",
+    "download_url": "https://raw.githubusercontent.com/HDYOU/tachi-ext/repo/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1747805400-debug.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1697095464-debug.apk?ref=repo",
-      "git": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/914bede8bddcf4b500107d0102e86c69be0984a3",
-      "html": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1697095464-debug.apk"
+      "self": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1747805400-debug.apk?ref=repo",
+      "git": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/2b9a4d2746098c275e23d96da1f036c1a21d6ad1",
+      "html": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.jiujiumh-v1.4.1747805400-debug.apk"
     }
   },
   {
