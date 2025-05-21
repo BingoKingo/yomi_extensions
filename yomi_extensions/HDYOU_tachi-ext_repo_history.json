@@ -576,19 +576,19 @@
     }
   },
   {
-    "name": "tachiyomi-zh.mangalegado.manwa-v1.4.1745369072-debug.apk",
-    "path": "apk/tachiyomi-zh.mangalegado.manwa-v1.4.1745369072-debug.apk",
-    "sha": "1f63b6317a9727c524a2741decce81d8e5993ee3",
-    "size": 36217,
-    "url": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1745369072-debug.apk?ref=repo",
-    "html_url": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1745369072-debug.apk",
-    "git_url": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/1f63b6317a9727c524a2741decce81d8e5993ee3",
-    "download_url": "https://raw.githubusercontent.com/HDYOU/tachi-ext/repo/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1745369072-debug.apk",
+    "name": "tachiyomi-zh.mangalegado.manwa-v1.4.1747801364-debug.apk",
+    "path": "apk/tachiyomi-zh.mangalegado.manwa-v1.4.1747801364-debug.apk",
+    "sha": "a71fa7d290cf1d82adf1e6ba4e11627fe8b665d2",
+    "size": 36147,
+    "url": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1747801364-debug.apk?ref=repo",
+    "html_url": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1747801364-debug.apk",
+    "git_url": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/a71fa7d290cf1d82adf1e6ba4e11627fe8b665d2",
+    "download_url": "https://raw.githubusercontent.com/HDYOU/tachi-ext/repo/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1747801364-debug.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1745369072-debug.apk?ref=repo",
-      "git": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/1f63b6317a9727c524a2741decce81d8e5993ee3",
-      "html": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1745369072-debug.apk"
+      "self": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1747801364-debug.apk?ref=repo",
+      "git": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/a71fa7d290cf1d82adf1e6ba4e11627fe8b665d2",
+      "html": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.manwa-v1.4.1747801364-debug.apk"
     }
   },
   {
@@ -736,19 +736,19 @@
     }
   },
   {
-    "name": "tachiyomi-zh.mangalegado.roumanwu-v1.4.1725205687-debug.apk",
-    "path": "apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1725205687-debug.apk",
-    "sha": "9c646dfbd1a1506eb0e570b33012a555544ec1c1",
-    "size": 21399,
-    "url": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1725205687-debug.apk?ref=repo",
-    "html_url": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1725205687-debug.apk",
-    "git_url": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/9c646dfbd1a1506eb0e570b33012a555544ec1c1",
-    "download_url": "https://raw.githubusercontent.com/HDYOU/tachi-ext/repo/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1725205687-debug.apk",
+    "name": "tachiyomi-zh.mangalegado.roumanwu-v1.4.1747801106-debug.apk",
+    "path": "apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1747801106-debug.apk",
+    "sha": "ebdd1005b558788acb28ca0fbc9f940ab2f81fc5",
+    "size": 21560,
+    "url": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1747801106-debug.apk?ref=repo",
+    "html_url": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1747801106-debug.apk",
+    "git_url": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/ebdd1005b558788acb28ca0fbc9f940ab2f81fc5",
+    "download_url": "https://raw.githubusercontent.com/HDYOU/tachi-ext/repo/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1747801106-debug.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1725205687-debug.apk?ref=repo",
-      "git": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/9c646dfbd1a1506eb0e570b33012a555544ec1c1",
-      "html": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1725205687-debug.apk"
+      "self": "https://api.github.com/repos/HDYOU/tachi-ext/contents/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1747801106-debug.apk?ref=repo",
+      "git": "https://api.github.com/repos/HDYOU/tachi-ext/git/blobs/ebdd1005b558788acb28ca0fbc9f940ab2f81fc5",
+      "html": "https://github.com/HDYOU/tachi-ext/blob/repo/apk/tachiyomi-zh.mangalegado.roumanwu-v1.4.1747801106-debug.apk"
     }
   },
   {
