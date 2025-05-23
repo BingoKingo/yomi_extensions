@@ -14386,16 +14386,16 @@
   {
     "name": "tachiyomi-ko.wolfdotcom-v1.4.2.apk",
     "path": "apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
-    "sha": "13fd157cbe7db342fdeefaf392d0ffc3a8adfaca",
-    "size": 50595,
+    "sha": "be403119f66415c4be3d915b1b89860064744c60",
+    "size": 50599,
     "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk?ref=repo",
     "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/13fd157cbe7db342fdeefaf392d0ffc3a8adfaca",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/be403119f66415c4be3d915b1b89860064744c60",
     "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/13fd157cbe7db342fdeefaf392d0ffc3a8adfaca",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/be403119f66415c4be3d915b1b89860064744c60",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk"
     }
   },
