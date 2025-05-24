@@ -144,19 +144,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.comickfun-v1.4.57.apk",
-    "path": "apk/tachiyomi-all.comickfun-v1.4.57.apk",
-    "sha": "abcccecf7929bca8f232a4e07b880b559c7a0bfe",
-    "size": 113173,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.comickfun-v1.4.57.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.comickfun-v1.4.57.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/abcccecf7929bca8f232a4e07b880b559c7a0bfe",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.comickfun-v1.4.57.apk",
+    "name": "tachiyomi-all.comickfun-v1.4.58.apk",
+    "path": "apk/tachiyomi-all.comickfun-v1.4.58.apk",
+    "sha": "df4d6c36e10aafc548c570ad222dba899dd1611d",
+    "size": 114473,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.comickfun-v1.4.58.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.comickfun-v1.4.58.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/df4d6c36e10aafc548c570ad222dba899dd1611d",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.comickfun-v1.4.58.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.comickfun-v1.4.57.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/abcccecf7929bca8f232a4e07b880b559c7a0bfe",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.comickfun-v1.4.57.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.comickfun-v1.4.58.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/df4d6c36e10aafc548c570ad222dba899dd1611d",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.comickfun-v1.4.58.apk"
     }
   },
   {
@@ -7824,19 +7824,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.readcomiconline-v1.4.36.apk",
-    "path": "apk/tachiyomi-en.readcomiconline-v1.4.36.apk",
-    "sha": "d533d9628831b2730316c1b947334242d5fc49f3",
-    "size": 67398,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.readcomiconline-v1.4.36.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.36.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d533d9628831b2730316c1b947334242d5fc49f3",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.readcomiconline-v1.4.36.apk",
+    "name": "tachiyomi-en.readcomiconline-v1.4.37.apk",
+    "path": "apk/tachiyomi-en.readcomiconline-v1.4.37.apk",
+    "sha": "3b92e1d06966d23dd293a9afa1a4daf7887a0a94",
+    "size": 67518,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.readcomiconline-v1.4.37.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.37.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/3b92e1d06966d23dd293a9afa1a4daf7887a0a94",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.readcomiconline-v1.4.37.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.readcomiconline-v1.4.36.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d533d9628831b2730316c1b947334242d5fc49f3",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.36.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.readcomiconline-v1.4.37.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/3b92e1d06966d23dd293a9afa1a4daf7887a0a94",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.readcomiconline-v1.4.37.apk"
     }
   },
   {
