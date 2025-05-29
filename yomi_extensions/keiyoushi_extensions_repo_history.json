@@ -15696,6 +15696,22 @@
     }
   },
   {
+    "name": "tachiyomi-pt.nextscan-v1.4.1.apk",
+    "path": "apk/tachiyomi-pt.nextscan-v1.4.1.apk",
+    "sha": "76baea96d0838d7be8a3d1cbed20d4587adce014",
+    "size": 115759,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.nextscan-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.nextscan-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/76baea96d0838d7be8a3d1cbed20d4587adce014",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.nextscan-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.nextscan-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/76baea96d0838d7be8a3d1cbed20d4587adce014",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.nextscan-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-pt.ninjascan-v1.4.44.apk",
     "path": "apk/tachiyomi-pt.ninjascan-v1.4.44.apk",
     "sha": "05e89bb20d59f30c93fb7f55ae323905102602f2",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.remangas-v1.4.44.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ecaf00d44980058bb55a9d3dcb9c4e62d9c0dbc9",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.remangas-v1.4.44.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.rfdragonscan-v1.4.9.apk",
-    "path": "apk/tachiyomi-pt.rfdragonscan-v1.4.9.apk",
-    "sha": "6905e04b18a0afa3767ff5e9d861b9142f5ad1df",
-    "size": 51919,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.rfdragonscan-v1.4.9.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.rfdragonscan-v1.4.9.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6905e04b18a0afa3767ff5e9d861b9142f5ad1df",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.rfdragonscan-v1.4.9.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.rfdragonscan-v1.4.9.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6905e04b18a0afa3767ff5e9d861b9142f5ad1df",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.rfdragonscan-v1.4.9.apk"
     }
   }
 ]
