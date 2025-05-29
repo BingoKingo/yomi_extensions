@@ -15760,6 +15760,22 @@
     }
   },
   {
+    "name": "tachiyomi-pt.nextscan-v1.4.1.apk",
+    "path": "apk/tachiyomi-pt.nextscan-v1.4.1.apk",
+    "sha": "669c7c6a5faeac978d11ac495362ac7787a42367",
+    "size": 115735,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.nextscan-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.nextscan-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/669c7c6a5faeac978d11ac495362ac7787a42367",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.nextscan-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.nextscan-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/669c7c6a5faeac978d11ac495362ac7787a42367",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.nextscan-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-pt.ninjascan-v1.4.44.apk",
     "path": "apk/tachiyomi-pt.ninjascan-v1.4.44.apk",
     "sha": "2d995065fbda3f0d3d0abef2f62d06bcbe2d6be6",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.portalyaoi-v1.4.42.apk?ref=repo",
       "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9d3bd7d30823bd94e98b7fa8f537a31416d583d9",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.portalyaoi-v1.4.42.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.prismascans-v1.4.48.apk",
-    "path": "apk/tachiyomi-pt.prismascans-v1.4.48.apk",
-    "sha": "c11d690cee69dfd23fb8051e30cc14b33f500b9a",
-    "size": 83573,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.prismascans-v1.4.48.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.prismascans-v1.4.48.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c11d690cee69dfd23fb8051e30cc14b33f500b9a",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.prismascans-v1.4.48.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.prismascans-v1.4.48.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c11d690cee69dfd23fb8051e30cc14b33f500b9a",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.prismascans-v1.4.48.apk"
     }
   }
 ]
