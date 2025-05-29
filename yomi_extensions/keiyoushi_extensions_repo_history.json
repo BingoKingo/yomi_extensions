@@ -1840,6 +1840,22 @@
     }
   },
   {
+    "name": "tachiyomi-all.xiutaku-v1.4.1.apk",
+    "path": "apk/tachiyomi-all.xiutaku-v1.4.1.apk",
+    "sha": "e404eb60210944adf65dfbc8bc789af7f4b9560e",
+    "size": 73537,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.xiutaku-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.xiutaku-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e404eb60210944adf65dfbc8bc789af7f4b9560e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.xiutaku-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.xiutaku-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e404eb60210944adf65dfbc8bc789af7f4b9560e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.xiutaku-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-all.xkcd-v1.4.13.apk",
     "path": "apk/tachiyomi-all.xkcd-v1.4.13.apk",
     "sha": "a08e5c0334f95b6469769f43ad4b76d719a4078d",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.rfdragonscan-v1.4.9.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6905e04b18a0afa3767ff5e9d861b9142f5ad1df",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.rfdragonscan-v1.4.9.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.safirescan-v1.4.10.apk",
-    "path": "apk/tachiyomi-pt.safirescan-v1.4.10.apk",
-    "sha": "f093bca3623bfaa92f83cf68030669aa5ed74273",
-    "size": 106223,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.safirescan-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.safirescan-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f093bca3623bfaa92f83cf68030669aa5ed74273",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.safirescan-v1.4.10.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.safirescan-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f093bca3623bfaa92f83cf68030669aa5ed74273",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.safirescan-v1.4.10.apk"
     }
   }
 ]
