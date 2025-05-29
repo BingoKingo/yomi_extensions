@@ -8432,19 +8432,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.spyfakku-v1.4.10.apk",
-    "path": "apk/tachiyomi-en.spyfakku-v1.4.10.apk",
-    "sha": "ebc15e561ed2cdf53afeaedfad2b5f0514c8c8f7",
-    "size": 62085,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ebc15e561ed2cdf53afeaedfad2b5f0514c8c8f7",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.spyfakku-v1.4.10.apk",
+    "name": "tachiyomi-en.spyfakku-v1.4.11.apk",
+    "path": "apk/tachiyomi-en.spyfakku-v1.4.11.apk",
+    "sha": "ab96deab9b52597d6899dd0354eb4758241bd141",
+    "size": 62063,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ab96deab9b52597d6899dd0354eb4758241bd141",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.spyfakku-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ebc15e561ed2cdf53afeaedfad2b5f0514c8c8f7",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.10.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ab96deab9b52597d6899dd0354eb4758241bd141",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.11.apk"
     }
   },
   {
@@ -10048,19 +10048,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.jeazscans-v1.4.45.apk",
-    "path": "apk/tachiyomi-es.jeazscans-v1.4.45.apk",
-    "sha": "ea9aef09327d51402b23e47b1fe5483d74c42c1b",
+    "name": "tachiyomi-es.jeazscans-v1.4.47.apk",
+    "path": "apk/tachiyomi-es.jeazscans-v1.4.47.apk",
+    "sha": "f131df3683111930f0712e3a19b9b929adec80a6",
     "size": 86667,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.jeazscans-v1.4.45.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.jeazscans-v1.4.45.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ea9aef09327d51402b23e47b1fe5483d74c42c1b",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.jeazscans-v1.4.45.apk",
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.jeazscans-v1.4.47.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.jeazscans-v1.4.47.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f131df3683111930f0712e3a19b9b929adec80a6",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.jeazscans-v1.4.47.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.jeazscans-v1.4.45.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ea9aef09327d51402b23e47b1fe5483d74c42c1b",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.jeazscans-v1.4.45.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.jeazscans-v1.4.47.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f131df3683111930f0712e3a19b9b929adec80a6",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.jeazscans-v1.4.47.apk"
     }
   },
   {
@@ -14338,16 +14338,16 @@
   {
     "name": "tachiyomi-ko.wolfdotcom-v1.4.2.apk",
     "path": "apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
-    "sha": "04c3c41f937c33e010a84d0bcb806193681f6a32",
-    "size": 50669,
+    "sha": "798e27f47697177c3505fad9c196e703f75d1c3a",
+    "size": 50667,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/04c3c41f937c33e010a84d0bcb806193681f6a32",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/798e27f47697177c3505fad9c196e703f75d1c3a",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/04c3c41f937c33e010a84d0bcb806193681f6a32",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/798e27f47697177c3505fad9c196e703f75d1c3a",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk"
     }
   },
