@@ -4960,22 +4960,6 @@
     }
   },
   {
-    "name": "tachiyomi-en.latisbooks-v1.4.6.apk",
-    "path": "apk/tachiyomi-en.latisbooks-v1.4.6.apk",
-    "sha": "ae302201fb9fc38dab93b088831b1cbc976fca0c",
-    "size": 46352,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.latisbooks-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.latisbooks-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ae302201fb9fc38dab93b088831b1cbc976fca0c",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.latisbooks-v1.4.6.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.latisbooks-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ae302201fb9fc38dab93b088831b1cbc976fca0c",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.latisbooks-v1.4.6.apk"
-    }
-  },
-  {
     "name": "tachiyomi-en.lemonfont-v1.4.3.apk",
     "path": "apk/tachiyomi-en.lemonfont-v1.4.3.apk",
     "sha": "25b96055256cdd8d408548eb4904ee4c63adc49e",
@@ -6989,6 +6973,22 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.megatokyo-v1.4.3.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/99758919a3f0548a46b986bd82c5bec63d9a2f07",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.megatokyo-v1.4.3.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.mehgazone-v1.4.1.apk",
+    "path": "apk/tachiyomi-en.mehgazone-v1.4.1.apk",
+    "sha": "f40658223341471a1289350b08ee1d735443212a",
+    "size": 126459,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mehgazone-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mehgazone-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f40658223341471a1289350b08ee1d735443212a",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mehgazone-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mehgazone-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f40658223341471a1289350b08ee1d735443212a",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mehgazone-v1.4.1.apk"
     }
   },
   {
