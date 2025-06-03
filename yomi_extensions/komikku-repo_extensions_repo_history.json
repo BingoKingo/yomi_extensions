@@ -5024,22 +5024,6 @@
     }
   },
   {
-    "name": "tachiyomi-en.latisbooks-v1.4.6.apk",
-    "path": "apk/tachiyomi-en.latisbooks-v1.4.6.apk",
-    "sha": "2ce57f27a747c9fb9c351d81851d5e1c4a3973a0",
-    "size": 46333,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.latisbooks-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.latisbooks-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/2ce57f27a747c9fb9c351d81851d5e1c4a3973a0",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.latisbooks-v1.4.6.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.latisbooks-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/2ce57f27a747c9fb9c351d81851d5e1c4a3973a0",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.latisbooks-v1.4.6.apk"
-    }
-  },
-  {
     "name": "tachiyomi-en.lemonfont-v1.4.3.apk",
     "path": "apk/tachiyomi-en.lemonfont-v1.4.3.apk",
     "sha": "ef90de0fc487ce14fbc0a53787426e386139af89",
@@ -7053,6 +7037,22 @@
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.megatokyo-v1.4.3.apk?ref=repo",
       "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/06bdc5af054fe6ac859c4288aa14a21cfe1086ad",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.megatokyo-v1.4.3.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.mehgazone-v1.4.1.apk",
+    "path": "apk/tachiyomi-en.mehgazone-v1.4.1.apk",
+    "sha": "e93b2f395a4a55d30e8af82cc6203b2c4ddf3c9f",
+    "size": 126440,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mehgazone-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mehgazone-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e93b2f395a4a55d30e8af82cc6203b2c4ddf3c9f",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.mehgazone-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mehgazone-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e93b2f395a4a55d30e8af82cc6203b2c4ddf3c9f",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mehgazone-v1.4.1.apk"
     }
   },
   {
