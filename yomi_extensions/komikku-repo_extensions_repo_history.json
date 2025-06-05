@@ -10848,22 +10848,6 @@
     }
   },
   {
-    "name": "tachiyomi-es.senpaiediciones-v1.4.32.apk",
-    "path": "apk/tachiyomi-es.senpaiediciones-v1.4.32.apk",
-    "sha": "503bc33c8cd721fc053816f1debc6ffedb01300a",
-    "size": 69507,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.senpaiediciones-v1.4.32.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.senpaiediciones-v1.4.32.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/503bc33c8cd721fc053816f1debc6ffedb01300a",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.senpaiediciones-v1.4.32.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.senpaiediciones-v1.4.32.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/503bc33c8cd721fc053816f1debc6ffedb01300a",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.senpaiediciones-v1.4.32.apk"
-    }
-  },
-  {
     "name": "tachiyomi-es.senshimanga-v1.4.8.apk",
     "path": "apk/tachiyomi-es.senshimanga-v1.4.8.apk",
     "sha": "df3e6cd66b02af420dd2474fc6e1f56578a2ec45",
@@ -11664,19 +11648,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.phenixscans-v1.4.33.apk",
-    "path": "apk/tachiyomi-fr.phenixscans-v1.4.33.apk",
-    "sha": "d55cbeadad3cec2773a4e58bd151db92a1b7778b",
-    "size": 80312,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.phenixscans-v1.4.33.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.phenixscans-v1.4.33.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d55cbeadad3cec2773a4e58bd151db92a1b7778b",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.phenixscans-v1.4.33.apk",
+    "name": "tachiyomi-fr.phenixscans-v1.4.34.apk",
+    "path": "apk/tachiyomi-fr.phenixscans-v1.4.34.apk",
+    "sha": "d2d248c347a49d5586203dc934e8ca13c1c1340d",
+    "size": 80666,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.phenixscans-v1.4.34.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.phenixscans-v1.4.34.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d2d248c347a49d5586203dc934e8ca13c1c1340d",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.phenixscans-v1.4.34.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.phenixscans-v1.4.33.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d55cbeadad3cec2773a4e58bd151db92a1b7778b",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.phenixscans-v1.4.33.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.phenixscans-v1.4.34.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d2d248c347a49d5586203dc934e8ca13c1c1340d",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.phenixscans-v1.4.34.apk"
     }
   },
   {
@@ -14434,16 +14418,16 @@
   {
     "name": "tachiyomi-ko.wolfdotcom-v1.4.2.apk",
     "path": "apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
-    "sha": "7e308e177773f66092ea55c027dbc18c63720492",
+    "sha": "3f35cf2aa46b2a2c1aa781faad28b37608ecb825",
     "size": 50599,
     "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk?ref=repo",
     "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/7e308e177773f66092ea55c027dbc18c63720492",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/3f35cf2aa46b2a2c1aa781faad28b37608ecb825",
     "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/7e308e177773f66092ea55c027dbc18c63720492",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/3f35cf2aa46b2a2c1aa781faad28b37608ecb825",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.2.apk"
     }
   },
@@ -15997,6 +15981,22 @@
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk?ref=repo",
       "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/0ccc7d93d94b966f2afec694cef5d82ca6e96837",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-pt.portalyaoi-v1.4.42.apk",
+    "path": "apk/tachiyomi-pt.portalyaoi-v1.4.42.apk",
+    "sha": "9d3bd7d30823bd94e98b7fa8f537a31416d583d9",
+    "size": 87418,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.portalyaoi-v1.4.42.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.portalyaoi-v1.4.42.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9d3bd7d30823bd94e98b7fa8f537a31416d583d9",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.portalyaoi-v1.4.42.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.portalyaoi-v1.4.42.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9d3bd7d30823bd94e98b7fa8f537a31416d583d9",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.portalyaoi-v1.4.42.apk"
     }
   }
 ]
