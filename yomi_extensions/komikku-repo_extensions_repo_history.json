@@ -704,19 +704,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.hniscantrad-v1.4.8.apk",
-    "path": "apk/tachiyomi-all.hniscantrad-v1.4.8.apk",
-    "sha": "bb569cf947b2197312536b92f7d28a31ee37d625",
-    "size": 146353,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hniscantrad-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hniscantrad-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/bb569cf947b2197312536b92f7d28a31ee37d625",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.hniscantrad-v1.4.8.apk",
+    "name": "tachiyomi-all.hniscantrad-v1.4.9.apk",
+    "path": "apk/tachiyomi-all.hniscantrad-v1.4.9.apk",
+    "sha": "35703fef28c90d7f4f0176dd407ac51eef97f8e9",
+    "size": 146358,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hniscantrad-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hniscantrad-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/35703fef28c90d7f4f0176dd407ac51eef97f8e9",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.hniscantrad-v1.4.9.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hniscantrad-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/bb569cf947b2197312536b92f7d28a31ee37d625",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hniscantrad-v1.4.8.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hniscantrad-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/35703fef28c90d7f4f0176dd407ac51eef97f8e9",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hniscantrad-v1.4.9.apk"
     }
   },
   {
@@ -7024,6 +7024,22 @@
     }
   },
   {
+    "name": "tachiyomi-en.mayotune-v1.4.1.apk",
+    "path": "apk/tachiyomi-en.mayotune-v1.4.1.apk",
+    "sha": "5b0c817408f8963a8075140fe1c8406ea7ef2f41",
+    "size": 43622,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mayotune-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mayotune-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/5b0c817408f8963a8075140fe1c8406ea7ef2f41",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.mayotune-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mayotune-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/5b0c817408f8963a8075140fe1c8406ea7ef2f41",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mayotune-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-en.megatokyo-v1.4.3.apk",
     "path": "apk/tachiyomi-en.megatokyo-v1.4.3.apk",
     "sha": "06bdc5af054fe6ac859c4288aa14a21cfe1086ad",
@@ -9184,19 +9200,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.weebcentral-v1.4.14.apk",
-    "path": "apk/tachiyomi-en.weebcentral-v1.4.14.apk",
-    "sha": "d94eaf006f9d9a1eba46490286ec2cd1c6e88a41",
-    "size": 72713,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.weebcentral-v1.4.14.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.weebcentral-v1.4.14.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d94eaf006f9d9a1eba46490286ec2cd1c6e88a41",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.weebcentral-v1.4.14.apk",
+    "name": "tachiyomi-en.weebcentral-v1.4.15.apk",
+    "path": "apk/tachiyomi-en.weebcentral-v1.4.15.apk",
+    "sha": "feaaca9c0e9639c629a3cbc20f47078d6201ce3c",
+    "size": 75196,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.weebcentral-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.weebcentral-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/feaaca9c0e9639c629a3cbc20f47078d6201ce3c",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.weebcentral-v1.4.15.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.weebcentral-v1.4.14.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d94eaf006f9d9a1eba46490286ec2cd1c6e88a41",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.weebcentral-v1.4.14.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.weebcentral-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/feaaca9c0e9639c629a3cbc20f47078d6201ce3c",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.weebcentral-v1.4.15.apk"
     }
   },
   {
@@ -11296,19 +11312,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.bluesolo-v1.4.3.apk",
-    "path": "apk/tachiyomi-fr.bluesolo-v1.4.3.apk",
-    "sha": "d9b4558e87c291527a6e0e0b2151287582c974f2",
-    "size": 56864,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.bluesolo-v1.4.3.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.bluesolo-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d9b4558e87c291527a6e0e0b2151287582c974f2",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.bluesolo-v1.4.3.apk",
+    "name": "tachiyomi-fr.bluesolo-v1.4.4.apk",
+    "path": "apk/tachiyomi-fr.bluesolo-v1.4.4.apk",
+    "sha": "e921401e5843d62406ac3ea9db9cc6ee4b5a2092",
+    "size": 56883,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.bluesolo-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.bluesolo-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e921401e5843d62406ac3ea9db9cc6ee4b5a2092",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.bluesolo-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.bluesolo-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d9b4558e87c291527a6e0e0b2151287582c974f2",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.bluesolo-v1.4.3.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.bluesolo-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e921401e5843d62406ac3ea9db9cc6ee4b5a2092",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.bluesolo-v1.4.4.apk"
     }
   },
   {
@@ -11360,19 +11376,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.fmteam-v1.4.6.apk",
-    "path": "apk/tachiyomi-fr.fmteam-v1.4.6.apk",
-    "sha": "c6a93bfd841cbab306880421dd907997e2cb55e5",
-    "size": 52283,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.fmteam-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.fmteam-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c6a93bfd841cbab306880421dd907997e2cb55e5",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.fmteam-v1.4.6.apk",
+    "name": "tachiyomi-fr.fmteam-v1.4.7.apk",
+    "path": "apk/tachiyomi-fr.fmteam-v1.4.7.apk",
+    "sha": "e60f30770560e14bd2768a868df283a7665a3258",
+    "size": 52298,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.fmteam-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.fmteam-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e60f30770560e14bd2768a868df283a7665a3258",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.fmteam-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.fmteam-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c6a93bfd841cbab306880421dd907997e2cb55e5",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.fmteam-v1.4.6.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.fmteam-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e60f30770560e14bd2768a868df283a7665a3258",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.fmteam-v1.4.7.apk"
     }
   },
   {
@@ -11648,35 +11664,35 @@
     }
   },
   {
-    "name": "tachiyomi-fr.phenixscans-v1.4.34.apk",
-    "path": "apk/tachiyomi-fr.phenixscans-v1.4.34.apk",
-    "sha": "d2d248c347a49d5586203dc934e8ca13c1c1340d",
-    "size": 80666,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.phenixscans-v1.4.34.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.phenixscans-v1.4.34.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d2d248c347a49d5586203dc934e8ca13c1c1340d",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.phenixscans-v1.4.34.apk",
+    "name": "tachiyomi-fr.phenixscans-v1.4.35.apk",
+    "path": "apk/tachiyomi-fr.phenixscans-v1.4.35.apk",
+    "sha": "2dcbf49cf0e712f3ca15c1fdeb31f314a17482aa",
+    "size": 80672,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.phenixscans-v1.4.35.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.phenixscans-v1.4.35.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/2dcbf49cf0e712f3ca15c1fdeb31f314a17482aa",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.phenixscans-v1.4.35.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.phenixscans-v1.4.34.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d2d248c347a49d5586203dc934e8ca13c1c1340d",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.phenixscans-v1.4.34.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.phenixscans-v1.4.35.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/2dcbf49cf0e712f3ca15c1fdeb31f314a17482aa",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.phenixscans-v1.4.35.apk"
     }
   },
   {
-    "name": "tachiyomi-fr.poseidonscans-v1.4.43.apk",
-    "path": "apk/tachiyomi-fr.poseidonscans-v1.4.43.apk",
-    "sha": "a96fddf4ea19a13d003a65a198176459109196af",
-    "size": 80609,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.poseidonscans-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.poseidonscans-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a96fddf4ea19a13d003a65a198176459109196af",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.poseidonscans-v1.4.43.apk",
+    "name": "tachiyomi-fr.poseidonscans-v1.4.44.apk",
+    "path": "apk/tachiyomi-fr.poseidonscans-v1.4.44.apk",
+    "sha": "62316db0c1fe576142bf5adf5a9aa84adc1354c8",
+    "size": 80654,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.poseidonscans-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.poseidonscans-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/62316db0c1fe576142bf5adf5a9aa84adc1354c8",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.poseidonscans-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.poseidonscans-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a96fddf4ea19a13d003a65a198176459109196af",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.poseidonscans-v1.4.43.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.poseidonscans-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/62316db0c1fe576142bf5adf5a9aa84adc1354c8",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.poseidonscans-v1.4.44.apk"
     }
   },
   {
@@ -13248,35 +13264,35 @@
     }
   },
   {
-    "name": "tachiyomi-it.gto-v1.4.6.apk",
-    "path": "apk/tachiyomi-it.gto-v1.4.6.apk",
-    "sha": "afeccd15d9d9bde6f33eb4c0106dee5272c72a5b",
-    "size": 83086,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.gto-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.gto-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/afeccd15d9d9bde6f33eb4c0106dee5272c72a5b",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.gto-v1.4.6.apk",
+    "name": "tachiyomi-it.gto-v1.4.7.apk",
+    "path": "apk/tachiyomi-it.gto-v1.4.7.apk",
+    "sha": "49a2f4967e8ffd9b442fea29f1454b13aaa3397a",
+    "size": 83112,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.gto-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.gto-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/49a2f4967e8ffd9b442fea29f1454b13aaa3397a",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.gto-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.gto-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/afeccd15d9d9bde6f33eb4c0106dee5272c72a5b",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.gto-v1.4.6.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.gto-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/49a2f4967e8ffd9b442fea29f1454b13aaa3397a",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.gto-v1.4.7.apk"
     }
   },
   {
-    "name": "tachiyomi-it.hastateam-v1.4.3.apk",
-    "path": "apk/tachiyomi-it.hastateam-v1.4.3.apk",
-    "sha": "21313021d159ceb6bb2b1ec225f654905edbce64",
-    "size": 69762,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.hastateam-v1.4.3.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.hastateam-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/21313021d159ceb6bb2b1ec225f654905edbce64",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.hastateam-v1.4.3.apk",
+    "name": "tachiyomi-it.hastateam-v1.4.4.apk",
+    "path": "apk/tachiyomi-it.hastateam-v1.4.4.apk",
+    "sha": "39dbbe79f22efa4c226b1a36a08f9486c3d34149",
+    "size": 69787,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.hastateam-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.hastateam-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/39dbbe79f22efa4c226b1a36a08f9486c3d34149",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.hastateam-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.hastateam-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/21313021d159ceb6bb2b1ec225f654905edbce64",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.hastateam-v1.4.3.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.hastateam-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/39dbbe79f22efa4c226b1a36a08f9486c3d34149",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.hastateam-v1.4.4.apk"
     }
   },
   {
@@ -13312,19 +13328,19 @@
     }
   },
   {
-    "name": "tachiyomi-it.lupiteam-v1.4.6.apk",
-    "path": "apk/tachiyomi-it.lupiteam-v1.4.6.apk",
-    "sha": "72db27bc1ec6c5ef0cd89321a155e8f3e1ab7fb9",
-    "size": 92877,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.lupiteam-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.lupiteam-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/72db27bc1ec6c5ef0cd89321a155e8f3e1ab7fb9",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.lupiteam-v1.4.6.apk",
+    "name": "tachiyomi-it.lupiteam-v1.4.7.apk",
+    "path": "apk/tachiyomi-it.lupiteam-v1.4.7.apk",
+    "sha": "9e9f014aa05fde27e1d50bd9458a583999223c0f",
+    "size": 92883,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.lupiteam-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.lupiteam-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9e9f014aa05fde27e1d50bd9458a583999223c0f",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.lupiteam-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.lupiteam-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/72db27bc1ec6c5ef0cd89321a155e8f3e1ab7fb9",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.lupiteam-v1.4.6.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.lupiteam-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9e9f014aa05fde27e1d50bd9458a583999223c0f",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.lupiteam-v1.4.7.apk"
     }
   },
   {
@@ -13376,19 +13392,19 @@
     }
   },
   {
-    "name": "tachiyomi-it.phoenixscans-v1.4.7.apk",
-    "path": "apk/tachiyomi-it.phoenixscans-v1.4.7.apk",
-    "sha": "a55b2ed4232af82e418959a9448d9b10d7270b39",
-    "size": 98246,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.phoenixscans-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.phoenixscans-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a55b2ed4232af82e418959a9448d9b10d7270b39",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.phoenixscans-v1.4.7.apk",
+    "name": "tachiyomi-it.phoenixscans-v1.4.8.apk",
+    "path": "apk/tachiyomi-it.phoenixscans-v1.4.8.apk",
+    "sha": "080fbfe1fcf9bae857eed5b78b191c8e38102026",
+    "size": 98254,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.phoenixscans-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.phoenixscans-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/080fbfe1fcf9bae857eed5b78b191c8e38102026",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.phoenixscans-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.phoenixscans-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a55b2ed4232af82e418959a9448d9b10d7270b39",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.phoenixscans-v1.4.7.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.phoenixscans-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/080fbfe1fcf9bae857eed5b78b191c8e38102026",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.phoenixscans-v1.4.8.apk"
     }
   },
   {
@@ -13408,19 +13424,19 @@
     }
   },
   {
-    "name": "tachiyomi-it.tuttoanimemanga-v1.4.8.apk",
-    "path": "apk/tachiyomi-it.tuttoanimemanga-v1.4.8.apk",
-    "sha": "f412557cadf98a656e44060058e22594fd9f1809",
-    "size": 125716,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.tuttoanimemanga-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.tuttoanimemanga-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f412557cadf98a656e44060058e22594fd9f1809",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.tuttoanimemanga-v1.4.8.apk",
+    "name": "tachiyomi-it.tuttoanimemanga-v1.4.9.apk",
+    "path": "apk/tachiyomi-it.tuttoanimemanga-v1.4.9.apk",
+    "sha": "67842e256124938cbdfe45ad9be6f070107b06b0",
+    "size": 125732,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.tuttoanimemanga-v1.4.9.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.tuttoanimemanga-v1.4.9.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/67842e256124938cbdfe45ad9be6f070107b06b0",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-it.tuttoanimemanga-v1.4.9.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.tuttoanimemanga-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f412557cadf98a656e44060058e22594fd9f1809",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.tuttoanimemanga-v1.4.8.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-it.tuttoanimemanga-v1.4.9.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/67842e256124938cbdfe45ad9be6f070107b06b0",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-it.tuttoanimemanga-v1.4.9.apk"
     }
   },
   {
@@ -14592,19 +14608,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.argosscan-v1.4.24.apk",
-    "path": "apk/tachiyomi-pt.argosscan-v1.4.24.apk",
-    "sha": "a54ae3b2bd00ef8ba1a65356a1a03783d083ee93",
-    "size": 59725,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.argosscan-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.argosscan-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a54ae3b2bd00ef8ba1a65356a1a03783d083ee93",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.argosscan-v1.4.24.apk",
+    "name": "tachiyomi-pt.argosscan-v1.4.25.apk",
+    "path": "apk/tachiyomi-pt.argosscan-v1.4.25.apk",
+    "sha": "40f9d097f0498cd8d05decf2fb579af3be1e8246",
+    "size": 48091,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.argosscan-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.argosscan-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/40f9d097f0498cd8d05decf2fb579af3be1e8246",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.argosscan-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.argosscan-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a54ae3b2bd00ef8ba1a65356a1a03783d083ee93",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.argosscan-v1.4.24.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.argosscan-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/40f9d097f0498cd8d05decf2fb579af3be1e8246",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.argosscan-v1.4.25.apk"
     }
   },
   {
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.plumacomics-v1.4.42.apk?ref=repo",
       "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/bf37a2ab8191069441c6501c1bfe7ec982295294",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.plumacomics-v1.4.42.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.pointzerotoons-v1.4.30.apk",
-    "path": "apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk",
-    "sha": "0ccc7d93d94b966f2afec694cef5d82ca6e96837",
-    "size": 83005,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/0ccc7d93d94b966f2afec694cef5d82ca6e96837",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/0ccc7d93d94b966f2afec694cef5d82ca6e96837",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk"
     }
   }
 ]
