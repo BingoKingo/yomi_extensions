@@ -624,19 +624,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.hitomi-v1.4.39.apk",
-    "path": "apk/tachiyomi-all.hitomi-v1.4.39.apk",
-    "sha": "337cf1865495d3ae94c22b8a3f49feb3e8c5ce1e",
-    "size": 75084,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hitomi-v1.4.39.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hitomi-v1.4.39.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/337cf1865495d3ae94c22b8a3f49feb3e8c5ce1e",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.hitomi-v1.4.39.apk",
+    "name": "tachiyomi-all.hitomi-v1.4.40.apk",
+    "path": "apk/tachiyomi-all.hitomi-v1.4.40.apk",
+    "sha": "8cb9e1157e123a3be94e31a5a1c1c2070144a91c",
+    "size": 74882,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hitomi-v1.4.40.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hitomi-v1.4.40.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8cb9e1157e123a3be94e31a5a1c1c2070144a91c",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.hitomi-v1.4.40.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hitomi-v1.4.39.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/337cf1865495d3ae94c22b8a3f49feb3e8c5ce1e",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hitomi-v1.4.39.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hitomi-v1.4.40.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8cb9e1157e123a3be94e31a5a1c1c2070144a91c",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hitomi-v1.4.40.apk"
     }
   },
   {
@@ -12208,19 +12208,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.komikcast-v1.4.65.apk",
-    "path": "apk/tachiyomi-id.komikcast-v1.4.65.apk",
-    "sha": "e638f867735173faff911b257ddecff86503e3a8",
-    "size": 131486,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.komikcast-v1.4.65.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.komikcast-v1.4.65.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e638f867735173faff911b257ddecff86503e3a8",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.komikcast-v1.4.65.apk",
+    "name": "tachiyomi-id.komikcast-v1.4.66.apk",
+    "path": "apk/tachiyomi-id.komikcast-v1.4.66.apk",
+    "sha": "b7b34d8ee5bd72d5120eeaa32df05093ed928c27",
+    "size": 131470,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.komikcast-v1.4.66.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b7b34d8ee5bd72d5120eeaa32df05093ed928c27",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.komikcast-v1.4.65.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e638f867735173faff911b257ddecff86503e3a8",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.komikcast-v1.4.65.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.komikcast-v1.4.66.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b7b34d8ee5bd72d5120eeaa32df05093ed928c27",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk"
     }
   },
   {
