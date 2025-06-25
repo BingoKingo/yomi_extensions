@@ -672,19 +672,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.hitomi-v1.4.39.apk",
-    "path": "apk/tachiyomi-all.hitomi-v1.4.39.apk",
-    "sha": "94097444e3792f528f1927ed1eacffbd4694cd4f",
-    "size": 75023,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hitomi-v1.4.39.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hitomi-v1.4.39.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/94097444e3792f528f1927ed1eacffbd4694cd4f",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.hitomi-v1.4.39.apk",
+    "name": "tachiyomi-all.hitomi-v1.4.40.apk",
+    "path": "apk/tachiyomi-all.hitomi-v1.4.40.apk",
+    "sha": "c691d00f3b4e18b25aab149a756bee921a4d70b2",
+    "size": 74856,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hitomi-v1.4.40.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hitomi-v1.4.40.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c691d00f3b4e18b25aab149a756bee921a4d70b2",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.hitomi-v1.4.40.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hitomi-v1.4.39.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/94097444e3792f528f1927ed1eacffbd4694cd4f",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hitomi-v1.4.39.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hitomi-v1.4.40.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c691d00f3b4e18b25aab149a756bee921a4d70b2",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hitomi-v1.4.40.apk"
     }
   },
   {
@@ -12272,19 +12272,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.komikcast-v1.4.65.apk",
-    "path": "apk/tachiyomi-id.komikcast-v1.4.65.apk",
-    "sha": "e46559afb1636ee2a68d5c4ee275b8a2c050f822",
-    "size": 131478,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-id.komikcast-v1.4.65.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-id.komikcast-v1.4.65.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e46559afb1636ee2a68d5c4ee275b8a2c050f822",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-id.komikcast-v1.4.65.apk",
+    "name": "tachiyomi-id.komikcast-v1.4.66.apk",
+    "path": "apk/tachiyomi-id.komikcast-v1.4.66.apk",
+    "sha": "1bef4494a0eb52895103ddb395be1fc3358c1ed3",
+    "size": 131462,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-id.komikcast-v1.4.66.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/1bef4494a0eb52895103ddb395be1fc3358c1ed3",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-id.komikcast-v1.4.65.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e46559afb1636ee2a68d5c4ee275b8a2c050f822",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-id.komikcast-v1.4.65.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-id.komikcast-v1.4.66.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/1bef4494a0eb52895103ddb395be1fc3358c1ed3",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk"
     }
   },
   {
