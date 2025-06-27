@@ -14466,16 +14466,16 @@
   {
     "name": "tachiyomi-ko.wolfdotcom-v1.4.3.apk",
     "path": "apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk",
-    "sha": "a98094821a91409ee3939551b63b1683efafa8df",
-    "size": 50664,
+    "sha": "3d40270e7ea08c9c165b24eea7402b7cf3458ae0",
+    "size": 50661,
     "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk?ref=repo",
     "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a98094821a91409ee3939551b63b1683efafa8df",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/3d40270e7ea08c9c165b24eea7402b7cf3458ae0",
     "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a98094821a91409ee3939551b63b1683efafa8df",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/3d40270e7ea08c9c165b24eea7402b7cf3458ae0",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk"
     }
   },
@@ -14656,19 +14656,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.astratoons-v1.4.1.apk",
-    "path": "apk/tachiyomi-pt.astratoons-v1.4.1.apk",
-    "sha": "1c3526af6510a07e5ff31d7b712e045223fce76f",
-    "size": 86450,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.astratoons-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.astratoons-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/1c3526af6510a07e5ff31d7b712e045223fce76f",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.astratoons-v1.4.1.apk",
+    "name": "tachiyomi-pt.astratoons-v1.4.2.apk",
+    "path": "apk/tachiyomi-pt.astratoons-v1.4.2.apk",
+    "sha": "064fdde78f5f3ea6bc9b6f89c29ca8536d289ae5",
+    "size": 86464,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.astratoons-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.astratoons-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/064fdde78f5f3ea6bc9b6f89c29ca8536d289ae5",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.astratoons-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.astratoons-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/1c3526af6510a07e5ff31d7b712e045223fce76f",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.astratoons-v1.4.1.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.astratoons-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/064fdde78f5f3ea6bc9b6f89c29ca8536d289ae5",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.astratoons-v1.4.2.apk"
     }
   },
   {
