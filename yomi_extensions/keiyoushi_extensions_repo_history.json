@@ -14402,16 +14402,16 @@
   {
     "name": "tachiyomi-ko.wolfdotcom-v1.4.3.apk",
     "path": "apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk",
-    "sha": "091b88e222f3beceaa2cbb2ddf1277700c3fb39e",
-    "size": 50734,
+    "sha": "cd66b2984c0e06da639e104d351f29f1c751a162",
+    "size": 50731,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/091b88e222f3beceaa2cbb2ddf1277700c3fb39e",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cd66b2984c0e06da639e104d351f29f1c751a162",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/091b88e222f3beceaa2cbb2ddf1277700c3fb39e",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cd66b2984c0e06da639e104d351f29f1c751a162",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk"
     }
   },
@@ -14592,19 +14592,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.astratoons-v1.4.1.apk",
-    "path": "apk/tachiyomi-pt.astratoons-v1.4.1.apk",
-    "sha": "73ea9649f5a0240aa7cb361bc186173214d3456c",
-    "size": 86469,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.astratoons-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.astratoons-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/73ea9649f5a0240aa7cb361bc186173214d3456c",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.astratoons-v1.4.1.apk",
+    "name": "tachiyomi-pt.astratoons-v1.4.2.apk",
+    "path": "apk/tachiyomi-pt.astratoons-v1.4.2.apk",
+    "sha": "1253b6660570254eca9ce550de586d96929673a1",
+    "size": 86489,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.astratoons-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.astratoons-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/1253b6660570254eca9ce550de586d96929673a1",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.astratoons-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.astratoons-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/73ea9649f5a0240aa7cb361bc186173214d3456c",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.astratoons-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.astratoons-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/1253b6660570254eca9ce550de586d96929673a1",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.astratoons-v1.4.2.apk"
     }
   },
   {
