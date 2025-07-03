@@ -14192,19 +14192,19 @@
     }
   },
   {
-    "name": "tachiyomi-ja.rawkuma-v1.4.31.apk",
-    "path": "apk/tachiyomi-ja.rawkuma-v1.4.31.apk",
-    "sha": "8f54625e5ec3c35ee3e8c87273b6a17ebfee5c30",
-    "size": 85410,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ja.rawkuma-v1.4.31.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.31.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8f54625e5ec3c35ee3e8c87273b6a17ebfee5c30",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-ja.rawkuma-v1.4.31.apk",
+    "name": "tachiyomi-ja.rawkuma-v1.4.32.apk",
+    "path": "apk/tachiyomi-ja.rawkuma-v1.4.32.apk",
+    "sha": "c89740ad33e25f22985c512097f1bc3c39bc666a",
+    "size": 85408,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ja.rawkuma-v1.4.32.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.32.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c89740ad33e25f22985c512097f1bc3c39bc666a",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-ja.rawkuma-v1.4.32.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ja.rawkuma-v1.4.31.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8f54625e5ec3c35ee3e8c87273b6a17ebfee5c30",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.31.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ja.rawkuma-v1.4.32.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c89740ad33e25f22985c512097f1bc3c39bc666a",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.32.apk"
     }
   },
   {
