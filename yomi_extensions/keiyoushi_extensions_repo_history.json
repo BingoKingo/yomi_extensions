@@ -14128,19 +14128,19 @@
     }
   },
   {
-    "name": "tachiyomi-ja.rawkuma-v1.4.31.apk",
-    "path": "apk/tachiyomi-ja.rawkuma-v1.4.31.apk",
-    "sha": "9fe87529dcaa73f8aa841a9c2256b7dabc4b4746",
-    "size": 85435,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.rawkuma-v1.4.31.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.31.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9fe87529dcaa73f8aa841a9c2256b7dabc4b4746",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.rawkuma-v1.4.31.apk",
+    "name": "tachiyomi-ja.rawkuma-v1.4.32.apk",
+    "path": "apk/tachiyomi-ja.rawkuma-v1.4.32.apk",
+    "sha": "d16467624827b6158bfe7b8ffe82ffe2b0bb7681",
+    "size": 85430,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.rawkuma-v1.4.32.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.32.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d16467624827b6158bfe7b8ffe82ffe2b0bb7681",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.rawkuma-v1.4.32.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.rawkuma-v1.4.31.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9fe87529dcaa73f8aa841a9c2256b7dabc4b4746",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.31.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.rawkuma-v1.4.32.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d16467624827b6158bfe7b8ffe82ffe2b0bb7681",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.32.apk"
     }
   },
   {
