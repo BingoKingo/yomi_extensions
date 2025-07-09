@@ -2,33 +2,33 @@
   {
     "name": "aniyomi-all.jellyfin-v14.23.apk",
     "path": "apk/aniyomi-all.jellyfin-v14.23.apk",
-    "sha": "79851fc43da21a55a88e5068a4a74e3716bc73b9",
-    "size": 443289,
+    "sha": "6a1420682cbfa74d4008e1d95a32b696f68337bd",
+    "size": 443290,
     "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.jellyfin-v14.23.apk?ref=repo",
     "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.jellyfin-v14.23.apk",
-    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/79851fc43da21a55a88e5068a4a74e3716bc73b9",
+    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/6a1420682cbfa74d4008e1d95a32b696f68337bd",
     "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.jellyfin-v14.23.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.jellyfin-v14.23.apk?ref=repo",
-      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/79851fc43da21a55a88e5068a4a74e3716bc73b9",
+      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/6a1420682cbfa74d4008e1d95a32b696f68337bd",
       "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.jellyfin-v14.23.apk"
     }
   },
   {
-    "name": "aniyomi-all.stremio-v14.2.apk",
-    "path": "apk/aniyomi-all.stremio-v14.2.apk",
-    "sha": "234d160454cd929892d28a5348f4e299e13be8b0",
-    "size": 433297,
-    "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.stremio-v14.2.apk?ref=repo",
-    "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.stremio-v14.2.apk",
-    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/234d160454cd929892d28a5348f4e299e13be8b0",
-    "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.stremio-v14.2.apk",
+    "name": "aniyomi-all.stremio-v14.3.apk",
+    "path": "apk/aniyomi-all.stremio-v14.3.apk",
+    "sha": "966107f5e1318bdbaaec25d96bb7eeef392f02fb",
+    "size": 433243,
+    "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.stremio-v14.3.apk?ref=repo",
+    "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.stremio-v14.3.apk",
+    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/966107f5e1318bdbaaec25d96bb7eeef392f02fb",
+    "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.stremio-v14.3.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.stremio-v14.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/234d160454cd929892d28a5348f4e299e13be8b0",
-      "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.stremio-v14.2.apk"
+      "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.stremio-v14.3.apk?ref=repo",
+      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/966107f5e1318bdbaaec25d96bb7eeef392f02fb",
+      "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.stremio-v14.3.apk"
     }
   }
 ]
