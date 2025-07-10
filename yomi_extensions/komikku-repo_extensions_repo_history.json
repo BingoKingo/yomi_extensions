@@ -1824,19 +1824,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.webtoons-v1.4.49.apk",
-    "path": "apk/tachiyomi-all.webtoons-v1.4.49.apk",
-    "sha": "a666d490279ea0dd21bee04d38799ad2f56b58eb",
-    "size": 78296,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.webtoons-v1.4.49.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.webtoons-v1.4.49.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a666d490279ea0dd21bee04d38799ad2f56b58eb",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.webtoons-v1.4.49.apk",
+    "name": "tachiyomi-all.webtoons-v1.4.50.apk",
+    "path": "apk/tachiyomi-all.webtoons-v1.4.50.apk",
+    "sha": "ceba2b8192dab95b6f4eba252d00f1ae143cd60d",
+    "size": 79197,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.webtoons-v1.4.50.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.webtoons-v1.4.50.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/ceba2b8192dab95b6f4eba252d00f1ae143cd60d",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.webtoons-v1.4.50.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.webtoons-v1.4.49.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a666d490279ea0dd21bee04d38799ad2f56b58eb",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.webtoons-v1.4.49.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.webtoons-v1.4.50.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/ceba2b8192dab95b6f4eba252d00f1ae143cd60d",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.webtoons-v1.4.50.apk"
     }
   },
   {
@@ -5472,19 +5472,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangadistrict-v1.4.54.apk",
-    "path": "apk/tachiyomi-en.mangadistrict-v1.4.54.apk",
-    "sha": "4dd9738105e4000d18acdc774852f7bfc75ec74b",
-    "size": 107011,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mangadistrict-v1.4.54.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.54.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/4dd9738105e4000d18acdc774852f7bfc75ec74b",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.mangadistrict-v1.4.54.apk",
+    "name": "tachiyomi-en.mangadistrict-v1.4.55.apk",
+    "path": "apk/tachiyomi-en.mangadistrict-v1.4.55.apk",
+    "sha": "e55dcbc94c11e4ee349215e72f24b075b4258ea7",
+    "size": 107175,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mangadistrict-v1.4.55.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.55.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e55dcbc94c11e4ee349215e72f24b075b4258ea7",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.mangadistrict-v1.4.55.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mangadistrict-v1.4.54.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/4dd9738105e4000d18acdc774852f7bfc75ec74b",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.54.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mangadistrict-v1.4.55.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e55dcbc94c11e4ee349215e72f24b075b4258ea7",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mangadistrict-v1.4.55.apk"
     }
   },
   {
