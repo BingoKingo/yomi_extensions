@@ -8560,19 +8560,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.spyfakku-v1.4.11.apk",
-    "path": "apk/tachiyomi-en.spyfakku-v1.4.11.apk",
-    "sha": "31087e99106d38540ba14f0d710b7d9a82c6cba7",
-    "size": 62361,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.spyfakku-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/31087e99106d38540ba14f0d710b7d9a82c6cba7",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.spyfakku-v1.4.11.apk",
+    "name": "tachiyomi-en.spyfakku-v1.4.12.apk",
+    "path": "apk/tachiyomi-en.spyfakku-v1.4.12.apk",
+    "sha": "8cc1e51c0c1db8d25a1a92fef4676566c23171fa",
+    "size": 63997,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.spyfakku-v1.4.12.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.12.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8cc1e51c0c1db8d25a1a92fef4676566c23171fa",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.spyfakku-v1.4.12.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.spyfakku-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/31087e99106d38540ba14f0d710b7d9a82c6cba7",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.11.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.spyfakku-v1.4.12.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8cc1e51c0c1db8d25a1a92fef4676566c23171fa",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.12.apk"
     }
   },
   {
