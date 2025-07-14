@@ -784,19 +784,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.koharu-v1.4.14.apk",
-    "path": "apk/tachiyomi-all.koharu-v1.4.14.apk",
-    "sha": "2caf1a466ff5beaaa0f2e1144917fe2bd9f1144d",
-    "size": 126585,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.koharu-v1.4.14.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.koharu-v1.4.14.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2caf1a466ff5beaaa0f2e1144917fe2bd9f1144d",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.koharu-v1.4.14.apk",
+    "name": "tachiyomi-all.koharu-v1.4.15.apk",
+    "path": "apk/tachiyomi-all.koharu-v1.4.15.apk",
+    "sha": "0060142e9ff6c4b10532dd6bf46282f63db662e8",
+    "size": 122339,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.koharu-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.koharu-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0060142e9ff6c4b10532dd6bf46282f63db662e8",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.koharu-v1.4.15.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.koharu-v1.4.14.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2caf1a466ff5beaaa0f2e1144917fe2bd9f1144d",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.koharu-v1.4.14.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.koharu-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0060142e9ff6c4b10532dd6bf46282f63db662e8",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.koharu-v1.4.15.apk"
     }
   },
   {
