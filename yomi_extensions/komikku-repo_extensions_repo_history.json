@@ -560,19 +560,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.hentaicosplay-v1.4.4.apk",
-    "path": "apk/tachiyomi-all.hentaicosplay-v1.4.4.apk",
-    "sha": "e92cb2ca9fd9315063048f7d2726b3801fcdf295",
-    "size": 46711,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e92cb2ca9fd9315063048f7d2726b3801fcdf295",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk",
+    "name": "tachiyomi-all.hentaicosplay-v1.4.5.apk",
+    "path": "apk/tachiyomi-all.hentaicosplay-v1.4.5.apk",
+    "sha": "2e34365ef3abe0363197c7a93a800282bbe394fe",
+    "size": 46352,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/2e34365ef3abe0363197c7a93a800282bbe394fe",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e92cb2ca9fd9315063048f7d2726b3801fcdf295",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/2e34365ef3abe0363197c7a93a800282bbe394fe",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk"
     }
   },
   {
@@ -10144,19 +10144,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.ikigaimangas-v1.4.24.apk",
-    "path": "apk/tachiyomi-es.ikigaimangas-v1.4.24.apk",
-    "sha": "34ee3ccd035d0c6a0fb26ffd0cd3eb35acc65cf7",
-    "size": 72640,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/34ee3ccd035d0c6a0fb26ffd0cd3eb35acc65cf7",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk",
+    "name": "tachiyomi-es.ikigaimangas-v1.4.25.apk",
+    "path": "apk/tachiyomi-es.ikigaimangas-v1.4.25.apk",
+    "sha": "0db04a131aa0253ad3e5dd1dafddd726e4c42eef",
+    "size": 72571,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/0db04a131aa0253ad3e5dd1dafddd726e4c42eef",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/34ee3ccd035d0c6a0fb26ffd0cd3eb35acc65cf7",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/0db04a131aa0253ad3e5dd1dafddd726e4c42eef",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk"
     }
   },
   {
@@ -11072,19 +11072,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.templescanesp-v1.4.45.apk",
-    "path": "apk/tachiyomi-es.templescanesp-v1.4.45.apk",
-    "sha": "265b228e33dc4402a89fd4e6172e9a152ed08a4e",
-    "size": 103517,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.templescanesp-v1.4.45.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.templescanesp-v1.4.45.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/265b228e33dc4402a89fd4e6172e9a152ed08a4e",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.templescanesp-v1.4.45.apk",
+    "name": "tachiyomi-es.templescanesp-v1.4.46.apk",
+    "path": "apk/tachiyomi-es.templescanesp-v1.4.46.apk",
+    "sha": "305526ae04d64b5e5c0ace58fc0a9543b23dc55f",
+    "size": 104358,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.templescanesp-v1.4.46.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.templescanesp-v1.4.46.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/305526ae04d64b5e5c0ace58fc0a9543b23dc55f",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.templescanesp-v1.4.46.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.templescanesp-v1.4.45.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/265b228e33dc4402a89fd4e6172e9a152ed08a4e",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.templescanesp-v1.4.45.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.templescanesp-v1.4.46.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/305526ae04d64b5e5c0ace58fc0a9543b23dc55f",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.templescanesp-v1.4.46.apk"
     }
   },
   {
