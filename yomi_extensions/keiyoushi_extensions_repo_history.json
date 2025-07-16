@@ -560,19 +560,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.hentaicosplay-v1.4.4.apk",
-    "path": "apk/tachiyomi-all.hentaicosplay-v1.4.4.apk",
-    "sha": "ca334f5c4c9f0267fc62da709a9759dca0914cac",
-    "size": 46756,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ca334f5c4c9f0267fc62da709a9759dca0914cac",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk",
+    "name": "tachiyomi-all.hentaicosplay-v1.4.5.apk",
+    "path": "apk/tachiyomi-all.hentaicosplay-v1.4.5.apk",
+    "sha": "425eedecb0f99d051bbc991301eea0e22df7f0e4",
+    "size": 46414,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/425eedecb0f99d051bbc991301eea0e22df7f0e4",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ca334f5c4c9f0267fc62da709a9759dca0914cac",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.4.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/425eedecb0f99d051bbc991301eea0e22df7f0e4",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.5.apk"
     }
   },
   {
@@ -10080,19 +10080,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.ikigaimangas-v1.4.24.apk",
-    "path": "apk/tachiyomi-es.ikigaimangas-v1.4.24.apk",
-    "sha": "10bb2f85294f4c9a9dd549555174db9883bb3838",
-    "size": 72673,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/10bb2f85294f4c9a9dd549555174db9883bb3838",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk",
+    "name": "tachiyomi-es.ikigaimangas-v1.4.25.apk",
+    "path": "apk/tachiyomi-es.ikigaimangas-v1.4.25.apk",
+    "sha": "afbe050eb3cf5ff27cb51185ed9c8ffa99a1a5aa",
+    "size": 72580,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/afbe050eb3cf5ff27cb51185ed9c8ffa99a1a5aa",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/10bb2f85294f4c9a9dd549555174db9883bb3838",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.ikigaimangas-v1.4.24.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/afbe050eb3cf5ff27cb51185ed9c8ffa99a1a5aa",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.ikigaimangas-v1.4.25.apk"
     }
   },
   {
@@ -11008,19 +11008,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.templescanesp-v1.4.45.apk",
-    "path": "apk/tachiyomi-es.templescanesp-v1.4.45.apk",
-    "sha": "bdec287ebc72c766f3bdcf733113a0f0d3146d84",
-    "size": 103529,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.templescanesp-v1.4.45.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.templescanesp-v1.4.45.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bdec287ebc72c766f3bdcf733113a0f0d3146d84",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.templescanesp-v1.4.45.apk",
+    "name": "tachiyomi-es.templescanesp-v1.4.46.apk",
+    "path": "apk/tachiyomi-es.templescanesp-v1.4.46.apk",
+    "sha": "90735d81e729103fbd8063cbe8cad6374dd8c0cb",
+    "size": 104389,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.templescanesp-v1.4.46.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.templescanesp-v1.4.46.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/90735d81e729103fbd8063cbe8cad6374dd8c0cb",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.templescanesp-v1.4.46.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.templescanesp-v1.4.45.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bdec287ebc72c766f3bdcf733113a0f0d3146d84",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.templescanesp-v1.4.45.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.templescanesp-v1.4.46.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/90735d81e729103fbd8063cbe8cad6374dd8c0cb",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.templescanesp-v1.4.46.apk"
     }
   },
   {
