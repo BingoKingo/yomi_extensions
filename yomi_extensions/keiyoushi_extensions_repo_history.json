@@ -10288,19 +10288,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.lectortmo-v1.4.7.apk",
-    "path": "apk/tachiyomi-es.lectortmo-v1.4.7.apk",
-    "sha": "9857181e746ba76d4075c8effa5e905e8c5b0d5e",
-    "size": 67697,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.lectortmo-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.lectortmo-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9857181e746ba76d4075c8effa5e905e8c5b0d5e",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.lectortmo-v1.4.7.apk",
+    "name": "tachiyomi-es.lectortmo-v1.4.8.apk",
+    "path": "apk/tachiyomi-es.lectortmo-v1.4.8.apk",
+    "sha": "5c4f93db5dc820919f71f9a91bd314bc9733c004",
+    "size": 67734,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.lectortmo-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.lectortmo-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5c4f93db5dc820919f71f9a91bd314bc9733c004",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.lectortmo-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.lectortmo-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9857181e746ba76d4075c8effa5e905e8c5b0d5e",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.lectortmo-v1.4.7.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.lectortmo-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5c4f93db5dc820919f71f9a91bd314bc9733c004",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.lectortmo-v1.4.8.apk"
     }
   },
   {
