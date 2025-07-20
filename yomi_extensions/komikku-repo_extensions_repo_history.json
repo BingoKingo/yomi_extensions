@@ -9664,19 +9664,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.carteldemanhwas-v1.4.36.apk",
-    "path": "apk/tachiyomi-es.carteldemanhwas-v1.4.36.apk",
-    "sha": "604a798857fb144cf80360e20569722a2732d701",
-    "size": 106827,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.carteldemanhwas-v1.4.36.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.carteldemanhwas-v1.4.36.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/604a798857fb144cf80360e20569722a2732d701",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.carteldemanhwas-v1.4.36.apk",
+    "name": "tachiyomi-es.carteldemanhwas-v1.4.37.apk",
+    "path": "apk/tachiyomi-es.carteldemanhwas-v1.4.37.apk",
+    "sha": "a2afb1757eb3163e74d91f14aac59632e9c482e4",
+    "size": 106773,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.carteldemanhwas-v1.4.37.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.carteldemanhwas-v1.4.37.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a2afb1757eb3163e74d91f14aac59632e9c482e4",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.carteldemanhwas-v1.4.37.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.carteldemanhwas-v1.4.36.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/604a798857fb144cf80360e20569722a2732d701",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.carteldemanhwas-v1.4.36.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.carteldemanhwas-v1.4.37.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a2afb1757eb3163e74d91f14aac59632e9c482e4",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.carteldemanhwas-v1.4.37.apk"
     }
   },
   {
