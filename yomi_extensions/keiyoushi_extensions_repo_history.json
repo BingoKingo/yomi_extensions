@@ -9696,19 +9696,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.chochox-v1.4.1.apk",
-    "path": "apk/tachiyomi-es.chochox-v1.4.1.apk",
-    "sha": "c213221a6c3e9296b54dbec5535f18c043ca697c",
-    "size": 57394,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.chochox-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.chochox-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c213221a6c3e9296b54dbec5535f18c043ca697c",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.chochox-v1.4.1.apk",
+    "name": "tachiyomi-es.chochox-v1.4.2.apk",
+    "path": "apk/tachiyomi-es.chochox-v1.4.2.apk",
+    "sha": "d06c1c4f6b04036b481731063c0c952fdeb2a86f",
+    "size": 57399,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.chochox-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.chochox-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d06c1c4f6b04036b481731063c0c952fdeb2a86f",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.chochox-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.chochox-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c213221a6c3e9296b54dbec5535f18c043ca697c",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.chochox-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.chochox-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d06c1c4f6b04036b481731063c0c952fdeb2a86f",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.chochox-v1.4.2.apk"
     }
   },
   {
@@ -10416,19 +10416,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.mangacrab-v1.4.54.apk",
-    "path": "apk/tachiyomi-es.mangacrab-v1.4.54.apk",
-    "sha": "8d98cf044cea94c243c14daf8d279edafca71d2b",
-    "size": 137212,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangacrab-v1.4.54.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.54.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8d98cf044cea94c243c14daf8d279edafca71d2b",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.mangacrab-v1.4.54.apk",
+    "name": "tachiyomi-es.mangacrab-v1.4.55.apk",
+    "path": "apk/tachiyomi-es.mangacrab-v1.4.55.apk",
+    "sha": "8b9847ece5a383e2b8616e088077bb4ba0d9e69f",
+    "size": 137375,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangacrab-v1.4.55.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.55.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8b9847ece5a383e2b8616e088077bb4ba0d9e69f",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.mangacrab-v1.4.55.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangacrab-v1.4.54.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8d98cf044cea94c243c14daf8d279edafca71d2b",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.54.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangacrab-v1.4.55.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8b9847ece5a383e2b8616e088077bb4ba0d9e69f",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.55.apk"
     }
   },
   {
@@ -11216,19 +11216,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.vcpvmp-v1.4.10.apk",
-    "path": "apk/tachiyomi-es.vcpvmp-v1.4.10.apk",
-    "sha": "fda0603fca2e039ce7245caff6ab6914c23ed339",
-    "size": 125784,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.vcpvmp-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fda0603fca2e039ce7245caff6ab6914c23ed339",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.vcpvmp-v1.4.10.apk",
+    "name": "tachiyomi-es.vcpvmp-v1.4.11.apk",
+    "path": "apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
+    "sha": "c789ce4f6450faa1711d910651358f88ad092e2d",
+    "size": 125782,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.vcpvmp-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c789ce4f6450faa1711d910651358f88ad092e2d",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.vcpvmp-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fda0603fca2e039ce7245caff6ab6914c23ed339",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.10.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.vcpvmp-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c789ce4f6450faa1711d910651358f88ad092e2d",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk"
     }
   },
   {
@@ -15520,19 +15520,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.littletyrant-v1.4.42.apk",
-    "path": "apk/tachiyomi-pt.littletyrant-v1.4.42.apk",
-    "sha": "627848590a73c2302136afdbaf6b1000ae886c7b",
-    "size": 93692,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.littletyrant-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.littletyrant-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/627848590a73c2302136afdbaf6b1000ae886c7b",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.littletyrant-v1.4.42.apk",
+    "name": "tachiyomi-pt.littletyrant-v1.4.43.apk",
+    "path": "apk/tachiyomi-pt.littletyrant-v1.4.43.apk",
+    "sha": "549e4fc4a84d95bac452ee0db398d2637b247fbc",
+    "size": 93683,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.littletyrant-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.littletyrant-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/549e4fc4a84d95bac452ee0db398d2637b247fbc",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.littletyrant-v1.4.43.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.littletyrant-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/627848590a73c2302136afdbaf6b1000ae886c7b",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.littletyrant-v1.4.42.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.littletyrant-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/549e4fc4a84d95bac452ee0db398d2637b247fbc",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.littletyrant-v1.4.43.apk"
     }
   },
   {
