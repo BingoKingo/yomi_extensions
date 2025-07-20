@@ -9760,19 +9760,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.chochox-v1.4.1.apk",
-    "path": "apk/tachiyomi-es.chochox-v1.4.1.apk",
-    "sha": "a305ae7a6e5e523718b6e990c8c5fd0be22082d0",
-    "size": 57370,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.chochox-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.chochox-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a305ae7a6e5e523718b6e990c8c5fd0be22082d0",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.chochox-v1.4.1.apk",
+    "name": "tachiyomi-es.chochox-v1.4.2.apk",
+    "path": "apk/tachiyomi-es.chochox-v1.4.2.apk",
+    "sha": "9ff5a02ef82150e22e5c7b5bee20ce1d142f86c5",
+    "size": 57376,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.chochox-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.chochox-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9ff5a02ef82150e22e5c7b5bee20ce1d142f86c5",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.chochox-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.chochox-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a305ae7a6e5e523718b6e990c8c5fd0be22082d0",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.chochox-v1.4.1.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.chochox-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9ff5a02ef82150e22e5c7b5bee20ce1d142f86c5",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.chochox-v1.4.2.apk"
     }
   },
   {
@@ -10480,19 +10480,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.mangacrab-v1.4.54.apk",
-    "path": "apk/tachiyomi-es.mangacrab-v1.4.54.apk",
-    "sha": "0e5da231e7723712e732dfb3035b335ae4a5498e",
-    "size": 137187,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mangacrab-v1.4.54.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.54.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/0e5da231e7723712e732dfb3035b335ae4a5498e",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.mangacrab-v1.4.54.apk",
+    "name": "tachiyomi-es.mangacrab-v1.4.55.apk",
+    "path": "apk/tachiyomi-es.mangacrab-v1.4.55.apk",
+    "sha": "5e186e65d2c32bdd820cf48c1d1648241980684d",
+    "size": 137351,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mangacrab-v1.4.55.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.55.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/5e186e65d2c32bdd820cf48c1d1648241980684d",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.mangacrab-v1.4.55.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mangacrab-v1.4.54.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/0e5da231e7723712e732dfb3035b335ae4a5498e",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.54.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mangacrab-v1.4.55.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/5e186e65d2c32bdd820cf48c1d1648241980684d",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.55.apk"
     }
   },
   {
@@ -11280,19 +11280,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.vcpvmp-v1.4.10.apk",
-    "path": "apk/tachiyomi-es.vcpvmp-v1.4.10.apk",
-    "sha": "078026b4b51dfe3e020e3f70c9d6584c8fde4d29",
-    "size": 125763,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.vcpvmp-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/078026b4b51dfe3e020e3f70c9d6584c8fde4d29",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.vcpvmp-v1.4.10.apk",
+    "name": "tachiyomi-es.vcpvmp-v1.4.11.apk",
+    "path": "apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
+    "sha": "f74c5c2b7856ae9afba6585d8f62b458dae6683e",
+    "size": 125759,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.vcpvmp-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f74c5c2b7856ae9afba6585d8f62b458dae6683e",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.vcpvmp-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/078026b4b51dfe3e020e3f70c9d6584c8fde4d29",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.10.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.vcpvmp-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f74c5c2b7856ae9afba6585d8f62b458dae6683e",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.vcpvmp-v1.4.11.apk"
     }
   },
   {
@@ -15584,19 +15584,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.littletyrant-v1.4.42.apk",
-    "path": "apk/tachiyomi-pt.littletyrant-v1.4.42.apk",
-    "sha": "767d8b42c057b161f5a967b39e3c378bb64566dc",
-    "size": 93669,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.littletyrant-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.littletyrant-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/767d8b42c057b161f5a967b39e3c378bb64566dc",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.littletyrant-v1.4.42.apk",
+    "name": "tachiyomi-pt.littletyrant-v1.4.43.apk",
+    "path": "apk/tachiyomi-pt.littletyrant-v1.4.43.apk",
+    "sha": "6c9e1e4efe81bf9207829efc780c0896fde60270",
+    "size": 93656,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.littletyrant-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.littletyrant-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/6c9e1e4efe81bf9207829efc780c0896fde60270",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.littletyrant-v1.4.43.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.littletyrant-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/767d8b42c057b161f5a967b39e3c378bb64566dc",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.littletyrant-v1.4.42.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.littletyrant-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/6c9e1e4efe81bf9207829efc780c0896fde60270",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.littletyrant-v1.4.43.apk"
     }
   },
   {
