@@ -10352,6 +10352,22 @@
     }
   },
   {
+    "name": "tachiyomi-es.lectormonline-v1.4.1.apk",
+    "path": "apk/tachiyomi-es.lectormonline-v1.4.1.apk",
+    "sha": "aa426561aeff515790ff74b8178a406528931550",
+    "size": 46448,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.lectormonline-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.lectormonline-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/aa426561aeff515790ff74b8178a406528931550",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.lectormonline-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.lectormonline-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/aa426561aeff515790ff74b8178a406528931550",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.lectormonline-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-es.lectortmo-v1.4.8.apk",
     "path": "apk/tachiyomi-es.lectortmo-v1.4.8.apk",
     "sha": "e01e0199764cd1177fb44bdfdc44054d2241b883",
@@ -10589,6 +10605,22 @@
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mangasnosekai-v1.4.58.apk?ref=repo",
       "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/c710894aaac351de1dfd011061ef70e42768fd2f",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mangasnosekai-v1.4.58.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-es.mangasx-v1.4.1.apk",
+    "path": "apk/tachiyomi-es.mangasx-v1.4.1.apk",
+    "sha": "d0f0417b0074164176b1e9cf1f198c99648ca54f",
+    "size": 46423,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mangasx-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mangasx-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d0f0417b0074164176b1e9cf1f198c99648ca54f",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.mangasx-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mangasx-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d0f0417b0074164176b1e9cf1f198c99648ca54f",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mangasx-v1.4.1.apk"
     }
   },
   {
@@ -15965,38 +15997,6 @@
       "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.nocturnesummer-v1.4.43.apk?ref=repo",
       "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/6c04abb2da39fefe42644cb5399532b5c44f5858",
       "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.nocturnesummer-v1.4.43.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.noindexscan-v1.4.43.apk",
-    "path": "apk/tachiyomi-pt.noindexscan-v1.4.43.apk",
-    "sha": "8fc7a4b395a3d4ec4354e19c838dc5aa14ac292a",
-    "size": 66167,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.noindexscan-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.noindexscan-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8fc7a4b395a3d4ec4354e19c838dc5aa14ac292a",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.noindexscan-v1.4.43.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.noindexscan-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/8fc7a4b395a3d4ec4354e19c838dc5aa14ac292a",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.noindexscan-v1.4.43.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.onepieceteca-v1.4.42.apk",
-    "path": "apk/tachiyomi-pt.onepieceteca-v1.4.42.apk",
-    "sha": "a4f82f68572efda1f883afcc8d881470c744cd67",
-    "size": 99663,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.onepieceteca-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.onepieceteca-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a4f82f68572efda1f883afcc8d881470c744cd67",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.onepieceteca-v1.4.42.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.onepieceteca-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/a4f82f68572efda1f883afcc8d881470c744cd67",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.onepieceteca-v1.4.42.apk"
     }
   }
 ]
