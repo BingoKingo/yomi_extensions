@@ -11760,19 +11760,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.mangasoriginesfr-v1.4.43.apk",
-    "path": "apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk",
-    "sha": "1b916fcb495b89b18eaf092dad376697089f9126",
-    "size": 74392,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/1b916fcb495b89b18eaf092dad376697089f9126",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk",
+    "name": "tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
+    "path": "apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
+    "sha": "ff883c27715173ed49948ba86860a8cf15d28bff",
+    "size": 74964,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/ff883c27715173ed49948ba86860a8cf15d28bff",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/1b916fcb495b89b18eaf092dad376697089f9126",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/ff883c27715173ed49948ba86860a8cf15d28bff",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk"
     }
   },
   {
