@@ -11696,19 +11696,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.mangasoriginesfr-v1.4.43.apk",
-    "path": "apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk",
-    "sha": "8adcbec1f10266a0a9e1d756fe44116f2674b782",
-    "size": 74417,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8adcbec1f10266a0a9e1d756fe44116f2674b782",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk",
+    "name": "tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
+    "path": "apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
+    "sha": "87d0a7f6c78f9aa2c82a5da01509050f1f385211",
+    "size": 74989,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/87d0a7f6c78f9aa2c82a5da01509050f1f385211",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8adcbec1f10266a0a9e1d756fe44116f2674b782",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.43.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/87d0a7f6c78f9aa2c82a5da01509050f1f385211",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.mangasoriginesfr-v1.4.44.apk"
     }
   },
   {
