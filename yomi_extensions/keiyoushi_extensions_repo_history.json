@@ -8112,19 +8112,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.6.apk",
-    "path": "apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.6.apk",
-    "sha": "d2016835714c76124cb61a1716a0456ccecab5d0",
-    "size": 110670,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d2016835714c76124cb61a1716a0456ccecab5d0",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.6.apk",
+    "name": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.7.apk",
+    "path": "apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.7.apk",
+    "sha": "cea0040f6dfa7d8f7a00147acecfe35856eb34f9",
+    "size": 110668,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cea0040f6dfa7d8f7a00147acecfe35856eb34f9",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d2016835714c76124cb61a1716a0456ccecab5d0",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.6.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cea0040f6dfa7d8f7a00147acecfe35856eb34f9",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.7.apk"
     }
   },
   {
