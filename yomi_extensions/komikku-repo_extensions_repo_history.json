@@ -64,19 +64,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.batoto-v1.4.53.apk",
-    "path": "apk/tachiyomi-all.batoto-v1.4.53.apk",
-    "sha": "93c7b1d1861be566d1dbc7ad41f3394d5ad21724",
-    "size": 74716,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.batoto-v1.4.53.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.batoto-v1.4.53.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/93c7b1d1861be566d1dbc7ad41f3394d5ad21724",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.batoto-v1.4.53.apk",
+    "name": "tachiyomi-all.batoto-v1.4.54.apk",
+    "path": "apk/tachiyomi-all.batoto-v1.4.54.apk",
+    "sha": "d584515e7a085a3ae5b04b00b410febebfdf4fec",
+    "size": 74922,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.batoto-v1.4.54.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.batoto-v1.4.54.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d584515e7a085a3ae5b04b00b410febebfdf4fec",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-all.batoto-v1.4.54.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.batoto-v1.4.53.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/93c7b1d1861be566d1dbc7ad41f3394d5ad21724",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.batoto-v1.4.53.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-all.batoto-v1.4.54.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d584515e7a085a3ae5b04b00b410febebfdf4fec",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-all.batoto-v1.4.54.apk"
     }
   },
   {
