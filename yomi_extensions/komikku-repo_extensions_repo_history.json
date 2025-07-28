@@ -14640,19 +14640,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.bakai-v1.4.12.apk",
-    "path": "apk/tachiyomi-pt.bakai-v1.4.12.apk",
-    "sha": "b6d454e83dce95f73ffbed9708f81a1a8c807ad3",
+    "name": "tachiyomi-pt.bakai-v1.4.13.apk",
+    "path": "apk/tachiyomi-pt.bakai-v1.4.13.apk",
+    "sha": "eb5a70e600ca2ad9d602418c4d882abd4133df3a",
     "size": 91246,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.bakai-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.bakai-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/b6d454e83dce95f73ffbed9708f81a1a8c807ad3",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.bakai-v1.4.12.apk",
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.bakai-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.bakai-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/eb5a70e600ca2ad9d602418c4d882abd4133df3a",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-pt.bakai-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.bakai-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/b6d454e83dce95f73ffbed9708f81a1a8c807ad3",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.bakai-v1.4.12.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-pt.bakai-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/eb5a70e600ca2ad9d602418c4d882abd4133df3a",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-pt.bakai-v1.4.13.apk"
     }
   },
   {
