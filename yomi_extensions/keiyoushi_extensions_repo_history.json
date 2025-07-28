@@ -14576,19 +14576,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.bakai-v1.4.12.apk",
-    "path": "apk/tachiyomi-pt.bakai-v1.4.12.apk",
-    "sha": "a9b51c558803a0a06a83c692f36a11806dcc4828",
+    "name": "tachiyomi-pt.bakai-v1.4.13.apk",
+    "path": "apk/tachiyomi-pt.bakai-v1.4.13.apk",
+    "sha": "7fc55db49f1770b0efb869d96a4169d1f0f565b4",
     "size": 91298,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.bakai-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.bakai-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a9b51c558803a0a06a83c692f36a11806dcc4828",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.bakai-v1.4.12.apk",
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.bakai-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.bakai-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7fc55db49f1770b0efb869d96a4169d1f0f565b4",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.bakai-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.bakai-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a9b51c558803a0a06a83c692f36a11806dcc4828",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.bakai-v1.4.12.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.bakai-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7fc55db49f1770b0efb869d96a4169d1f0f565b4",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.bakai-v1.4.13.apk"
     }
   },
   {
