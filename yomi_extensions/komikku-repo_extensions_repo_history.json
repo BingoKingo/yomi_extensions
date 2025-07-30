@@ -6784,19 +6784,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.manhwasmen-v1.4.42.apk",
-    "path": "apk/tachiyomi-en.manhwasmen-v1.4.42.apk",
-    "sha": "9a5c9339f43e778c2426353b20dee264ac512cd0",
-    "size": 91245,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.manhwasmen-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.manhwasmen-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9a5c9339f43e778c2426353b20dee264ac512cd0",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.manhwasmen-v1.4.42.apk",
+    "name": "tachiyomi-en.manhwasmen-v1.4.43.apk",
+    "path": "apk/tachiyomi-en.manhwasmen-v1.4.43.apk",
+    "sha": "d6a99a431432be1fdeec971040d5be227594a082",
+    "size": 92133,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.manhwasmen-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.manhwasmen-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d6a99a431432be1fdeec971040d5be227594a082",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.manhwasmen-v1.4.43.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.manhwasmen-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9a5c9339f43e778c2426353b20dee264ac512cd0",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.manhwasmen-v1.4.42.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.manhwasmen-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/d6a99a431432be1fdeec971040d5be227594a082",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.manhwasmen-v1.4.43.apk"
     }
   },
   {
