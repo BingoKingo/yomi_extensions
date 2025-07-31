@@ -1360,19 +1360,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.nhentai-v1.4.51.apk",
-    "path": "apk/tachiyomi-all.nhentai-v1.4.51.apk",
-    "sha": "f5c5d40fe560af083e0e3761881dd5fd2e2e782d",
-    "size": 65914,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.nhentai-v1.4.51.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.nhentai-v1.4.51.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f5c5d40fe560af083e0e3761881dd5fd2e2e782d",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.nhentai-v1.4.51.apk",
+    "name": "tachiyomi-all.nhentai-v1.4.52.apk",
+    "path": "apk/tachiyomi-all.nhentai-v1.4.52.apk",
+    "sha": "89405727b5fd0648712c80b083e351ac4b7de784",
+    "size": 66042,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.nhentai-v1.4.52.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/89405727b5fd0648712c80b083e351ac4b7de784",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.nhentai-v1.4.51.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/f5c5d40fe560af083e0e3761881dd5fd2e2e782d",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.nhentai-v1.4.51.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.nhentai-v1.4.52.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/89405727b5fd0648712c80b083e351ac4b7de784",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk"
     }
   },
   {
@@ -9488,19 +9488,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.bibliopanda-v1.4.42.apk",
-    "path": "apk/tachiyomi-es.bibliopanda-v1.4.42.apk",
-    "sha": "0be8dc16e4236d86fe519f38fe03457e92764449",
-    "size": 123035,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.bibliopanda-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.bibliopanda-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0be8dc16e4236d86fe519f38fe03457e92764449",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.bibliopanda-v1.4.42.apk",
+    "name": "tachiyomi-es.bibliopanda-v1.4.43.apk",
+    "path": "apk/tachiyomi-es.bibliopanda-v1.4.43.apk",
+    "sha": "098657d1168ff6150d822de7c2f16c6bc1d9c4e5",
+    "size": 123050,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.bibliopanda-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.bibliopanda-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/098657d1168ff6150d822de7c2f16c6bc1d9c4e5",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.bibliopanda-v1.4.43.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.bibliopanda-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0be8dc16e4236d86fe519f38fe03457e92764449",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.bibliopanda-v1.4.42.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.bibliopanda-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/098657d1168ff6150d822de7c2f16c6bc1d9c4e5",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.bibliopanda-v1.4.43.apk"
     }
   },
   {
