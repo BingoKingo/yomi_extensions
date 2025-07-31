@@ -1312,19 +1312,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.nhentai-v1.4.51.apk",
-    "path": "apk/tachiyomi-all.nhentai-v1.4.51.apk",
-    "sha": "8a8248997e3fbf93dc905f9046bfbfafdef464c6",
-    "size": 65858,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.nhentai-v1.4.51.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.nhentai-v1.4.51.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8a8248997e3fbf93dc905f9046bfbfafdef464c6",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.nhentai-v1.4.51.apk",
+    "name": "tachiyomi-all.nhentai-v1.4.52.apk",
+    "path": "apk/tachiyomi-all.nhentai-v1.4.52.apk",
+    "sha": "3f365c2f256bac715ad3288db13e71c0e21dc2d7",
+    "size": 65987,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.nhentai-v1.4.52.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3f365c2f256bac715ad3288db13e71c0e21dc2d7",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.nhentai-v1.4.51.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/8a8248997e3fbf93dc905f9046bfbfafdef464c6",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.nhentai-v1.4.51.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.nhentai-v1.4.52.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3f365c2f256bac715ad3288db13e71c0e21dc2d7",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk"
     }
   },
   {
@@ -9424,19 +9424,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.bibliopanda-v1.4.42.apk",
-    "path": "apk/tachiyomi-es.bibliopanda-v1.4.42.apk",
-    "sha": "ce33dd33d3e4d76bf724668072010e368ac0e50d",
-    "size": 123059,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.bibliopanda-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.bibliopanda-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ce33dd33d3e4d76bf724668072010e368ac0e50d",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.bibliopanda-v1.4.42.apk",
+    "name": "tachiyomi-es.bibliopanda-v1.4.43.apk",
+    "path": "apk/tachiyomi-es.bibliopanda-v1.4.43.apk",
+    "sha": "925eff9d940e5ff96469ccc994cf0581fe957c31",
+    "size": 123073,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.bibliopanda-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.bibliopanda-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/925eff9d940e5ff96469ccc994cf0581fe957c31",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.bibliopanda-v1.4.43.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.bibliopanda-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ce33dd33d3e4d76bf724668072010e368ac0e50d",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.bibliopanda-v1.4.42.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.bibliopanda-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/925eff9d940e5ff96469ccc994cf0581fe957c31",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.bibliopanda-v1.4.43.apk"
     }
   },
   {
