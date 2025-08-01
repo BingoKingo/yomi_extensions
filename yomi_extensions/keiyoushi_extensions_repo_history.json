@@ -13264,19 +13264,19 @@
     }
   },
   {
-    "name": "tachiyomi-it.mangaworld-v1.4.11.apk",
-    "path": "apk/tachiyomi-it.mangaworld-v1.4.11.apk",
-    "sha": "7036407051bb7e8ec1469fa38d6baaff1de58480",
-    "size": 48764,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-it.mangaworld-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-it.mangaworld-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7036407051bb7e8ec1469fa38d6baaff1de58480",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-it.mangaworld-v1.4.11.apk",
+    "name": "tachiyomi-it.mangaworld-v1.4.12.apk",
+    "path": "apk/tachiyomi-it.mangaworld-v1.4.12.apk",
+    "sha": "ae38cbead431abfab16b8cc36ee156f1e5cff52a",
+    "size": 48777,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-it.mangaworld-v1.4.12.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-it.mangaworld-v1.4.12.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ae38cbead431abfab16b8cc36ee156f1e5cff52a",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-it.mangaworld-v1.4.12.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-it.mangaworld-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7036407051bb7e8ec1469fa38d6baaff1de58480",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-it.mangaworld-v1.4.11.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-it.mangaworld-v1.4.12.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ae38cbead431abfab16b8cc36ee156f1e5cff52a",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-it.mangaworld-v1.4.12.apk"
     }
   },
   {
