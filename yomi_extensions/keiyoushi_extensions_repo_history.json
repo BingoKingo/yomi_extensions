@@ -752,19 +752,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.kemono-v1.4.22.apk",
-    "path": "apk/tachiyomi-all.kemono-v1.4.22.apk",
-    "sha": "d876a746a8fecfcb139931e3a12c7088034d2e1e",
-    "size": 70972,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kemono-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kemono-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d876a746a8fecfcb139931e3a12c7088034d2e1e",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.kemono-v1.4.22.apk",
+    "name": "tachiyomi-all.kemono-v1.4.23.apk",
+    "path": "apk/tachiyomi-all.kemono-v1.4.23.apk",
+    "sha": "0e1dce23c943f75408459f81338bdfd7832387c2",
+    "size": 70983,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kemono-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kemono-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0e1dce23c943f75408459f81338bdfd7832387c2",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.kemono-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kemono-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d876a746a8fecfcb139931e3a12c7088034d2e1e",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kemono-v1.4.22.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.kemono-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0e1dce23c943f75408459f81338bdfd7832387c2",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.kemono-v1.4.23.apk"
     }
   },
   {
