@@ -1312,19 +1312,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.nhentai-v1.4.52.apk",
-    "path": "apk/tachiyomi-all.nhentai-v1.4.52.apk",
-    "sha": "3f365c2f256bac715ad3288db13e71c0e21dc2d7",
-    "size": 65987,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.nhentai-v1.4.52.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3f365c2f256bac715ad3288db13e71c0e21dc2d7",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk",
+    "name": "tachiyomi-all.nhentai-v1.4.53.apk",
+    "path": "apk/tachiyomi-all.nhentai-v1.4.53.apk",
+    "sha": "af01556062bc3287ee62d66053c9150aa76c1982",
+    "size": 65954,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.nhentai-v1.4.53.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.nhentai-v1.4.53.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/af01556062bc3287ee62d66053c9150aa76c1982",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.nhentai-v1.4.53.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.nhentai-v1.4.52.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3f365c2f256bac715ad3288db13e71c0e21dc2d7",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.nhentai-v1.4.52.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.nhentai-v1.4.53.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/af01556062bc3287ee62d66053c9150aa76c1982",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.nhentai-v1.4.53.apk"
     }
   },
   {
