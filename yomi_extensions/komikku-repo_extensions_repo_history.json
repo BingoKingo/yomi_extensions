@@ -800,19 +800,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.kemono-v1.4.22.apk",
-    "path": "apk/tachiyomi-all.kemono-v1.4.22.apk",
-    "sha": "cca01bcdc8378946ae8c7ac1897d3255d5229b8a",
-    "size": 70949,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.kemono-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.kemono-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cca01bcdc8378946ae8c7ac1897d3255d5229b8a",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.kemono-v1.4.22.apk",
+    "name": "tachiyomi-all.kemono-v1.4.23.apk",
+    "path": "apk/tachiyomi-all.kemono-v1.4.23.apk",
+    "sha": "6f3519b82696221998b87a61dc807aa420188c65",
+    "size": 70959,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.kemono-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.kemono-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6f3519b82696221998b87a61dc807aa420188c65",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.kemono-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.kemono-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cca01bcdc8378946ae8c7ac1897d3255d5229b8a",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.kemono-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.kemono-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6f3519b82696221998b87a61dc807aa420188c65",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.kemono-v1.4.23.apk"
     }
   },
   {
