@@ -256,19 +256,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.coomer-v1.4.22.apk",
-    "path": "apk/tachiyomi-all.coomer-v1.4.22.apk",
-    "sha": "0aa97270f2703bbc4fb9c1a361ed0113bfb65164",
-    "size": 57926,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.coomer-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.coomer-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0aa97270f2703bbc4fb9c1a361ed0113bfb65164",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.coomer-v1.4.22.apk",
+    "name": "tachiyomi-all.coomer-v1.4.23.apk",
+    "path": "apk/tachiyomi-all.coomer-v1.4.23.apk",
+    "sha": "b4ad09b9dda1ed9bff43c2530df40d0ef2873772",
+    "size": 58696,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.coomer-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.coomer-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b4ad09b9dda1ed9bff43c2530df40d0ef2873772",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.coomer-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.coomer-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/0aa97270f2703bbc4fb9c1a361ed0113bfb65164",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.coomer-v1.4.22.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.coomer-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b4ad09b9dda1ed9bff43c2530df40d0ef2873772",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.coomer-v1.4.23.apk"
     }
   },
   {
@@ -800,19 +800,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.kemono-v1.4.23.apk",
-    "path": "apk/tachiyomi-all.kemono-v1.4.23.apk",
-    "sha": "24ee2f451e26b9efa10655c8cfa80a67c2989612",
-    "size": 70793,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.kemono-v1.4.23.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.kemono-v1.4.23.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/24ee2f451e26b9efa10655c8cfa80a67c2989612",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.kemono-v1.4.23.apk",
+    "name": "tachiyomi-all.kemono-v1.4.24.apk",
+    "path": "apk/tachiyomi-all.kemono-v1.4.24.apk",
+    "sha": "5f01fc9bc66f4afd393d150480e98db4b0366ae4",
+    "size": 71581,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.kemono-v1.4.24.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.kemono-v1.4.24.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5f01fc9bc66f4afd393d150480e98db4b0366ae4",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.kemono-v1.4.24.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.kemono-v1.4.23.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/24ee2f451e26b9efa10655c8cfa80a67c2989612",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.kemono-v1.4.23.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.kemono-v1.4.24.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5f01fc9bc66f4afd393d150480e98db4b0366ae4",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.kemono-v1.4.24.apk"
     }
   },
   {
@@ -10048,19 +10048,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.haremdekira-v1.4.42.apk",
-    "path": "apk/tachiyomi-es.haremdekira-v1.4.42.apk",
-    "sha": "b8c5ec362345979b9b8e2d7c3b54c71ef54aa31f",
-    "size": 83540,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.haremdekira-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.haremdekira-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b8c5ec362345979b9b8e2d7c3b54c71ef54aa31f",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.haremdekira-v1.4.42.apk",
+    "name": "tachiyomi-es.haremdekira-v1.4.43.apk",
+    "path": "apk/tachiyomi-es.haremdekira-v1.4.43.apk",
+    "sha": "ed03b5b34ea93f7c42f50de1502a057aad9f5c6e",
+    "size": 84506,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.haremdekira-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.haremdekira-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ed03b5b34ea93f7c42f50de1502a057aad9f5c6e",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.haremdekira-v1.4.43.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.haremdekira-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b8c5ec362345979b9b8e2d7c3b54c71ef54aa31f",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.haremdekira-v1.4.42.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.haremdekira-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ed03b5b34ea93f7c42f50de1502a057aad9f5c6e",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.haremdekira-v1.4.43.apk"
     }
   },
   {
