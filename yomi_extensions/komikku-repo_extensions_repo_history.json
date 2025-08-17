@@ -144,19 +144,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.comickfun-v1.4.61.apk",
-    "path": "apk/tachiyomi-all.comickfun-v1.4.61.apk",
-    "sha": "141e2700ad4995eaa575e090285b5f71e8ca5c0b",
-    "size": 116534,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.comickfun-v1.4.61.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/141e2700ad4995eaa575e090285b5f71e8ca5c0b",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk",
+    "name": "tachiyomi-all.comickfun-v1.4.62.apk",
+    "path": "apk/tachiyomi-all.comickfun-v1.4.62.apk",
+    "sha": "87c6da392e68dd49edf06771b37feabdb7d6aa37",
+    "size": 117760,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.comickfun-v1.4.62.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.comickfun-v1.4.62.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/87c6da392e68dd49edf06771b37feabdb7d6aa37",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.comickfun-v1.4.62.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.comickfun-v1.4.61.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/141e2700ad4995eaa575e090285b5f71e8ca5c0b",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.comickfun-v1.4.62.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/87c6da392e68dd49edf06771b37feabdb7d6aa37",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.comickfun-v1.4.62.apk"
     }
   },
   {
@@ -1680,19 +1680,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.snowmtl-v1.4.14.apk",
-    "path": "apk/tachiyomi-all.snowmtl-v1.4.14.apk",
-    "sha": "2670e995d2789f7af47809ba311dfcf263c9cb55",
-    "size": 171095,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.snowmtl-v1.4.14.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.snowmtl-v1.4.14.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2670e995d2789f7af47809ba311dfcf263c9cb55",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.snowmtl-v1.4.14.apk",
+    "name": "tachiyomi-all.snowmtl-v1.4.15.apk",
+    "path": "apk/tachiyomi-all.snowmtl-v1.4.15.apk",
+    "sha": "ff14a3fd519598e2f2f5b09c78c3f43e0dce4825",
+    "size": 171149,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.snowmtl-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.snowmtl-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ff14a3fd519598e2f2f5b09c78c3f43e0dce4825",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.snowmtl-v1.4.15.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.snowmtl-v1.4.14.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2670e995d2789f7af47809ba311dfcf263c9cb55",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.snowmtl-v1.4.14.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.snowmtl-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ff14a3fd519598e2f2f5b09c78c3f43e0dce4825",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.snowmtl-v1.4.15.apk"
     }
   },
   {
