@@ -144,19 +144,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.comickfun-v1.4.60.apk",
-    "path": "apk/tachiyomi-all.comickfun-v1.4.60.apk",
-    "sha": "04f96397da85496b159ea69467b2d0d430e8a592",
-    "size": 115630,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comickfun-v1.4.60.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comickfun-v1.4.60.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/04f96397da85496b159ea69467b2d0d430e8a592",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.comickfun-v1.4.60.apk",
+    "name": "tachiyomi-all.comickfun-v1.4.61.apk",
+    "path": "apk/tachiyomi-all.comickfun-v1.4.61.apk",
+    "sha": "aeba4da8a27ad9952284648fb12f04ccc82aefb3",
+    "size": 116794,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comickfun-v1.4.61.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/aeba4da8a27ad9952284648fb12f04ccc82aefb3",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comickfun-v1.4.60.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/04f96397da85496b159ea69467b2d0d430e8a592",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comickfun-v1.4.60.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comickfun-v1.4.61.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/aeba4da8a27ad9952284648fb12f04ccc82aefb3",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk"
     }
   },
   {
@@ -1616,19 +1616,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.snowmtl-v1.4.14.apk",
-    "path": "apk/tachiyomi-all.snowmtl-v1.4.14.apk",
-    "sha": "b0f7a18237d4b89f720665c6297b04a9679feafe",
-    "size": 171085,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.snowmtl-v1.4.14.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.snowmtl-v1.4.14.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b0f7a18237d4b89f720665c6297b04a9679feafe",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.snowmtl-v1.4.14.apk",
+    "name": "tachiyomi-all.snowmtl-v1.4.15.apk",
+    "path": "apk/tachiyomi-all.snowmtl-v1.4.15.apk",
+    "sha": "fed142ebc021793bdaecc53d526c80da58b6cacd",
+    "size": 171113,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.snowmtl-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.snowmtl-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fed142ebc021793bdaecc53d526c80da58b6cacd",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.snowmtl-v1.4.15.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.snowmtl-v1.4.14.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b0f7a18237d4b89f720665c6297b04a9679feafe",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.snowmtl-v1.4.14.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.snowmtl-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fed142ebc021793bdaecc53d526c80da58b6cacd",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.snowmtl-v1.4.15.apk"
     }
   },
   {
