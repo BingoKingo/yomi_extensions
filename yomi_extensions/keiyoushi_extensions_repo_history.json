@@ -11520,6 +11520,22 @@
     }
   },
   {
+    "name": "tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+    "path": "apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+    "sha": "ba35d422eb34430ffada434a932e0d0be8f81b3c",
+    "size": 48217,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ba35d422eb34430ffada434a932e0d0be8f81b3c",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ba35d422eb34430ffada434a932e0d0be8f81b3c",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-fr.japscan-v1.4.49.apk",
     "path": "apk/tachiyomi-fr.japscan-v1.4.49.apk",
     "sha": "987c634b77d7f26230e363e4c9ccb29d2bfcf23d",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/85cc346964d984ed33fb511cd6e33780d9e0a558",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.portalyaoi-v1.4.43.apk",
-    "path": "apk/tachiyomi-pt.portalyaoi-v1.4.43.apk",
-    "sha": "4ef79df5fb6c054b2aa2add2acfb2d4d9269fc02",
-    "size": 87582,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.portalyaoi-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.portalyaoi-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4ef79df5fb6c054b2aa2add2acfb2d4d9269fc02",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.portalyaoi-v1.4.43.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.portalyaoi-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4ef79df5fb6c054b2aa2add2acfb2d4d9269fc02",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.portalyaoi-v1.4.43.apk"
     }
   }
 ]
