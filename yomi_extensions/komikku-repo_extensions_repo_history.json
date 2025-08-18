@@ -11584,6 +11584,22 @@
     }
   },
   {
+    "name": "tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+    "path": "apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+    "sha": "7d23c58239669d1f1e0b9de24d0600196bfb2a48",
+    "size": 48185,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7d23c58239669d1f1e0b9de24d0600196bfb2a48",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7d23c58239669d1f1e0b9de24d0600196bfb2a48",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.invinciblecomics-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-fr.japscan-v1.4.49.apk",
     "path": "apk/tachiyomi-fr.japscan-v1.4.49.apk",
     "sha": "c8b5a940412660a3e15da5f2d2e3bdae34b85578",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.pinkseaunicorn-v1.4.43.apk?ref=repo",
       "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/00d3cc65ae44d54fe0bc92d99d4302431a414e7e",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.43.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.pirulitorosa-v1.4.42.apk",
-    "path": "apk/tachiyomi-pt.pirulitorosa-v1.4.42.apk",
-    "sha": "6b9b7fc8f1a8329452e87cebd771d151f8a329d6",
-    "size": 101417,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.pirulitorosa-v1.4.42.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.42.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6b9b7fc8f1a8329452e87cebd771d151f8a329d6",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.42.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.pirulitorosa-v1.4.42.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/6b9b7fc8f1a8329452e87cebd771d151f8a329d6",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.42.apk"
     }
   }
 ]
