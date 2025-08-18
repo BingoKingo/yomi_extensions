@@ -144,19 +144,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.comickfun-v1.4.61.apk",
-    "path": "apk/tachiyomi-all.comickfun-v1.4.61.apk",
-    "sha": "aeba4da8a27ad9952284648fb12f04ccc82aefb3",
-    "size": 116794,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comickfun-v1.4.61.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/aeba4da8a27ad9952284648fb12f04ccc82aefb3",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk",
+    "name": "tachiyomi-all.comickfun-v1.4.62.apk",
+    "path": "apk/tachiyomi-all.comickfun-v1.4.62.apk",
+    "sha": "a251d9dab956ae31bd4dc7781b37d4a65ce8b01d",
+    "size": 116816,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comickfun-v1.4.62.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comickfun-v1.4.62.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a251d9dab956ae31bd4dc7781b37d4a65ce8b01d",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.comickfun-v1.4.62.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comickfun-v1.4.61.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/aeba4da8a27ad9952284648fb12f04ccc82aefb3",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comickfun-v1.4.61.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.comickfun-v1.4.62.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a251d9dab956ae31bd4dc7781b37d4a65ce8b01d",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.comickfun-v1.4.62.apk"
     }
   },
   {
@@ -11536,19 +11536,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.japscan-v1.4.49.apk",
-    "path": "apk/tachiyomi-fr.japscan-v1.4.49.apk",
-    "sha": "987c634b77d7f26230e363e4c9ccb29d2bfcf23d",
-    "size": 58660,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.japscan-v1.4.49.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.japscan-v1.4.49.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/987c634b77d7f26230e363e4c9ccb29d2bfcf23d",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.japscan-v1.4.49.apk",
+    "name": "tachiyomi-fr.japscan-v1.4.50.apk",
+    "path": "apk/tachiyomi-fr.japscan-v1.4.50.apk",
+    "sha": "7b3640e5b6d91e2b27d228dcd6b2671c8503e89e",
+    "size": 58537,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.japscan-v1.4.50.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7b3640e5b6d91e2b27d228dcd6b2671c8503e89e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.japscan-v1.4.49.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/987c634b77d7f26230e363e4c9ccb29d2bfcf23d",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.japscan-v1.4.49.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.japscan-v1.4.50.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7b3640e5b6d91e2b27d228dcd6b2671c8503e89e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk"
     }
   },
   {
