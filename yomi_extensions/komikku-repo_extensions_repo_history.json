@@ -11600,19 +11600,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.japscan-v1.4.50.apk",
-    "path": "apk/tachiyomi-fr.japscan-v1.4.50.apk",
-    "sha": "1d7261bcbad2fa567f5456894fd3b20facdb0505",
-    "size": 58494,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.japscan-v1.4.50.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1d7261bcbad2fa567f5456894fd3b20facdb0505",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk",
+    "name": "tachiyomi-fr.japscan-v1.4.51.apk",
+    "path": "apk/tachiyomi-fr.japscan-v1.4.51.apk",
+    "sha": "72545a0869b33c96bef69cfb6218b748d0c6b3ef",
+    "size": 59189,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.japscan-v1.4.51.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.japscan-v1.4.51.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/72545a0869b33c96bef69cfb6218b748d0c6b3ef",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-fr.japscan-v1.4.51.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.japscan-v1.4.50.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1d7261bcbad2fa567f5456894fd3b20facdb0505",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-fr.japscan-v1.4.51.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/72545a0869b33c96bef69cfb6218b748d0c6b3ef",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-fr.japscan-v1.4.51.apk"
     }
   },
   {
