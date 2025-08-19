@@ -11536,19 +11536,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.japscan-v1.4.50.apk",
-    "path": "apk/tachiyomi-fr.japscan-v1.4.50.apk",
-    "sha": "7b3640e5b6d91e2b27d228dcd6b2671c8503e89e",
-    "size": 58537,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.japscan-v1.4.50.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7b3640e5b6d91e2b27d228dcd6b2671c8503e89e",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk",
+    "name": "tachiyomi-fr.japscan-v1.4.51.apk",
+    "path": "apk/tachiyomi-fr.japscan-v1.4.51.apk",
+    "sha": "d93429aeb5e5d9707f09de8d5eb26326a6190467",
+    "size": 59237,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.japscan-v1.4.51.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.japscan-v1.4.51.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d93429aeb5e5d9707f09de8d5eb26326a6190467",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.japscan-v1.4.51.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.japscan-v1.4.50.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7b3640e5b6d91e2b27d228dcd6b2671c8503e89e",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.japscan-v1.4.50.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.japscan-v1.4.51.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d93429aeb5e5d9707f09de8d5eb26326a6190467",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.japscan-v1.4.51.apk"
     }
   },
   {
