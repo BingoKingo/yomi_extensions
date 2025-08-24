@@ -12640,19 +12640,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.mangatale-v1.4.39.apk",
-    "path": "apk/tachiyomi-id.mangatale-v1.4.39.apk",
-    "sha": "a2869b907de6ba90c24e3937f724c10ba3226469",
-    "size": 41601,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.mangatale-v1.4.39.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.mangatale-v1.4.39.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a2869b907de6ba90c24e3937f724c10ba3226469",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.mangatale-v1.4.39.apk",
+    "name": "tachiyomi-id.mangatale-v1.4.40.apk",
+    "path": "apk/tachiyomi-id.mangatale-v1.4.40.apk",
+    "sha": "89ce4c55537199c14c49603baf09fc980571f243",
+    "size": 41568,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.mangatale-v1.4.40.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.mangatale-v1.4.40.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/89ce4c55537199c14c49603baf09fc980571f243",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.mangatale-v1.4.40.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.mangatale-v1.4.39.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a2869b907de6ba90c24e3937f724c10ba3226469",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.mangatale-v1.4.39.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.mangatale-v1.4.40.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/89ce4c55537199c14c49603baf09fc980571f243",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.mangatale-v1.4.40.apk"
     }
   },
   {
