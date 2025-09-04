@@ -4864,6 +4864,22 @@
     }
   },
   {
+    "name": "tachiyomi-en.kirascans-v1.4.30.apk",
+    "path": "apk/tachiyomi-en.kirascans-v1.4.30.apk",
+    "sha": "6f359dc7bee1f8710b2b313006a71fcdf811af7e",
+    "size": 115241,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kirascans-v1.4.30.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kirascans-v1.4.30.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6f359dc7bee1f8710b2b313006a71fcdf811af7e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.kirascans-v1.4.30.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kirascans-v1.4.30.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6f359dc7bee1f8710b2b313006a71fcdf811af7e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kirascans-v1.4.30.apk"
+    }
+  },
+  {
     "name": "tachiyomi-en.kissmangain-v1.4.46.apk",
     "path": "apk/tachiyomi-en.kissmangain-v1.4.46.apk",
     "sha": "763b43ac91b2e8708d3db85fb8f2b44d37c4723f",
@@ -10240,19 +10256,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.lectorjpg-v1.4.43.apk",
-    "path": "apk/tachiyomi-es.lectorjpg-v1.4.43.apk",
-    "sha": "e2f717062f724c5bfe576a44f8d5cf9369829ae6",
-    "size": 103982,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.lectorjpg-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.lectorjpg-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e2f717062f724c5bfe576a44f8d5cf9369829ae6",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.lectorjpg-v1.4.43.apk",
+    "name": "tachiyomi-es.lectorjpg-v1.4.44.apk",
+    "path": "apk/tachiyomi-es.lectorjpg-v1.4.44.apk",
+    "sha": "a96371eee8945ec18f5b1ccb8ebdd8474cda51d0",
+    "size": 56022,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.lectorjpg-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.lectorjpg-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a96371eee8945ec18f5b1ccb8ebdd8474cda51d0",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.lectorjpg-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.lectorjpg-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e2f717062f724c5bfe576a44f8d5cf9369829ae6",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.lectorjpg-v1.4.43.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.lectorjpg-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a96371eee8945ec18f5b1ccb8ebdd8474cda51d0",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.lectorjpg-v1.4.44.apk"
     }
   },
   {
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pinkseaunicorn-v1.4.44.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/997939584f8ba82b7ac64390a58345a58c8fb485",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.44.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.pirulitorosa-v1.4.43.apk",
-    "path": "apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk",
-    "sha": "30bdf98877920f023d9053307b0fcdc5f981cc02",
-    "size": 101168,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/30bdf98877920f023d9053307b0fcdc5f981cc02",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/30bdf98877920f023d9053307b0fcdc5f981cc02",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk"
     }
   }
 ]
