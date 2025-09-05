@@ -11904,19 +11904,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.starboundscans-v1.4.17.apk",
-    "path": "apk/tachiyomi-fr.starboundscans-v1.4.17.apk",
-    "sha": "5f42dc322eb3458232ccb0a4359dad2434db3a5c",
-    "size": 74906,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.starboundscans-v1.4.17.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.starboundscans-v1.4.17.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5f42dc322eb3458232ccb0a4359dad2434db3a5c",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.starboundscans-v1.4.17.apk",
+    "name": "tachiyomi-fr.starboundscans-v1.4.43.apk",
+    "path": "apk/tachiyomi-fr.starboundscans-v1.4.43.apk",
+    "sha": "90fbdf6b8072fe74f974bee203320d57bcd81739",
+    "size": 95987,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.starboundscans-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.starboundscans-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/90fbdf6b8072fe74f974bee203320d57bcd81739",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.starboundscans-v1.4.43.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.starboundscans-v1.4.17.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5f42dc322eb3458232ccb0a4359dad2434db3a5c",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.starboundscans-v1.4.17.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.starboundscans-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/90fbdf6b8072fe74f974bee203320d57bcd81739",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.starboundscans-v1.4.43.apk"
     }
   },
   {
