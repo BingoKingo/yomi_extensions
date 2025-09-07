@@ -1728,19 +1728,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.webtoons-v1.4.50.apk",
-    "path": "apk/tachiyomi-all.webtoons-v1.4.50.apk",
-    "sha": "d4fb97b3760e6381fc9980db4baf1dbe28805341",
-    "size": 79074,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.webtoons-v1.4.50.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.webtoons-v1.4.50.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d4fb97b3760e6381fc9980db4baf1dbe28805341",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.webtoons-v1.4.50.apk",
+    "name": "tachiyomi-all.webtoons-v1.4.51.apk",
+    "path": "apk/tachiyomi-all.webtoons-v1.4.51.apk",
+    "sha": "b59ac6488f151f4693d8362af35112a7bbd59ad8",
+    "size": 79182,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.webtoons-v1.4.51.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.webtoons-v1.4.51.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b59ac6488f151f4693d8362af35112a7bbd59ad8",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.webtoons-v1.4.51.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.webtoons-v1.4.50.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d4fb97b3760e6381fc9980db4baf1dbe28805341",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.webtoons-v1.4.50.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.webtoons-v1.4.51.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b59ac6488f151f4693d8362af35112a7bbd59ad8",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.webtoons-v1.4.51.apk"
     }
   },
   {
@@ -7197,6 +7197,22 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.nvmanga-v1.4.44.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3087279f692cd37ff28b19284192043fa3df654f",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.nvmanga-v1.4.44.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-en.nyanukafe-v1.4.17.apk",
+    "path": "apk/tachiyomi-en.nyanukafe-v1.4.17.apk",
+    "sha": "3eeb307b0aa4532dd5d547201a970765d2caced6",
+    "size": 60724,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.nyanukafe-v1.4.17.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.nyanukafe-v1.4.17.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3eeb307b0aa4532dd5d547201a970765d2caced6",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.nyanukafe-v1.4.17.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.nyanukafe-v1.4.17.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3eeb307b0aa4532dd5d547201a970765d2caced6",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.nyanukafe-v1.4.17.apk"
     }
   },
   {
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.plumacomics-v1.4.42.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ab47b3f1f4f229ca5d8ee0bd3b37bff46415a89f",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.plumacomics-v1.4.42.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.pointzerotoons-v1.4.30.apk",
-    "path": "apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk",
-    "sha": "2eb89689b08de1d0ceaa5923735b3703bea75b71",
-    "size": 82995,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2eb89689b08de1d0ceaa5923735b3703bea75b71",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2eb89689b08de1d0ceaa5923735b3703bea75b71",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.30.apk"
     }
   }
 ]
