@@ -2880,22 +2880,6 @@
     }
   },
   {
-    "name": "tachiyomi-en.animatedglitchedcomics-v1.4.40.apk",
-    "path": "apk/tachiyomi-en.animatedglitchedcomics-v1.4.40.apk",
-    "sha": "17380f1312cb7b7c115705f33a702ca314d17d1f",
-    "size": 112571,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.animatedglitchedcomics-v1.4.40.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.animatedglitchedcomics-v1.4.40.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/17380f1312cb7b7c115705f33a702ca314d17d1f",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.animatedglitchedcomics-v1.4.40.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.animatedglitchedcomics-v1.4.40.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/17380f1312cb7b7c115705f33a702ca314d17d1f",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.animatedglitchedcomics-v1.4.40.apk"
-    }
-  },
-  {
     "name": "tachiyomi-en.anisascans-v1.4.43.apk",
     "path": "apk/tachiyomi-en.anisascans-v1.4.43.apk",
     "sha": "603c3fdf666800372c28aa2d8d4b5674ac823710",
@@ -5181,22 +5165,6 @@
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manga1s-v1.4.4.apk?ref=repo",
       "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/716e9020e99448a90539a3ab2a9e1378df7428be",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manga1s-v1.4.4.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-en.manga347-v1.4.46.apk",
-    "path": "apk/tachiyomi-en.manga347-v1.4.46.apk",
-    "sha": "8ee8aa585ded34e4ea3e35c9c2ad52b0623b0a44",
-    "size": 162514,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manga347-v1.4.46.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manga347-v1.4.46.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8ee8aa585ded34e4ea3e35c9c2ad52b0623b0a44",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.manga347-v1.4.46.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manga347-v1.4.46.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8ee8aa585ded34e4ea3e35c9c2ad52b0623b0a44",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manga347-v1.4.46.apk"
     }
   },
   {
@@ -15997,6 +15965,38 @@
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.pinkrosa-v1.4.12.apk?ref=repo",
       "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/352bd397afa661d27cb0a2735ffc30218b4c5a45",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.pinkrosa-v1.4.12.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-pt.pinkseaunicorn-v1.4.44.apk",
+    "path": "apk/tachiyomi-pt.pinkseaunicorn-v1.4.44.apk",
+    "sha": "df8b0c1b15a6b829f7e7b66198234f8d9e91155b",
+    "size": 112908,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.pinkseaunicorn-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/df8b0c1b15a6b829f7e7b66198234f8d9e91155b",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.44.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.pinkseaunicorn-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/df8b0c1b15a6b829f7e7b66198234f8d9e91155b",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.44.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-pt.pirulitorosa-v1.4.43.apk",
+    "path": "apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk",
+    "sha": "13eace9e14d6ee5f5184c4ad37392c5d4bb77ba3",
+    "size": 101145,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/13eace9e14d6ee5f5184c4ad37392c5d4bb77ba3",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/13eace9e14d6ee5f5184c4ad37392c5d4bb77ba3",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.pirulitorosa-v1.4.43.apk"
     }
   }
 ]
