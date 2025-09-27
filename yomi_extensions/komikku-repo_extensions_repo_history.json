@@ -96,19 +96,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.buondua-v1.4.6.apk",
-    "path": "apk/tachiyomi-all.buondua-v1.4.6.apk",
-    "sha": "b2e72bfc9f40e8c0f1d6e7134e7efcb63ab56106",
-    "size": 64299,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b2e72bfc9f40e8c0f1d6e7134e7efcb63ab56106",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.buondua-v1.4.6.apk",
+    "name": "tachiyomi-all.buondua-v1.4.7.apk",
+    "path": "apk/tachiyomi-all.buondua-v1.4.7.apk",
+    "sha": "b3b675661eeb34366125b94cba173bf120e9bfbe",
+    "size": 68989,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b3b675661eeb34366125b94cba173bf120e9bfbe",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.buondua-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b2e72bfc9f40e8c0f1d6e7134e7efcb63ab56106",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.6.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b3b675661eeb34366125b94cba173bf120e9bfbe",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.7.apk"
     }
   },
   {
