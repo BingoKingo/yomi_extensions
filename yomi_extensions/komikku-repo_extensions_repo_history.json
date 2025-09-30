@@ -1040,19 +1040,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.mangapluscreators-v1.4.1.apk",
-    "path": "apk/tachiyomi-all.mangapluscreators-v1.4.1.apk",
-    "sha": "d06db3c5f7320cb3b60f45fb0ade5eea68fab89c",
-    "size": 72851,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d06db3c5f7320cb3b60f45fb0ade5eea68fab89c",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk",
+    "name": "tachiyomi-all.mangapluscreators-v1.4.2.apk",
+    "path": "apk/tachiyomi-all.mangapluscreators-v1.4.2.apk",
+    "sha": "789b478dd965dc708811f2dd68ac97d768d4624f",
+    "size": 76049,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/789b478dd965dc708811f2dd68ac97d768d4624f",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/d06db3c5f7320cb3b60f45fb0ade5eea68fab89c",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/789b478dd965dc708811f2dd68ac97d768d4624f",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk"
     }
   },
   {
