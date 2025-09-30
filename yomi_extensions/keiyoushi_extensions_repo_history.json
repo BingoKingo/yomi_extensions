@@ -992,19 +992,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.mangapluscreators-v1.4.1.apk",
-    "path": "apk/tachiyomi-all.mangapluscreators-v1.4.1.apk",
-    "sha": "4404ed70d876542c6868f6d5b02a1cb190d6080d",
-    "size": 72787,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4404ed70d876542c6868f6d5b02a1cb190d6080d",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk",
+    "name": "tachiyomi-all.mangapluscreators-v1.4.2.apk",
+    "path": "apk/tachiyomi-all.mangapluscreators-v1.4.2.apk",
+    "sha": "52893b88a493f32c929dd382bb4f084826fe5e31",
+    "size": 76085,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/52893b88a493f32c929dd382bb4f084826fe5e31",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4404ed70d876542c6868f6d5b02a1cb190d6080d",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangapluscreators-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/52893b88a493f32c929dd382bb4f084826fe5e31",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangapluscreators-v1.4.2.apk"
     }
   },
   {
