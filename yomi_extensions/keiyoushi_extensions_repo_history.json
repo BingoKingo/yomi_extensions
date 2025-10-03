@@ -11376,19 +11376,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.animesama-v1.4.7.apk",
-    "path": "apk/tachiyomi-fr.animesama-v1.4.7.apk",
-    "sha": "5f4cf81f164fa94d86262005bc033e572dc64d91",
-    "size": 63093,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.animesama-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.animesama-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5f4cf81f164fa94d86262005bc033e572dc64d91",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.animesama-v1.4.7.apk",
+    "name": "tachiyomi-fr.animesama-v1.4.8.apk",
+    "path": "apk/tachiyomi-fr.animesama-v1.4.8.apk",
+    "sha": "841f915cf591f324a520ba5accbc03af21b8ce48",
+    "size": 65178,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.animesama-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.animesama-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/841f915cf591f324a520ba5accbc03af21b8ce48",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.animesama-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.animesama-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5f4cf81f164fa94d86262005bc033e572dc64d91",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.animesama-v1.4.7.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.animesama-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/841f915cf591f324a520ba5accbc03af21b8ce48",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.animesama-v1.4.8.apk"
     }
   },
   {
