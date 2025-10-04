@@ -12528,19 +12528,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.komikcast-v1.4.66.apk",
-    "path": "apk/tachiyomi-id.komikcast-v1.4.66.apk",
-    "sha": "856f074af8d033006fffff61e790a162ea9faf3a",
-    "size": 131420,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.komikcast-v1.4.66.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/856f074af8d033006fffff61e790a162ea9faf3a",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk",
+    "name": "tachiyomi-id.komikcast-v1.4.67.apk",
+    "path": "apk/tachiyomi-id.komikcast-v1.4.67.apk",
+    "sha": "a03f8f3dfddf60dcce32cd8bac84ac31f847c9bb",
+    "size": 131421,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.komikcast-v1.4.67.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.komikcast-v1.4.67.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a03f8f3dfddf60dcce32cd8bac84ac31f847c9bb",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-id.komikcast-v1.4.67.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.komikcast-v1.4.66.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/856f074af8d033006fffff61e790a162ea9faf3a",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.komikcast-v1.4.66.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-id.komikcast-v1.4.67.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a03f8f3dfddf60dcce32cd8bac84ac31f847c9bb",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-id.komikcast-v1.4.67.apk"
     }
   },
   {
