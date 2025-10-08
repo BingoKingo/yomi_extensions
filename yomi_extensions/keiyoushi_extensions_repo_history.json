@@ -7632,19 +7632,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.ragescans-v1.4.30.apk",
-    "path": "apk/tachiyomi-en.ragescans-v1.4.30.apk",
-    "sha": "81b24219b23a8a71a1d57efb739f0d46a7a7dde7",
-    "size": 107976,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.ragescans-v1.4.30.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.ragescans-v1.4.30.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/81b24219b23a8a71a1d57efb739f0d46a7a7dde7",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.ragescans-v1.4.30.apk",
+    "name": "tachiyomi-en.ragescans-v1.4.31.apk",
+    "path": "apk/tachiyomi-en.ragescans-v1.4.31.apk",
+    "sha": "c2757960f786f3fd187f9bb8066458af908657b3",
+    "size": 108007,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.ragescans-v1.4.31.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.ragescans-v1.4.31.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c2757960f786f3fd187f9bb8066458af908657b3",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.ragescans-v1.4.31.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.ragescans-v1.4.30.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/81b24219b23a8a71a1d57efb739f0d46a7a7dde7",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.ragescans-v1.4.30.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.ragescans-v1.4.31.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c2757960f786f3fd187f9bb8066458af908657b3",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.ragescans-v1.4.31.apk"
     }
   },
   {
