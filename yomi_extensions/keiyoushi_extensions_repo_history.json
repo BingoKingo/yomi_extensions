@@ -2912,19 +2912,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.arvenscans-v1.4.49.apk",
-    "path": "apk/tachiyomi-en.arvenscans-v1.4.49.apk",
-    "sha": "ca96f3f6b3a52f7d7337216beda3d02e3ae288be",
-    "size": 133183,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.arvenscans-v1.4.49.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.arvenscans-v1.4.49.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ca96f3f6b3a52f7d7337216beda3d02e3ae288be",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.arvenscans-v1.4.49.apk",
+    "name": "tachiyomi-en.arvenscans-v1.4.50.apk",
+    "path": "apk/tachiyomi-en.arvenscans-v1.4.50.apk",
+    "sha": "81118bdd8320b8f2f5d9f40003a8d13854d6646e",
+    "size": 133951,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.arvenscans-v1.4.50.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.arvenscans-v1.4.50.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/81118bdd8320b8f2f5d9f40003a8d13854d6646e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.arvenscans-v1.4.50.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.arvenscans-v1.4.49.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ca96f3f6b3a52f7d7337216beda3d02e3ae288be",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.arvenscans-v1.4.49.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.arvenscans-v1.4.50.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/81118bdd8320b8f2f5d9f40003a8d13854d6646e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.arvenscans-v1.4.50.apk"
     }
   },
   {
@@ -12864,19 +12864,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.mangatale-v1.4.41.apk",
-    "path": "apk/tachiyomi-id.mangatale-v1.4.41.apk",
-    "sha": "c21e5c41fdea47601fa3988f28af8b503709dfd3",
-    "size": 41618,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.mangatale-v1.4.41.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.mangatale-v1.4.41.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c21e5c41fdea47601fa3988f28af8b503709dfd3",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.mangatale-v1.4.41.apk",
+    "name": "tachiyomi-id.mangatale-v1.4.42.apk",
+    "path": "apk/tachiyomi-id.mangatale-v1.4.42.apk",
+    "sha": "a22679d273a2a946642f5a2af2543ffb2c64fd89",
+    "size": 41626,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.mangatale-v1.4.42.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.mangatale-v1.4.42.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a22679d273a2a946642f5a2af2543ffb2c64fd89",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-id.mangatale-v1.4.42.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.mangatale-v1.4.41.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c21e5c41fdea47601fa3988f28af8b503709dfd3",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.mangatale-v1.4.41.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-id.mangatale-v1.4.42.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/a22679d273a2a946642f5a2af2543ffb2c64fd89",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-id.mangatale-v1.4.42.apk"
     }
   },
   {
