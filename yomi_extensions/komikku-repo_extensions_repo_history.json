@@ -4768,19 +4768,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.kagane-v1.4.4.apk",
-    "path": "apk/tachiyomi-en.kagane-v1.4.4.apk",
-    "sha": "979365086a3a174669924ef5217954438ccea0cf",
-    "size": 78266,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/979365086a3a174669924ef5217954438ccea0cf",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kagane-v1.4.4.apk",
+    "name": "tachiyomi-en.kagane-v1.4.5.apk",
+    "path": "apk/tachiyomi-en.kagane-v1.4.5.apk",
+    "sha": "378a14ab963388d6773b3cd5db5cb4ff086bab28",
+    "size": 78271,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.5.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.5.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/378a14ab963388d6773b3cd5db5cb4ff086bab28",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kagane-v1.4.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/979365086a3a174669924ef5217954438ccea0cf",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.4.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.5.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/378a14ab963388d6773b3cd5db5cb4ff086bab28",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.5.apk"
     }
   },
   {
