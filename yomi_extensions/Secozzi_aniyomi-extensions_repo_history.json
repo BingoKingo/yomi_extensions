@@ -16,19 +16,19 @@
     }
   },
   {
-    "name": "aniyomi-all.stremio-v16.7.apk",
-    "path": "apk/aniyomi-all.stremio-v16.7.apk",
-    "sha": "dc3b843e301f8d6fa7094475d40f7e2408a7227f",
-    "size": 439815,
-    "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.stremio-v16.7.apk?ref=repo",
-    "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.stremio-v16.7.apk",
-    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/dc3b843e301f8d6fa7094475d40f7e2408a7227f",
-    "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.stremio-v16.7.apk",
+    "name": "aniyomi-all.stremio-v16.8.apk",
+    "path": "apk/aniyomi-all.stremio-v16.8.apk",
+    "sha": "1a128d6d7d61a1f32389d011d4dd6cf682056334",
+    "size": 440035,
+    "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.stremio-v16.8.apk?ref=repo",
+    "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.stremio-v16.8.apk",
+    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/1a128d6d7d61a1f32389d011d4dd6cf682056334",
+    "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.stremio-v16.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.stremio-v16.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/dc3b843e301f8d6fa7094475d40f7e2408a7227f",
-      "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.stremio-v16.7.apk"
+      "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.stremio-v16.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/1a128d6d7d61a1f32389d011d4dd6cf682056334",
+      "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.stremio-v16.8.apk"
     }
   }
 ]
