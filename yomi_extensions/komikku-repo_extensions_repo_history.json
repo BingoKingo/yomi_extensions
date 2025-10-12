@@ -4560,19 +4560,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.hiperdex-v1.4.65.apk",
-    "path": "apk/tachiyomi-en.hiperdex-v1.4.65.apk",
-    "sha": "fe7ad66c5c402bc0475677dd8b0eec04d77c93bd",
-    "size": 89022,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hiperdex-v1.4.65.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.65.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fe7ad66c5c402bc0475677dd8b0eec04d77c93bd",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.hiperdex-v1.4.65.apk",
+    "name": "tachiyomi-en.hiperdex-v1.4.66.apk",
+    "path": "apk/tachiyomi-en.hiperdex-v1.4.66.apk",
+    "sha": "33f8353b023cdcefa5ba9326d516f2c4ec2f9fba",
+    "size": 90305,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hiperdex-v1.4.66.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.66.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/33f8353b023cdcefa5ba9326d516f2c4ec2f9fba",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.hiperdex-v1.4.66.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hiperdex-v1.4.65.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fe7ad66c5c402bc0475677dd8b0eec04d77c93bd",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.65.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.hiperdex-v1.4.66.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/33f8353b023cdcefa5ba9326d516f2c4ec2f9fba",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.66.apk"
     }
   },
   {
