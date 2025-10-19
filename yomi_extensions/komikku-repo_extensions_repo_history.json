@@ -1296,19 +1296,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.misskon-v1.4.12.apk",
-    "path": "apk/tachiyomi-all.misskon-v1.4.12.apk",
-    "sha": "8eeba18a84d392d06401c4c2af82f57276d7b963",
-    "size": 81275,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8eeba18a84d392d06401c4c2af82f57276d7b963",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.misskon-v1.4.12.apk",
+    "name": "tachiyomi-all.misskon-v1.4.13.apk",
+    "path": "apk/tachiyomi-all.misskon-v1.4.13.apk",
+    "sha": "e15d573dad1b15f89f54e39634a029ce0e3efb19",
+    "size": 82165,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e15d573dad1b15f89f54e39634a029ce0e3efb19",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.misskon-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/8eeba18a84d392d06401c4c2af82f57276d7b963",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.12.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e15d573dad1b15f89f54e39634a029ce0e3efb19",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.13.apk"
     }
   },
   {
