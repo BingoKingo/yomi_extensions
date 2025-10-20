@@ -96,19 +96,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.buondua-v1.4.7.apk",
-    "path": "apk/tachiyomi-all.buondua-v1.4.7.apk",
-    "sha": "b3b675661eeb34366125b94cba173bf120e9bfbe",
-    "size": 68989,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b3b675661eeb34366125b94cba173bf120e9bfbe",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.buondua-v1.4.7.apk",
+    "name": "tachiyomi-all.buondua-v1.4.8.apk",
+    "path": "apk/tachiyomi-all.buondua-v1.4.8.apk",
+    "sha": "778e4080236f45227bdea45b273a747d3bc92d84",
+    "size": 69266,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/778e4080236f45227bdea45b273a747d3bc92d84",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.buondua-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/b3b675661eeb34366125b94cba173bf120e9bfbe",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.7.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.buondua-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/778e4080236f45227bdea45b273a747d3bc92d84",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.buondua-v1.4.8.apk"
     }
   },
   {
@@ -1298,16 +1298,16 @@
   {
     "name": "tachiyomi-all.misskon-v1.4.13.apk",
     "path": "apk/tachiyomi-all.misskon-v1.4.13.apk",
-    "sha": "e15d573dad1b15f89f54e39634a029ce0e3efb19",
-    "size": 82165,
+    "sha": "87f627f3481b8281bae4d148a17497c6a7d97056",
+    "size": 82233,
     "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.13.apk?ref=repo",
     "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.13.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e15d573dad1b15f89f54e39634a029ce0e3efb19",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/87f627f3481b8281bae4d148a17497c6a7d97056",
     "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.misskon-v1.4.13.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.misskon-v1.4.13.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/e15d573dad1b15f89f54e39634a029ce0e3efb19",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/87f627f3481b8281bae4d148a17497c6a7d97056",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.misskon-v1.4.13.apk"
     }
   },
