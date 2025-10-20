@@ -11872,6 +11872,22 @@
     }
   },
   {
+    "name": "tachiyomi-fr.scanmanga-v1.4.12.apk",
+    "path": "apk/tachiyomi-fr.scanmanga-v1.4.12.apk",
+    "sha": "def58ec36c93f32baf7cc0522d02679f019506f9",
+    "size": 57228,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.12.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.12.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/def58ec36c93f32baf7cc0522d02679f019506f9",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.scanmanga-v1.4.12.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.scanmanga-v1.4.12.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/def58ec36c93f32baf7cc0522d02679f019506f9",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.scanmanga-v1.4.12.apk"
+    }
+  },
+  {
     "name": "tachiyomi-fr.scantradunion-v1.4.2.apk",
     "path": "apk/tachiyomi-fr.scantradunion-v1.4.2.apk",
     "sha": "ad7f7814040dc5626e6c91d95ab4d40ea3802293",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pinkrosa-v1.4.12.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/bb78caf690d60a78b60d5e6e801c5c0a8c1c5eaf",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pinkrosa-v1.4.12.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.pinkseaunicorn-v1.4.46.apk",
-    "path": "apk/tachiyomi-pt.pinkseaunicorn-v1.4.46.apk",
-    "sha": "78c5a461d93a2e4b30f80cedb89c2c22a6e6ef01",
-    "size": 112973,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pinkseaunicorn-v1.4.46.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.46.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/78c5a461d93a2e4b30f80cedb89c2c22a6e6ef01",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.46.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.pinkseaunicorn-v1.4.46.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/78c5a461d93a2e4b30f80cedb89c2c22a6e6ef01",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.pinkseaunicorn-v1.4.46.apk"
     }
   }
 ]
