@@ -288,19 +288,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.cubari-v1.4.25.apk",
-    "path": "apk/tachiyomi-all.cubari-v1.4.25.apk",
-    "sha": "2df8b70055b216125fc311334151dd65a213181d",
-    "size": 57357,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.cubari-v1.4.25.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.cubari-v1.4.25.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2df8b70055b216125fc311334151dd65a213181d",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.cubari-v1.4.25.apk",
+    "name": "tachiyomi-all.cubari-v1.4.26.apk",
+    "path": "apk/tachiyomi-all.cubari-v1.4.26.apk",
+    "sha": "ae4988e3c3303aa20aceeec07936fa9386c0231e",
+    "size": 57533,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.cubari-v1.4.26.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.cubari-v1.4.26.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ae4988e3c3303aa20aceeec07936fa9386c0231e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.cubari-v1.4.26.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.cubari-v1.4.25.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2df8b70055b216125fc311334151dd65a213181d",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.cubari-v1.4.25.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.cubari-v1.4.26.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ae4988e3c3303aa20aceeec07936fa9386c0231e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.cubari-v1.4.26.apk"
     }
   },
   {
@@ -4640,19 +4640,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.kagane-v1.4.7.apk",
-    "path": "apk/tachiyomi-en.kagane-v1.4.7.apk",
-    "sha": "f49c84087d6acfe2d7bb033d18c77f89f1f337bf",
-    "size": 87518,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f49c84087d6acfe2d7bb033d18c77f89f1f337bf",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.kagane-v1.4.7.apk",
+    "name": "tachiyomi-en.kagane-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.kagane-v1.4.8.apk",
+    "sha": "2f4cf5b38673f4a9588294c5c4450e337ea89764",
+    "size": 88022,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2f4cf5b38673f4a9588294c5c4450e337ea89764",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.kagane-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f49c84087d6acfe2d7bb033d18c77f89f1f337bf",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.7.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2f4cf5b38673f4a9588294c5c4450e337ea89764",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.8.apk"
     }
   },
   {
@@ -6080,19 +6080,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangataro-v1.4.1.apk",
-    "path": "apk/tachiyomi-en.mangataro-v1.4.1.apk",
-    "sha": "4cd1b05f6c17d484c236c3f3a59eef7528cd495c",
+    "name": "tachiyomi-en.mangataro-v1.4.2.apk",
+    "path": "apk/tachiyomi-en.mangataro-v1.4.2.apk",
+    "sha": "4fcba35d4c5ba46d6e77b25d18ed2b40e193bcc7",
     "size": 95947,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangataro-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangataro-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4cd1b05f6c17d484c236c3f3a59eef7528cd495c",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangataro-v1.4.1.apk",
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangataro-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangataro-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4fcba35d4c5ba46d6e77b25d18ed2b40e193bcc7",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangataro-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangataro-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4cd1b05f6c17d484c236c3f3a59eef7528cd495c",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangataro-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangataro-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4fcba35d4c5ba46d6e77b25d18ed2b40e193bcc7",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangataro-v1.4.2.apk"
     }
   },
   {
