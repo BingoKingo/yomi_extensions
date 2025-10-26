@@ -288,19 +288,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.cubari-v1.4.25.apk",
-    "path": "apk/tachiyomi-all.cubari-v1.4.25.apk",
-    "sha": "bdf5626098a42bce5560297c318d3c1a32999b80",
-    "size": 57338,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.cubari-v1.4.25.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.cubari-v1.4.25.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bdf5626098a42bce5560297c318d3c1a32999b80",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.cubari-v1.4.25.apk",
+    "name": "tachiyomi-all.cubari-v1.4.26.apk",
+    "path": "apk/tachiyomi-all.cubari-v1.4.26.apk",
+    "sha": "7ee869e8795209567e4395f3b1539c3be0bb66d7",
+    "size": 57405,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.cubari-v1.4.26.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.cubari-v1.4.26.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7ee869e8795209567e4395f3b1539c3be0bb66d7",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.cubari-v1.4.26.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.cubari-v1.4.25.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bdf5626098a42bce5560297c318d3c1a32999b80",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.cubari-v1.4.25.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.cubari-v1.4.26.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/7ee869e8795209567e4395f3b1539c3be0bb66d7",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.cubari-v1.4.26.apk"
     }
   },
   {
@@ -4704,19 +4704,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.kagane-v1.4.7.apk",
-    "path": "apk/tachiyomi-en.kagane-v1.4.7.apk",
-    "sha": "2c22e4ce19620edde63505b3c5847f4ae3492805",
-    "size": 87508,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.7.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.7.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2c22e4ce19620edde63505b3c5847f4ae3492805",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kagane-v1.4.7.apk",
+    "name": "tachiyomi-en.kagane-v1.4.8.apk",
+    "path": "apk/tachiyomi-en.kagane-v1.4.8.apk",
+    "sha": "5cd989c06051168b2d2ad9e65b6bfc7dbe2022a3",
+    "size": 87996,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5cd989c06051168b2d2ad9e65b6bfc7dbe2022a3",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.kagane-v1.4.8.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.7.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2c22e4ce19620edde63505b3c5847f4ae3492805",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.7.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5cd989c06051168b2d2ad9e65b6bfc7dbe2022a3",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.8.apk"
     }
   },
   {
@@ -6144,19 +6144,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangataro-v1.4.1.apk",
-    "path": "apk/tachiyomi-en.mangataro-v1.4.1.apk",
-    "sha": "653b900ee08845ff96bde702d062aed39d3eb623",
+    "name": "tachiyomi-en.mangataro-v1.4.2.apk",
+    "path": "apk/tachiyomi-en.mangataro-v1.4.2.apk",
+    "sha": "cb872d9e2b0be2d960f1c70a4dcf55a6b43251c8",
     "size": 95914,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/653b900ee08845ff96bde702d062aed39d3eb623",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangataro-v1.4.1.apk",
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cb872d9e2b0be2d960f1c70a4dcf55a6b43251c8",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangataro-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/653b900ee08845ff96bde702d062aed39d3eb623",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.1.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/cb872d9e2b0be2d960f1c70a4dcf55a6b43251c8",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.2.apk"
     }
   },
   {
