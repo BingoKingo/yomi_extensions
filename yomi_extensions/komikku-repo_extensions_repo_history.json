@@ -3952,19 +3952,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.flamecomics-v1.4.44.apk",
-    "path": "apk/tachiyomi-en.flamecomics-v1.4.44.apk",
-    "sha": "db1f54f06f9fa60da6cfd70d83937fb7cf6cee3a",
-    "size": 75280,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.flamecomics-v1.4.44.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.flamecomics-v1.4.44.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/db1f54f06f9fa60da6cfd70d83937fb7cf6cee3a",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.flamecomics-v1.4.44.apk",
+    "name": "tachiyomi-en.flamecomics-v1.4.45.apk",
+    "path": "apk/tachiyomi-en.flamecomics-v1.4.45.apk",
+    "sha": "f6ea2eba5d2eca069365d69e25200edb8c478633",
+    "size": 78415,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.flamecomics-v1.4.45.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.flamecomics-v1.4.45.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f6ea2eba5d2eca069365d69e25200edb8c478633",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.flamecomics-v1.4.45.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.flamecomics-v1.4.44.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/db1f54f06f9fa60da6cfd70d83937fb7cf6cee3a",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.flamecomics-v1.4.44.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.flamecomics-v1.4.45.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f6ea2eba5d2eca069365d69e25200edb8c478633",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.flamecomics-v1.4.45.apk"
     }
   },
   {
@@ -6144,19 +6144,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangataro-v1.4.3.apk",
-    "path": "apk/tachiyomi-en.mangataro-v1.4.3.apk",
-    "sha": "b86d97ca88f85344187826b031a052a0ca105883",
-    "size": 97800,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.3.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/b86d97ca88f85344187826b031a052a0ca105883",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.mangataro-v1.4.3.apk",
+    "name": "tachiyomi-en.mangataro-v1.4.4.apk",
+    "path": "apk/tachiyomi-en.mangataro-v1.4.4.apk",
+    "sha": "46e843a395ab62be1cbdf26acd38b619dbc7dda2",
+    "size": 97833,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/46e843a395ab62be1cbdf26acd38b619dbc7dda2",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-en.mangataro-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/b86d97ca88f85344187826b031a052a0ca105883",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.3.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/46e843a395ab62be1cbdf26acd38b619dbc7dda2",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.4.apk"
     }
   },
   {
@@ -10736,19 +10736,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.mhscans-v1.4.52.apk",
-    "path": "apk/tachiyomi-es.mhscans-v1.4.52.apk",
-    "sha": "07f651cbc85e1241bfa957709108e69ee7fa8d77",
-    "size": 114374,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mhscans-v1.4.52.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mhscans-v1.4.52.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/07f651cbc85e1241bfa957709108e69ee7fa8d77",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.mhscans-v1.4.52.apk",
+    "name": "tachiyomi-es.mhscans-v1.4.53.apk",
+    "path": "apk/tachiyomi-es.mhscans-v1.4.53.apk",
+    "sha": "f784ca4a7fc34d8a6ba73d332ebfc2e1112ebabe",
+    "size": 114372,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mhscans-v1.4.53.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mhscans-v1.4.53.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f784ca4a7fc34d8a6ba73d332ebfc2e1112ebabe",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-es.mhscans-v1.4.53.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mhscans-v1.4.52.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/07f651cbc85e1241bfa957709108e69ee7fa8d77",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mhscans-v1.4.52.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-es.mhscans-v1.4.53.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/f784ca4a7fc34d8a6ba73d332ebfc2e1112ebabe",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-es.mhscans-v1.4.53.apk"
     }
   },
   {
@@ -14256,19 +14256,19 @@
     }
   },
   {
-    "name": "tachiyomi-ja.rawkuma-v1.4.33.apk",
-    "path": "apk/tachiyomi-ja.rawkuma-v1.4.33.apk",
-    "sha": "9ddb913eb6538f0b92b05118b916c174d0e12fcd",
-    "size": 85370,
-    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ja.rawkuma-v1.4.33.apk?ref=repo",
-    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.33.apk",
-    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9ddb913eb6538f0b92b05118b916c174d0e12fcd",
-    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-ja.rawkuma-v1.4.33.apk",
+    "name": "tachiyomi-ja.rawkuma-v1.4.35.apk",
+    "path": "apk/tachiyomi-ja.rawkuma-v1.4.35.apk",
+    "sha": "e855608b790d732dbf7097e2dcb48a037c06bd11",
+    "size": 59428,
+    "url": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ja.rawkuma-v1.4.35.apk?ref=repo",
+    "html_url": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.35.apk",
+    "git_url": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e855608b790d732dbf7097e2dcb48a037c06bd11",
+    "download_url": "https://raw.githubusercontent.com/yuzono/manga-repo/repo/apk/tachiyomi-ja.rawkuma-v1.4.35.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ja.rawkuma-v1.4.33.apk?ref=repo",
-      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/9ddb913eb6538f0b92b05118b916c174d0e12fcd",
-      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.33.apk"
+      "self": "https://api.github.com/repos/yuzono/manga-repo/contents/apk/tachiyomi-ja.rawkuma-v1.4.35.apk?ref=repo",
+      "git": "https://api.github.com/repos/yuzono/manga-repo/git/blobs/e855608b790d732dbf7097e2dcb48a037c06bd11",
+      "html": "https://github.com/yuzono/manga-repo/blob/repo/apk/tachiyomi-ja.rawkuma-v1.4.35.apk"
     }
   },
   {
