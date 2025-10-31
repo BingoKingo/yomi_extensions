@@ -10448,19 +10448,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.mangacrab-v1.4.61.apk",
-    "path": "apk/tachiyomi-es.mangacrab-v1.4.61.apk",
-    "sha": "b9e40bc34f7bcd77fe98a278eb10945c7dd0f271",
-    "size": 137478,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangacrab-v1.4.61.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.61.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b9e40bc34f7bcd77fe98a278eb10945c7dd0f271",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.mangacrab-v1.4.61.apk",
+    "name": "tachiyomi-es.mangacrab-v1.4.62.apk",
+    "path": "apk/tachiyomi-es.mangacrab-v1.4.62.apk",
+    "sha": "54fb77aa3652795e3dabd164ffd21acf99862bb7",
+    "size": 137627,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangacrab-v1.4.62.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.62.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/54fb77aa3652795e3dabd164ffd21acf99862bb7",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.mangacrab-v1.4.62.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangacrab-v1.4.61.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b9e40bc34f7bcd77fe98a278eb10945c7dd0f271",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.61.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.mangacrab-v1.4.62.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/54fb77aa3652795e3dabd164ffd21acf99862bb7",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.mangacrab-v1.4.62.apk"
     }
   },
   {
@@ -14498,16 +14498,16 @@
   {
     "name": "tachiyomi-ko.newtoki-v1.4.33.apk",
     "path": "apk/tachiyomi-ko.newtoki-v1.4.33.apk",
-    "sha": "d2ce078b4582807b7fec09aa98118e07532a73a3",
-    "size": 106955,
+    "sha": "3c04a771d34bb5cff5f480ed97d43351a80823be",
+    "size": 106951,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.newtoki-v1.4.33.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.newtoki-v1.4.33.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d2ce078b4582807b7fec09aa98118e07532a73a3",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3c04a771d34bb5cff5f480ed97d43351a80823be",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ko.newtoki-v1.4.33.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ko.newtoki-v1.4.33.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d2ce078b4582807b7fec09aa98118e07532a73a3",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3c04a771d34bb5cff5f480ed97d43351a80823be",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ko.newtoki-v1.4.33.apk"
     }
   },
