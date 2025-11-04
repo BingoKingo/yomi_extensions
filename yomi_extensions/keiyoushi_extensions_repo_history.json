@@ -928,19 +928,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.mangafire-v1.4.15.apk",
-    "path": "apk/tachiyomi-all.mangafire-v1.4.15.apk",
-    "sha": "944516b6e411e63eb58bd6386c55dc6fffe6ba11",
-    "size": 73312,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangafire-v1.4.15.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangafire-v1.4.15.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/944516b6e411e63eb58bd6386c55dc6fffe6ba11",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.mangafire-v1.4.15.apk",
+    "name": "tachiyomi-all.mangafire-v1.4.16.apk",
+    "path": "apk/tachiyomi-all.mangafire-v1.4.16.apk",
+    "sha": "80636d010c0123257b73a37c75041a84c23806c4",
+    "size": 72097,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangafire-v1.4.16.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangafire-v1.4.16.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/80636d010c0123257b73a37c75041a84c23806c4",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.mangafire-v1.4.16.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangafire-v1.4.15.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/944516b6e411e63eb58bd6386c55dc6fffe6ba11",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangafire-v1.4.15.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangafire-v1.4.16.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/80636d010c0123257b73a37c75041a84c23806c4",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangafire-v1.4.16.apk"
     }
   },
   {
