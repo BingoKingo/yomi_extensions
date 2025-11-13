@@ -4464,19 +4464,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.hiperdex-v1.4.66.apk",
-    "path": "apk/tachiyomi-en.hiperdex-v1.4.66.apk",
-    "sha": "f78b1e53c549fa9fa4785d3c91259c8d98c29368",
-    "size": 91709,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hiperdex-v1.4.66.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.66.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f78b1e53c549fa9fa4785d3c91259c8d98c29368",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.hiperdex-v1.4.66.apk",
+    "name": "tachiyomi-en.hiperdex-v1.4.67.apk",
+    "path": "apk/tachiyomi-en.hiperdex-v1.4.67.apk",
+    "sha": "fe5205104d75ab50544a3a10ae674f368b3c84f1",
+    "size": 91752,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hiperdex-v1.4.67.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.67.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fe5205104d75ab50544a3a10ae674f368b3c84f1",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.hiperdex-v1.4.67.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hiperdex-v1.4.66.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f78b1e53c549fa9fa4785d3c91259c8d98c29368",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.66.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.hiperdex-v1.4.67.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/fe5205104d75ab50544a3a10ae674f368b3c84f1",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.hiperdex-v1.4.67.apk"
     }
   },
   {
@@ -4672,19 +4672,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.kagane-v1.4.10.apk",
-    "path": "apk/tachiyomi-en.kagane-v1.4.10.apk",
-    "sha": "b7d14339d2c351f901f895b7cfb9ca0ec0e37cb4",
-    "size": 90958,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b7d14339d2c351f901f895b7cfb9ca0ec0e37cb4",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.kagane-v1.4.10.apk",
+    "name": "tachiyomi-en.kagane-v1.4.11.apk",
+    "path": "apk/tachiyomi-en.kagane-v1.4.11.apk",
+    "sha": "01f0fa3491bccdc68c11c6d0fdc8e0f30b38ca12",
+    "size": 90997,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/01f0fa3491bccdc68c11c6d0fdc8e0f30b38ca12",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.kagane-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b7d14339d2c351f901f895b7cfb9ca0ec0e37cb4",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.10.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.kagane-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/01f0fa3491bccdc68c11c6d0fdc8e0f30b38ca12",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.kagane-v1.4.11.apk"
     }
   },
   {
@@ -10384,19 +10384,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.leercapitulo-v1.4.12.apk",
-    "path": "apk/tachiyomi-es.leercapitulo-v1.4.12.apk",
-    "sha": "c7d936e295a450a802a06e832c82c91c792a2077",
-    "size": 214160,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.leercapitulo-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.leercapitulo-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c7d936e295a450a802a06e832c82c91c792a2077",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.leercapitulo-v1.4.12.apk",
+    "name": "tachiyomi-es.leercapitulo-v1.4.13.apk",
+    "path": "apk/tachiyomi-es.leercapitulo-v1.4.13.apk",
+    "sha": "ecbffa58ac0c2392539d213886529f8e6fa7a0f4",
+    "size": 214320,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.leercapitulo-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.leercapitulo-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ecbffa58ac0c2392539d213886529f8e6fa7a0f4",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.leercapitulo-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.leercapitulo-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c7d936e295a450a802a06e832c82c91c792a2077",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.leercapitulo-v1.4.12.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.leercapitulo-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ecbffa58ac0c2392539d213886529f8e6fa7a0f4",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.leercapitulo-v1.4.13.apk"
     }
   },
   {
