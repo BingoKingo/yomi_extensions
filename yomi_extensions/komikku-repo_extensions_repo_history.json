@@ -592,19 +592,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.hentaifox-v1.4.13.apk",
-    "path": "apk/tachiyomi-all.hentaifox-v1.4.13.apk",
-    "sha": "603747b4f1b4e41bf99cf7004b8bf0bfcb58ea67",
-    "size": 93788,
-    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-all.hentaifox-v1.4.13.apk?ref=repo",
-    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-all.hentaifox-v1.4.13.apk",
-    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/603747b4f1b4e41bf99cf7004b8bf0bfcb58ea67",
-    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-all.hentaifox-v1.4.13.apk",
+    "name": "tachiyomi-all.hentaifox-v1.4.14.apk",
+    "path": "apk/tachiyomi-all.hentaifox-v1.4.14.apk",
+    "sha": "f9b0ad8cb6296daadb119ac28d29c86890fc86b2",
+    "size": 93804,
+    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-all.hentaifox-v1.4.14.apk?ref=repo",
+    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-all.hentaifox-v1.4.14.apk",
+    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/f9b0ad8cb6296daadb119ac28d29c86890fc86b2",
+    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-all.hentaifox-v1.4.14.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-all.hentaifox-v1.4.13.apk?ref=repo",
-      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/603747b4f1b4e41bf99cf7004b8bf0bfcb58ea67",
-      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-all.hentaifox-v1.4.13.apk"
+      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-all.hentaifox-v1.4.14.apk?ref=repo",
+      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/f9b0ad8cb6296daadb119ac28d29c86890fc86b2",
+      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-all.hentaifox-v1.4.14.apk"
     }
   },
   {
