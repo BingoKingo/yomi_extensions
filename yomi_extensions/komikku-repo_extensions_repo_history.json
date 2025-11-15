@@ -12384,19 +12384,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.hwago-v1.4.47.apk",
-    "path": "apk/tachiyomi-id.hwago-v1.4.47.apk",
-    "sha": "dfa1cfae040053c355152d754095fbbf8061fb9e",
-    "size": 136088,
-    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-id.hwago-v1.4.47.apk?ref=repo",
-    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-id.hwago-v1.4.47.apk",
-    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/dfa1cfae040053c355152d754095fbbf8061fb9e",
-    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-id.hwago-v1.4.47.apk",
+    "name": "tachiyomi-id.hwago-v1.4.48.apk",
+    "path": "apk/tachiyomi-id.hwago-v1.4.48.apk",
+    "sha": "766ce1b3a9a7850a89b35f701e5a99181af0421e",
+    "size": 136082,
+    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-id.hwago-v1.4.48.apk?ref=repo",
+    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-id.hwago-v1.4.48.apk",
+    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/766ce1b3a9a7850a89b35f701e5a99181af0421e",
+    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-id.hwago-v1.4.48.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-id.hwago-v1.4.47.apk?ref=repo",
-      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/dfa1cfae040053c355152d754095fbbf8061fb9e",
-      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-id.hwago-v1.4.47.apk"
+      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-id.hwago-v1.4.48.apk?ref=repo",
+      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/766ce1b3a9a7850a89b35f701e5a99181af0421e",
+      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-id.hwago-v1.4.48.apk"
     }
   },
   {
@@ -12448,19 +12448,19 @@
     }
   },
   {
-    "name": "tachiyomi-id.kiryuu-v1.4.43.apk",
-    "path": "apk/tachiyomi-id.kiryuu-v1.4.43.apk",
-    "sha": "dde4b7b9e816ce2af587e91ba36510e457bbd414",
-    "size": 83043,
-    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-id.kiryuu-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-id.kiryuu-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/dde4b7b9e816ce2af587e91ba36510e457bbd414",
-    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-id.kiryuu-v1.4.43.apk",
+    "name": "tachiyomi-id.kiryuu-v1.4.44.apk",
+    "path": "apk/tachiyomi-id.kiryuu-v1.4.44.apk",
+    "sha": "86ce9f1c6d51bbbee21f94a92c5f714c31e5bace",
+    "size": 83041,
+    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-id.kiryuu-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-id.kiryuu-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/86ce9f1c6d51bbbee21f94a92c5f714c31e5bace",
+    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-id.kiryuu-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-id.kiryuu-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/dde4b7b9e816ce2af587e91ba36510e457bbd414",
-      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-id.kiryuu-v1.4.43.apk"
+      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-id.kiryuu-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/86ce9f1c6d51bbbee21f94a92c5f714c31e5bace",
+      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-id.kiryuu-v1.4.44.apk"
     }
   },
   {
