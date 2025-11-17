@@ -1,18 +1,18 @@
 [
   {
-    "name": "tachiyomi-all.tachidesk-v1.4.24.apk",
-    "path": "apk/tachiyomi-all.tachidesk-v1.4.24.apk",
-    "sha": "9af0ffdcbcd529fac55dae0db8a95d72b86d8dba",
-    "size": 303820,
-    "url": "https://api.github.com/repos/Suwayomi/tachiyomi-extension/contents/apk/tachiyomi-all.tachidesk-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/Suwayomi/tachiyomi-extension/blob/repo/apk/tachiyomi-all.tachidesk-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/Suwayomi/tachiyomi-extension/git/blobs/9af0ffdcbcd529fac55dae0db8a95d72b86d8dba",
-    "download_url": "https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/apk/tachiyomi-all.tachidesk-v1.4.24.apk",
+    "name": "tachiyomi-all.tachidesk-v1.4.25.apk",
+    "path": "apk/tachiyomi-all.tachidesk-v1.4.25.apk",
+    "sha": "221f32055546df02f2aec9077f8bdb8ed755b5f5",
+    "size": 310961,
+    "url": "https://api.github.com/repos/Suwayomi/tachiyomi-extension/contents/apk/tachiyomi-all.tachidesk-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/Suwayomi/tachiyomi-extension/blob/repo/apk/tachiyomi-all.tachidesk-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/Suwayomi/tachiyomi-extension/git/blobs/221f32055546df02f2aec9077f8bdb8ed755b5f5",
+    "download_url": "https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/apk/tachiyomi-all.tachidesk-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Suwayomi/tachiyomi-extension/contents/apk/tachiyomi-all.tachidesk-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/Suwayomi/tachiyomi-extension/git/blobs/9af0ffdcbcd529fac55dae0db8a95d72b86d8dba",
-      "html": "https://github.com/Suwayomi/tachiyomi-extension/blob/repo/apk/tachiyomi-all.tachidesk-v1.4.24.apk"
+      "self": "https://api.github.com/repos/Suwayomi/tachiyomi-extension/contents/apk/tachiyomi-all.tachidesk-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/Suwayomi/tachiyomi-extension/git/blobs/221f32055546df02f2aec9077f8bdb8ed755b5f5",
+      "html": "https://github.com/Suwayomi/tachiyomi-extension/blob/repo/apk/tachiyomi-all.tachidesk-v1.4.25.apk"
     }
   }
 ]
