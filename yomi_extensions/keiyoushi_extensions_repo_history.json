@@ -15696,6 +15696,22 @@
     }
   },
   {
+    "name": "tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "path": "apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "sha": "b79740851f925197ca7fb73f9accd259fe5fb96d",
+    "size": 80725,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b79740851f925197ca7fb73f9accd259fe5fb96d",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b79740851f925197ca7fb73f9accd259fe5fb96d",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk"
+    }
+  },
+  {
     "name": "tachiyomi-pt.mangamania-v1.4.45.apk",
     "path": "apk/tachiyomi-pt.mangamania-v1.4.45.apk",
     "sha": "77b8dbcaa2d5d9fbd5cb0151f01540f987bf70fe",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.ninjascan-v1.4.47.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/84f3bbaf4e7648abfce9f532509b68c2add919e5",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.ninjascan-v1.4.47.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.nocturnesummer-v1.4.46.apk",
-    "path": "apk/tachiyomi-pt.nocturnesummer-v1.4.46.apk",
-    "sha": "e0426fb202e95ba38e306976cb46942583a5a8c3",
-    "size": 105596,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.nocturnesummer-v1.4.46.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.nocturnesummer-v1.4.46.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e0426fb202e95ba38e306976cb46942583a5a8c3",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.nocturnesummer-v1.4.46.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.nocturnesummer-v1.4.46.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/e0426fb202e95ba38e306976cb46942583a5a8c3",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.nocturnesummer-v1.4.46.apk"
     }
   }
 ]
