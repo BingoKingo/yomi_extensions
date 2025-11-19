@@ -15760,6 +15760,22 @@
     }
   },
   {
+    "name": "tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "path": "apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "sha": "6454f290bac7419c41050c56f46925a83d0c92c8",
+    "size": 80701,
+    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk?ref=repo",
+    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/6454f290bac7419c41050c56f46925a83d0c92c8",
+    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk?ref=repo",
+      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/6454f290bac7419c41050c56f46925a83d0c92c8",
+      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mangalivreto-v1.4.46.apk"
+    }
+  },
+  {
     "name": "tachiyomi-pt.mangamania-v1.4.45.apk",
     "path": "apk/tachiyomi-pt.mangamania-v1.4.45.apk",
     "sha": "707c7cac9935296181a9175220dec653b3ca8d26",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mundohentai-v1.4.8.apk?ref=repo",
       "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/c89edab8fdaaceef05c27aa9ce85381fee4ece95",
       "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mundohentai-v1.4.8.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.mysticmoon-v1.4.46.apk",
-    "path": "apk/tachiyomi-pt.mysticmoon-v1.4.46.apk",
-    "sha": "9601f6b4c2691ca09393714cae54e4625fec3f56",
-    "size": 98825,
-    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mysticmoon-v1.4.46.apk?ref=repo",
-    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mysticmoon-v1.4.46.apk",
-    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/9601f6b4c2691ca09393714cae54e4625fec3f56",
-    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-pt.mysticmoon-v1.4.46.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mysticmoon-v1.4.46.apk?ref=repo",
-      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/9601f6b4c2691ca09393714cae54e4625fec3f56",
-      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mysticmoon-v1.4.46.apk"
     }
   }
 ]
