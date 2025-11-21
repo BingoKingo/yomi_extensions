@@ -3168,19 +3168,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.bookwalker-v1.4.1.apk",
-    "path": "apk/tachiyomi-en.bookwalker-v1.4.1.apk",
-    "sha": "16a851cf758b90e126ccecb4e3b969ede776936c",
-    "size": 93845,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.bookwalker-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.bookwalker-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/16a851cf758b90e126ccecb4e3b969ede776936c",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.bookwalker-v1.4.1.apk",
+    "name": "tachiyomi-en.bookwalker-v1.4.2.apk",
+    "path": "apk/tachiyomi-en.bookwalker-v1.4.2.apk",
+    "sha": "d994ceb6c34d7e2152ab685a4ee815d8b66ec9f7",
+    "size": 96868,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.bookwalker-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.bookwalker-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d994ceb6c34d7e2152ab685a4ee815d8b66ec9f7",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.bookwalker-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.bookwalker-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/16a851cf758b90e126ccecb4e3b969ede776936c",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.bookwalker-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.bookwalker-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d994ceb6c34d7e2152ab685a4ee815d8b66ec9f7",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.bookwalker-v1.4.2.apk"
     }
   },
   {
