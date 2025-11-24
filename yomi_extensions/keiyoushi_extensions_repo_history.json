@@ -5536,19 +5536,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangafreak-v1.4.11.apk",
-    "path": "apk/tachiyomi-en.mangafreak-v1.4.11.apk",
-    "sha": "21036848ed743b4dc9432522939938d62d90bda8",
-    "size": 58320,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangafreak-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangafreak-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/21036848ed743b4dc9432522939938d62d90bda8",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangafreak-v1.4.11.apk",
+    "name": "tachiyomi-en.mangafreak-v1.4.12.apk",
+    "path": "apk/tachiyomi-en.mangafreak-v1.4.12.apk",
+    "sha": "5d4a0906e05cf19509d596ae9ae6e0c9dc7bd50f",
+    "size": 58527,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangafreak-v1.4.12.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangafreak-v1.4.12.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5d4a0906e05cf19509d596ae9ae6e0c9dc7bd50f",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangafreak-v1.4.12.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangafreak-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/21036848ed743b4dc9432522939938d62d90bda8",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangafreak-v1.4.11.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangafreak-v1.4.12.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5d4a0906e05cf19509d596ae9ae6e0c9dc7bd50f",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangafreak-v1.4.12.apk"
     }
   },
   {
@@ -8608,19 +8608,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.spyfakku-v1.4.12.apk",
-    "path": "apk/tachiyomi-en.spyfakku-v1.4.12.apk",
-    "sha": "971413f7ed13753df7addbbed581195e2ec3b7d4",
+    "name": "tachiyomi-en.spyfakku-v1.4.13.apk",
+    "path": "apk/tachiyomi-en.spyfakku-v1.4.13.apk",
+    "sha": "5990a348e32169fe41a89f994beea6deef975ac4",
     "size": 67848,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/971413f7ed13753df7addbbed581195e2ec3b7d4",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.spyfakku-v1.4.12.apk",
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5990a348e32169fe41a89f994beea6deef975ac4",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.spyfakku-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/971413f7ed13753df7addbbed581195e2ec3b7d4",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.12.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.spyfakku-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/5990a348e32169fe41a89f994beea6deef975ac4",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.spyfakku-v1.4.13.apk"
     }
   },
   {
@@ -15824,19 +15824,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.mangastop-v1.4.31.apk",
-    "path": "apk/tachiyomi-pt.mangastop-v1.4.31.apk",
-    "sha": "cbd208de98ee82272df4038ae73412f6166fa1a2",
-    "size": 75710,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangastop-v1.4.31.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangastop-v1.4.31.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cbd208de98ee82272df4038ae73412f6166fa1a2",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.mangastop-v1.4.31.apk",
+    "name": "tachiyomi-pt.mangastop-v1.4.32.apk",
+    "path": "apk/tachiyomi-pt.mangastop-v1.4.32.apk",
+    "sha": "b438565571108e0c87e345ea20159bd67f558f54",
+    "size": 76133,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangastop-v1.4.32.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangastop-v1.4.32.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b438565571108e0c87e345ea20159bd67f558f54",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.mangastop-v1.4.32.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangastop-v1.4.31.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/cbd208de98ee82272df4038ae73412f6166fa1a2",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangastop-v1.4.31.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mangastop-v1.4.32.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/b438565571108e0c87e345ea20159bd67f558f54",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mangastop-v1.4.32.apk"
     }
   },
   {
