@@ -3440,19 +3440,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.comix-v1.4.3.apk",
-    "path": "apk/tachiyomi-en.comix-v1.4.3.apk",
-    "sha": "437a76a09bb1425f1f4b7f9ccec4c8bf107e691c",
-    "size": 90512,
-    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.3.apk?ref=repo",
-    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/437a76a09bb1425f1f4b7f9ccec4c8bf107e691c",
-    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-en.comix-v1.4.3.apk",
+    "name": "tachiyomi-en.comix-v1.4.4.apk",
+    "path": "apk/tachiyomi-en.comix-v1.4.4.apk",
+    "sha": "dda64b6ea7acc778e78e95ac7756c2beb2694eb5",
+    "size": 90513,
+    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/dda64b6ea7acc778e78e95ac7756c2beb2694eb5",
+    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-en.comix-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/437a76a09bb1425f1f4b7f9ccec4c8bf107e691c",
-      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.3.apk"
+      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/dda64b6ea7acc778e78e95ac7756c2beb2694eb5",
+      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.4.apk"
     }
   },
   {
@@ -13600,6 +13600,22 @@
     }
   },
   {
+    "name": "tachiyomi-ja.alphapolis-v1.4.1.apk",
+    "path": "apk/tachiyomi-ja.alphapolis-v1.4.1.apk",
+    "sha": "2349f055f6f66f89b19720877582b5a8a884f6da",
+    "size": 74234,
+    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-ja.alphapolis-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-ja.alphapolis-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/2349f055f6f66f89b19720877582b5a8a884f6da",
+    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-ja.alphapolis-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-ja.alphapolis-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/2349f055f6f66f89b19720877582b5a8a884f6da",
+      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-ja.alphapolis-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-ja.bigcomics-v1.4.1.apk",
     "path": "apk/tachiyomi-ja.bigcomics-v1.4.1.apk",
     "sha": "9a647534747b35446f88453c87d128aba8a4ad9e",
@@ -15856,19 +15872,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.mangastop-v1.4.33.apk",
-    "path": "apk/tachiyomi-pt.mangastop-v1.4.33.apk",
-    "sha": "fedebe0b43db94b56075cefac2e4ff79af2f149c",
-    "size": 76135,
-    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mangastop-v1.4.33.apk?ref=repo",
-    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mangastop-v1.4.33.apk",
-    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/fedebe0b43db94b56075cefac2e4ff79af2f149c",
-    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-pt.mangastop-v1.4.33.apk",
+    "name": "tachiyomi-pt.mangastop-v1.4.34.apk",
+    "path": "apk/tachiyomi-pt.mangastop-v1.4.34.apk",
+    "sha": "a6b150d334a483dcd4f575cd7a42b6629218d112",
+    "size": 76286,
+    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mangastop-v1.4.34.apk?ref=repo",
+    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mangastop-v1.4.34.apk",
+    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/a6b150d334a483dcd4f575cd7a42b6629218d112",
+    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-pt.mangastop-v1.4.34.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mangastop-v1.4.33.apk?ref=repo",
-      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/fedebe0b43db94b56075cefac2e4ff79af2f149c",
-      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mangastop-v1.4.33.apk"
+      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mangastop-v1.4.34.apk?ref=repo",
+      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/a6b150d334a483dcd4f575cd7a42b6629218d112",
+      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mangastop-v1.4.34.apk"
     }
   },
   {
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.montetai-v1.4.45.apk?ref=repo",
       "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/1a834c81e18f14d87faa6a70170626ff41d695ad",
       "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.montetai-v1.4.45.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.mryaoi-v1.4.45.apk",
-    "path": "apk/tachiyomi-pt.mryaoi-v1.4.45.apk",
-    "sha": "fd13ed12ea3bd799a1c95bcc49d49fe16aacc509",
-    "size": 84000,
-    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mryaoi-v1.4.45.apk?ref=repo",
-    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mryaoi-v1.4.45.apk",
-    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/fd13ed12ea3bd799a1c95bcc49d49fe16aacc509",
-    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-pt.mryaoi-v1.4.45.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-pt.mryaoi-v1.4.45.apk?ref=repo",
-      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/fd13ed12ea3bd799a1c95bcc49d49fe16aacc509",
-      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-pt.mryaoi-v1.4.45.apk"
     }
   }
 ]
