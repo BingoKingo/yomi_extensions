@@ -9088,22 +9088,6 @@
     }
   },
   {
-    "name": "tachiyomi-en.tsumino-v1.4.8.apk",
-    "path": "apk/tachiyomi-en.tsumino-v1.4.8.apk",
-    "sha": "3bd7814484f141c2db6d7a8b7b54482b5e873e11",
-    "size": 51583,
-    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-en.tsumino-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-en.tsumino-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/3bd7814484f141c2db6d7a8b7b54482b5e873e11",
-    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-en.tsumino-v1.4.8.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-en.tsumino-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/3bd7814484f141c2db6d7a8b7b54482b5e873e11",
-      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-en.tsumino-v1.4.8.apk"
-    }
-  },
-  {
     "name": "tachiyomi-en.utoon-v1.4.48.apk",
     "path": "apk/tachiyomi-en.utoon-v1.4.48.apk",
     "sha": "de9ed2f7e40b6833c6e891a37e53f5261fe06221",
@@ -14669,6 +14653,22 @@
       "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-ja.yanmaga-v1.4.3.apk?ref=repo",
       "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/1c79fcae262c8bd4361d8c6c1972627d58a7f0cc",
       "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-ja.yanmaga-v1.4.3.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-ja.yomonga-v1.4.1.apk",
+    "path": "apk/tachiyomi-ja.yomonga-v1.4.1.apk",
+    "sha": "9e352674dc986a47a6de2e4d60df4d73a4f640f0",
+    "size": 98498,
+    "url": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-ja.yomonga-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-ja.yomonga-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/9e352674dc986a47a6de2e4d60df4d73a4f640f0",
+    "download_url": "https://raw.githubusercontent.com/kakusetsu/manga-repo/repo/apk/tachiyomi-ja.yomonga-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kakusetsu/manga-repo/contents/apk/tachiyomi-ja.yomonga-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/kakusetsu/manga-repo/git/blobs/9e352674dc986a47a6de2e4d60df4d73a4f640f0",
+      "html": "https://github.com/kakusetsu/manga-repo/blob/repo/apk/tachiyomi-ja.yomonga-v1.4.1.apk"
     }
   },
   {
