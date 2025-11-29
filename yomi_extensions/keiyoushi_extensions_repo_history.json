@@ -544,19 +544,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.hentaicosplay-v1.4.6.apk",
-    "path": "apk/tachiyomi-all.hentaicosplay-v1.4.6.apk",
-    "sha": "339d06478ec9956de2c97f4399db11e760f5c98a",
-    "size": 46919,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hentaicosplay-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/339d06478ec9956de2c97f4399db11e760f5c98a",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.hentaicosplay-v1.4.6.apk",
+    "name": "tachiyomi-all.hentaicosplay-v1.4.7.apk",
+    "path": "apk/tachiyomi-all.hentaicosplay-v1.4.7.apk",
+    "sha": "f0c7cbc3fa65edeac988d8d31f4b676527204824",
+    "size": 46903,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hentaicosplay-v1.4.7.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.7.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f0c7cbc3fa65edeac988d8d31f4b676527204824",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.hentaicosplay-v1.4.7.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hentaicosplay-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/339d06478ec9956de2c97f4399db11e760f5c98a",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.6.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.hentaicosplay-v1.4.7.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f0c7cbc3fa65edeac988d8d31f4b676527204824",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.hentaicosplay-v1.4.7.apk"
     }
   },
   {
