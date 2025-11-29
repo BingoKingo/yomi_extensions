@@ -9024,22 +9024,6 @@
     }
   },
   {
-    "name": "tachiyomi-en.tsumino-v1.4.8.apk",
-    "path": "apk/tachiyomi-en.tsumino-v1.4.8.apk",
-    "sha": "58c54f9ce9ebb05783eeb197fa2b05bbae2ef4cf",
-    "size": 51597,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.tsumino-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.tsumino-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/58c54f9ce9ebb05783eeb197fa2b05bbae2ef4cf",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.tsumino-v1.4.8.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.tsumino-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/58c54f9ce9ebb05783eeb197fa2b05bbae2ef4cf",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.tsumino-v1.4.8.apk"
-    }
-  },
-  {
     "name": "tachiyomi-en.utoon-v1.4.48.apk",
     "path": "apk/tachiyomi-en.utoon-v1.4.48.apk",
     "sha": "78797abf0e1baf955ed0066eae686b3331a75ee5",
@@ -14605,6 +14589,22 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.yanmaga-v1.4.3.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6b15bf90d3222b006bdbcad31f39faf687b75141",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.yanmaga-v1.4.3.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-ja.yomonga-v1.4.1.apk",
+    "path": "apk/tachiyomi-ja.yomonga-v1.4.1.apk",
+    "sha": "10622b2a63d87f625a08333f21ec744d58c2f31e",
+    "size": 98520,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.yomonga-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.yomonga-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/10622b2a63d87f625a08333f21ec744d58c2f31e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.yomonga-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.yomonga-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/10622b2a63d87f625a08333f21ec744d58c2f31e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.yomonga-v1.4.1.apk"
     }
   },
   {
