@@ -1344,19 +1344,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.ninemanga-v1.4.24.apk",
-    "path": "apk/tachiyomi-all.ninemanga-v1.4.24.apk",
-    "sha": "9a7712eebd03ec44c15abea099ddd59a2b86b2bd",
-    "size": 84490,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.ninemanga-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.ninemanga-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9a7712eebd03ec44c15abea099ddd59a2b86b2bd",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.ninemanga-v1.4.24.apk",
+    "name": "tachiyomi-all.ninemanga-v1.4.25.apk",
+    "path": "apk/tachiyomi-all.ninemanga-v1.4.25.apk",
+    "sha": "d2c5c257edd2c3efc9a781a55fd3d2ba3d6c768b",
+    "size": 84610,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.ninemanga-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.ninemanga-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d2c5c257edd2c3efc9a781a55fd3d2ba3d6c768b",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.ninemanga-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.ninemanga-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9a7712eebd03ec44c15abea099ddd59a2b86b2bd",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.ninemanga-v1.4.24.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.ninemanga-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/d2c5c257edd2c3efc9a781a55fd3d2ba3d6c768b",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.ninemanga-v1.4.25.apk"
     }
   },
   {
@@ -13744,6 +13744,22 @@
     }
   },
   {
+    "name": "tachiyomi-ja.comicryu-v1.4.1.apk",
+    "path": "apk/tachiyomi-ja.comicryu-v1.4.1.apk",
+    "sha": "c9f85935c98ceb6ea2edf83c8e3c502fc358d4c2",
+    "size": 44565,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.comicryu-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.comicryu-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c9f85935c98ceb6ea2edf83c8e3c502fc358d4c2",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-ja.comicryu-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-ja.comicryu-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/c9f85935c98ceb6ea2edf83c8e3c502fc358d4c2",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-ja.comicryu-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-ja.comictop-v1.4.1.apk",
     "path": "apk/tachiyomi-ja.comictop-v1.4.1.apk",
     "sha": "bb90a719fe3a64f0462d95ca58d6b953e7692b4a",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.nocturnesummer-v1.4.46.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/85caeabe8f59090d0685f332af5c3d967488374f",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.nocturnesummer-v1.4.46.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.noindexscan-v1.4.46.apk",
-    "path": "apk/tachiyomi-pt.noindexscan-v1.4.46.apk",
-    "sha": "35a3b7112f39bf5248e428656c680d34ea052ef7",
-    "size": 66447,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.noindexscan-v1.4.46.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.noindexscan-v1.4.46.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/35a3b7112f39bf5248e428656c680d34ea052ef7",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.noindexscan-v1.4.46.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.noindexscan-v1.4.46.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/35a3b7112f39bf5248e428656c680d34ea052ef7",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.noindexscan-v1.4.46.apk"
     }
   }
 ]
