@@ -1408,19 +1408,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.ninemanga-v1.4.24.apk",
-    "path": "apk/tachiyomi-all.ninemanga-v1.4.24.apk",
-    "sha": "14460297202b70a1d1a374cb511464234829b9bd",
-    "size": 84492,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.ninemanga-v1.4.24.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.ninemanga-v1.4.24.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/14460297202b70a1d1a374cb511464234829b9bd",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.ninemanga-v1.4.24.apk",
+    "name": "tachiyomi-all.ninemanga-v1.4.25.apk",
+    "path": "apk/tachiyomi-all.ninemanga-v1.4.25.apk",
+    "sha": "84063426c8417171c80e55569c94020e970cc0f4",
+    "size": 84638,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.ninemanga-v1.4.25.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.ninemanga-v1.4.25.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/84063426c8417171c80e55569c94020e970cc0f4",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.ninemanga-v1.4.25.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.ninemanga-v1.4.24.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/14460297202b70a1d1a374cb511464234829b9bd",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.ninemanga-v1.4.24.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.ninemanga-v1.4.25.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/84063426c8417171c80e55569c94020e970cc0f4",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.ninemanga-v1.4.25.apk"
     }
   },
   {
@@ -13808,6 +13808,22 @@
     }
   },
   {
+    "name": "tachiyomi-ja.comicryu-v1.4.1.apk",
+    "path": "apk/tachiyomi-ja.comicryu-v1.4.1.apk",
+    "sha": "c5454148f0e7104a1c07a35dc46765c22f53f72f",
+    "size": 44548,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-ja.comicryu-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-ja.comicryu-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/c5454148f0e7104a1c07a35dc46765c22f53f72f",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-ja.comicryu-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-ja.comicryu-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/c5454148f0e7104a1c07a35dc46765c22f53f72f",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-ja.comicryu-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-ja.comictop-v1.4.1.apk",
     "path": "apk/tachiyomi-ja.comictop-v1.4.1.apk",
     "sha": "acdf0220e8cc59ca2e7fbee7f0981b39a442a079",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.muitohentai-v1.4.2.apk?ref=repo",
       "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/45901b6482a442a6ebc4b4de3280e9bfeb01e801",
       "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.muitohentai-v1.4.2.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.mundohentai-v1.4.8.apk",
-    "path": "apk/tachiyomi-pt.mundohentai-v1.4.8.apk",
-    "sha": "10800cb19a5ac2c821681e5c1f6cfc5d8f239d56",
-    "size": 34433,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.mundohentai-v1.4.8.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.mundohentai-v1.4.8.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/10800cb19a5ac2c821681e5c1f6cfc5d8f239d56",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-pt.mundohentai-v1.4.8.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.mundohentai-v1.4.8.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/10800cb19a5ac2c821681e5c1f6cfc5d8f239d56",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.mundohentai-v1.4.8.apk"
     }
   }
 ]
