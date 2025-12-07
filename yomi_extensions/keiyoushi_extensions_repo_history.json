@@ -11984,19 +11984,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.raijinscans-v1.4.50.apk",
-    "path": "apk/tachiyomi-fr.raijinscans-v1.4.50.apk",
-    "sha": "835cd14427f381005fd19c4f2393df97777b70de",
-    "size": 47399,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.raijinscans-v1.4.50.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.raijinscans-v1.4.50.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/835cd14427f381005fd19c4f2393df97777b70de",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.raijinscans-v1.4.50.apk",
+    "name": "tachiyomi-fr.raijinscans-v1.4.51.apk",
+    "path": "apk/tachiyomi-fr.raijinscans-v1.4.51.apk",
+    "sha": "57632ecd13fa2e1ac99eee48a85f2e6c1a41bc83",
+    "size": 47641,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.raijinscans-v1.4.51.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.raijinscans-v1.4.51.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/57632ecd13fa2e1ac99eee48a85f2e6c1a41bc83",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.raijinscans-v1.4.51.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.raijinscans-v1.4.50.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/835cd14427f381005fd19c4f2393df97777b70de",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.raijinscans-v1.4.50.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.raijinscans-v1.4.51.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/57632ecd13fa2e1ac99eee48a85f2e6c1a41bc83",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.raijinscans-v1.4.51.apk"
     }
   },
   {
