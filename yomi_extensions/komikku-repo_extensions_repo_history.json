@@ -3264,19 +3264,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.bookwalker-v1.4.3.apk",
-    "path": "apk/tachiyomi-en.bookwalker-v1.4.3.apk",
-    "sha": "d3b626027a1f3d117f7c7f272fdddeaa1439a315",
-    "size": 97254,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.bookwalker-v1.4.3.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.bookwalker-v1.4.3.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/d3b626027a1f3d117f7c7f272fdddeaa1439a315",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.bookwalker-v1.4.3.apk",
+    "name": "tachiyomi-en.bookwalker-v1.4.4.apk",
+    "path": "apk/tachiyomi-en.bookwalker-v1.4.4.apk",
+    "sha": "51408d9eacf94eb3d68488a03f1402c8363b8003",
+    "size": 97259,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.bookwalker-v1.4.4.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.bookwalker-v1.4.4.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/51408d9eacf94eb3d68488a03f1402c8363b8003",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.bookwalker-v1.4.4.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.bookwalker-v1.4.3.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/d3b626027a1f3d117f7c7f272fdddeaa1439a315",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.bookwalker-v1.4.3.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.bookwalker-v1.4.4.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/51408d9eacf94eb3d68488a03f1402c8363b8003",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.bookwalker-v1.4.4.apk"
     }
   },
   {
@@ -3456,19 +3456,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.comix-v1.4.4.apk",
-    "path": "apk/tachiyomi-en.comix-v1.4.4.apk",
-    "sha": "ae1b52361d1c40483f2b7ca04a69bebfea29311b",
-    "size": 90725,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/ae1b52361d1c40483f2b7ca04a69bebfea29311b",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.comix-v1.4.4.apk",
+    "name": "tachiyomi-en.comix-v1.4.5.apk",
+    "path": "apk/tachiyomi-en.comix-v1.4.5.apk",
+    "sha": "c76fd4aafd31b3314ff683f7600b543b53c476b0",
+    "size": 90870,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.5.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.5.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/c76fd4aafd31b3314ff683f7600b543b53c476b0",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.comix-v1.4.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/ae1b52361d1c40483f2b7ca04a69bebfea29311b",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.4.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.comix-v1.4.5.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/c76fd4aafd31b3314ff683f7600b543b53c476b0",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.comix-v1.4.5.apk"
     }
   },
   {
@@ -11456,19 +11456,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.animesama-v1.4.10.apk",
-    "path": "apk/tachiyomi-fr.animesama-v1.4.10.apk",
-    "sha": "ea93ce18fa885cf0250bcf0ed7e9dbc59c962d77",
-    "size": 65847,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.animesama-v1.4.10.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.animesama-v1.4.10.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/ea93ce18fa885cf0250bcf0ed7e9dbc59c962d77",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-fr.animesama-v1.4.10.apk",
+    "name": "tachiyomi-fr.animesama-v1.4.11.apk",
+    "path": "apk/tachiyomi-fr.animesama-v1.4.11.apk",
+    "sha": "3f7bd6c15deaef4c667ad3c86a5302a033006364",
+    "size": 65883,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.animesama-v1.4.11.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.animesama-v1.4.11.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/3f7bd6c15deaef4c667ad3c86a5302a033006364",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-fr.animesama-v1.4.11.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.animesama-v1.4.10.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/ea93ce18fa885cf0250bcf0ed7e9dbc59c962d77",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.animesama-v1.4.10.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.animesama-v1.4.11.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/3f7bd6c15deaef4c667ad3c86a5302a033006364",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.animesama-v1.4.11.apk"
     }
   },
   {
@@ -12144,19 +12144,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.scanr-v1.4.1.apk",
-    "path": "apk/tachiyomi-fr.scanr-v1.4.1.apk",
-    "sha": "8ab9bf65c8134baee83baa06302ecc9ac9d5f7e6",
-    "size": 54430,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.scanr-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.scanr-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/8ab9bf65c8134baee83baa06302ecc9ac9d5f7e6",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-fr.scanr-v1.4.1.apk",
+    "name": "tachiyomi-fr.scanr-v1.4.2.apk",
+    "path": "apk/tachiyomi-fr.scanr-v1.4.2.apk",
+    "sha": "010b852bec2b0187fa5164ddd43dc7227e626439",
+    "size": 56484,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.scanr-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.scanr-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/010b852bec2b0187fa5164ddd43dc7227e626439",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-fr.scanr-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.scanr-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/8ab9bf65c8134baee83baa06302ecc9ac9d5f7e6",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.scanr-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.scanr-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/010b852bec2b0187fa5164ddd43dc7227e626439",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.scanr-v1.4.2.apk"
     }
   },
   {
