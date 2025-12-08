@@ -4784,19 +4784,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.kagane-v1.4.13.apk",
-    "path": "apk/tachiyomi-en.kagane-v1.4.13.apk",
-    "sha": "b3bb1ef6ac81a5cd877db5e9e5e3fb0bd391bc02",
-    "size": 96660,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.13.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.13.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/b3bb1ef6ac81a5cd877db5e9e5e3fb0bd391bc02",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.kagane-v1.4.13.apk",
+    "name": "tachiyomi-en.kagane-v1.4.14.apk",
+    "path": "apk/tachiyomi-en.kagane-v1.4.14.apk",
+    "sha": "20881062b6a450e610f827d236220225efd6efa2",
+    "size": 96727,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.14.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.14.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/20881062b6a450e610f827d236220225efd6efa2",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.kagane-v1.4.14.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.13.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/b3bb1ef6ac81a5cd877db5e9e5e3fb0bd391bc02",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.13.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.kagane-v1.4.14.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/20881062b6a450e610f827d236220225efd6efa2",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.kagane-v1.4.14.apk"
     }
   },
   {
