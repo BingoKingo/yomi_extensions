@@ -15824,19 +15824,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.mangalivre-v1.4.50.apk",
-    "path": "apk/tachiyomi-pt.mangalivre-v1.4.50.apk",
-    "sha": "07a5bbcdbc95bfe5153bb9d64f4ba025c8d30c5b",
-    "size": 80017,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.mangalivre-v1.4.50.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.mangalivre-v1.4.50.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/07a5bbcdbc95bfe5153bb9d64f4ba025c8d30c5b",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-pt.mangalivre-v1.4.50.apk",
+    "name": "tachiyomi-pt.mangalivre-v1.4.51.apk",
+    "path": "apk/tachiyomi-pt.mangalivre-v1.4.51.apk",
+    "sha": "7ec696347bcc6982cd219ac8070971429fd55ac8",
+    "size": 80888,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.mangalivre-v1.4.51.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.mangalivre-v1.4.51.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/7ec696347bcc6982cd219ac8070971429fd55ac8",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-pt.mangalivre-v1.4.51.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.mangalivre-v1.4.50.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/07a5bbcdbc95bfe5153bb9d64f4ba025c8d30c5b",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.mangalivre-v1.4.50.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.mangalivre-v1.4.51.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/7ec696347bcc6982cd219ac8070971429fd55ac8",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.mangalivre-v1.4.51.apk"
     }
   },
   {
