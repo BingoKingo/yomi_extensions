@@ -6176,22 +6176,6 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangataro-v1.4.6.apk",
-    "path": "apk/tachiyomi-en.mangataro-v1.4.6.apk",
-    "sha": "4919156c9fdc5e1790e888a1b02e15bfaca4332e",
-    "size": 102056,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangataro-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangataro-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4919156c9fdc5e1790e888a1b02e15bfaca4332e",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mangataro-v1.4.6.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mangataro-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/4919156c9fdc5e1790e888a1b02e15bfaca4332e",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mangataro-v1.4.6.apk"
-    }
-  },
-  {
     "name": "tachiyomi-en.mangatellers-v1.4.4.apk",
     "path": "apk/tachiyomi-en.mangatellers-v1.4.4.apk",
     "sha": "5c9c1da23eaca26aa0f8312671edf6fe1329dcc2",
@@ -6909,22 +6893,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.manytoonme-v1.4.50.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ba9293946bd97158968942b5d6188219babb5af2",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.manytoonme-v1.4.50.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-en.mayotune-v1.4.2.apk",
-    "path": "apk/tachiyomi-en.mayotune-v1.4.2.apk",
-    "sha": "f372eed1b54049fce3c0df40843ec321d63e3052",
-    "size": 56599,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mayotune-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mayotune-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f372eed1b54049fce3c0df40843ec321d63e3052",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.mayotune-v1.4.2.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.mayotune-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f372eed1b54049fce3c0df40843ec321d63e3052",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.mayotune-v1.4.2.apk"
     }
   },
   {
@@ -15997,6 +15965,38 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.muitohentai-v1.4.2.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/13d22a4e4c2775d9e1a0469f8f3718effa74c650",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.muitohentai-v1.4.2.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-pt.mundohentai-v1.4.8.apk",
+    "path": "apk/tachiyomi-pt.mundohentai-v1.4.8.apk",
+    "sha": "66fd7fadf0e647538f9e87f55e7c03780136a853",
+    "size": 34474,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mundohentai-v1.4.8.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mundohentai-v1.4.8.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/66fd7fadf0e647538f9e87f55e7c03780136a853",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.mundohentai-v1.4.8.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mundohentai-v1.4.8.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/66fd7fadf0e647538f9e87f55e7c03780136a853",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mundohentai-v1.4.8.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-pt.nekotoons-v1.4.1.apk",
+    "path": "apk/tachiyomi-pt.nekotoons-v1.4.1.apk",
+    "sha": "55365201ae210a37cf721e43620a72017b02c07f",
+    "size": 51641,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.nekotoons-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.nekotoons-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/55365201ae210a37cf721e43620a72017b02c07f",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.nekotoons-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.nekotoons-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/55365201ae210a37cf721e43620a72017b02c07f",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.nekotoons-v1.4.1.apk"
     }
   }
 ]
