@@ -1072,19 +1072,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.mangaup-v1.4.5.apk",
-    "path": "apk/tachiyomi-all.mangaup-v1.4.5.apk",
-    "sha": "3ca9610a5323e33c05cd4a51e06bf2a66a21fc14",
-    "size": 69185,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangaup-v1.4.5.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangaup-v1.4.5.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3ca9610a5323e33c05cd4a51e06bf2a66a21fc14",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.mangaup-v1.4.5.apk",
+    "name": "tachiyomi-all.mangaup-v1.4.6.apk",
+    "path": "apk/tachiyomi-all.mangaup-v1.4.6.apk",
+    "sha": "3c3918618d0843e52bf5723f49342e628f09bd9c",
+    "size": 73403,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangaup-v1.4.6.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangaup-v1.4.6.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3c3918618d0843e52bf5723f49342e628f09bd9c",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.mangaup-v1.4.6.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangaup-v1.4.5.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3ca9610a5323e33c05cd4a51e06bf2a66a21fc14",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangaup-v1.4.5.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.mangaup-v1.4.6.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3c3918618d0843e52bf5723f49342e628f09bd9c",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.mangaup-v1.4.6.apk"
     }
   },
   {
@@ -9904,6 +9904,22 @@
     }
   },
   {
+    "name": "tachiyomi-es.colorcitoscan-v1.4.1.apk",
+    "path": "apk/tachiyomi-es.colorcitoscan-v1.4.1.apk",
+    "sha": "2c9f3a41b1452391eefc1715f786001bde754a57",
+    "size": 82683,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.colorcitoscan-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.colorcitoscan-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2c9f3a41b1452391eefc1715f786001bde754a57",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.colorcitoscan-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.colorcitoscan-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/2c9f3a41b1452391eefc1715f786001bde754a57",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.colorcitoscan-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-es.daprob-v1.4.45.apk",
     "path": "apk/tachiyomi-es.daprob-v1.4.45.apk",
     "sha": "930cfbe2db5a9e846f6bf45df6135017a51c920f",
@@ -11074,16 +11090,16 @@
   {
     "name": "tachiyomi-es.spicyscan-v1.4.1.apk",
     "path": "apk/tachiyomi-es.spicyscan-v1.4.1.apk",
-    "sha": "08ca3791dd3935045c70da42d283636fad2de0f3",
-    "size": 85573,
+    "sha": "ca3ca7cab6e8f6b4c2d16f308e64f0da30d8b827",
+    "size": 85717,
     "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.spicyscan-v1.4.1.apk?ref=repo",
     "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.spicyscan-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/08ca3791dd3935045c70da42d283636fad2de0f3",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ca3ca7cab6e8f6b4c2d16f308e64f0da30d8b827",
     "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.spicyscan-v1.4.1.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-es.spicyscan-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/08ca3791dd3935045c70da42d283636fad2de0f3",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/ca3ca7cab6e8f6b4c2d16f308e64f0da30d8b827",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-es.spicyscan-v1.4.1.apk"
     }
   },
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mugiwarasoficial-v1.4.45.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f3c220f61e31c5b9227cb67e7dbeaed4cdaf9d2d",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mugiwarasoficial-v1.4.45.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.muitohentai-v1.4.2.apk",
-    "path": "apk/tachiyomi-pt.muitohentai-v1.4.2.apk",
-    "sha": "13d22a4e4c2775d9e1a0469f8f3718effa74c650",
-    "size": 37962,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.muitohentai-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.muitohentai-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/13d22a4e4c2775d9e1a0469f8f3718effa74c650",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.muitohentai-v1.4.2.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.muitohentai-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/13d22a4e4c2775d9e1a0469f8f3718effa74c650",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.muitohentai-v1.4.2.apk"
     }
   }
 ]
