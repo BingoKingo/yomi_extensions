@@ -15664,6 +15664,22 @@
     }
   },
   {
+    "name": "tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "path": "apk/tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "sha": "d0711b9bcf4caabf5a21b44a1cf8292dfd5c0e39",
+    "size": 98397,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.kairostoons-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/d0711b9bcf4caabf5a21b44a1cf8292dfd5c0e39",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.kairostoons-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/d0711b9bcf4caabf5a21b44a1cf8292dfd5c0e39",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.kairostoons-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-pt.kakuseiproject-v1.4.46.apk",
     "path": "apk/tachiyomi-pt.kakuseiproject-v1.4.46.apk",
     "sha": "993b09e7f7be53a7c987d0e3244b4507a172decf",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.manhastro-v1.4.55.apk?ref=repo",
       "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/fbaf86ac1c0265875bbf9e4e0f82d1b112d2eb61",
       "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.manhastro-v1.4.55.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.mediocretoons-v1.4.9.apk",
-    "path": "apk/tachiyomi-pt.mediocretoons-v1.4.9.apk",
-    "sha": "637ce44d38f680a9f329267752232dfd9276c738",
-    "size": 84939,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.mediocretoons-v1.4.9.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.mediocretoons-v1.4.9.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/637ce44d38f680a9f329267752232dfd9276c738",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-pt.mediocretoons-v1.4.9.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.mediocretoons-v1.4.9.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/637ce44d38f680a9f329267752232dfd9276c738",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.mediocretoons-v1.4.9.apk"
     }
   }
 ]
