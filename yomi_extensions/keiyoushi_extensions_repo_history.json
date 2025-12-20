@@ -15568,6 +15568,22 @@
     }
   },
   {
+    "name": "tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "path": "apk/tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "sha": "9314359a060c94c89fbf6cc239ec839c46fd1716",
+    "size": 98417,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.kairostoons-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9314359a060c94c89fbf6cc239ec839c46fd1716",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.kairostoons-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.kairostoons-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/9314359a060c94c89fbf6cc239ec839c46fd1716",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.kairostoons-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-pt.kakuseiproject-v1.4.46.apk",
     "path": "apk/tachiyomi-pt.kakuseiproject-v1.4.46.apk",
     "sha": "1d1f10460f79a4d880ac92daf12599d5c7499b0b",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mryaoi-v1.4.45.apk?ref=repo",
       "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/158346389fc1828597474db68fdd740252526722",
       "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mryaoi-v1.4.45.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.mugiwarasoficial-v1.4.45.apk",
-    "path": "apk/tachiyomi-pt.mugiwarasoficial-v1.4.45.apk",
-    "sha": "f3c220f61e31c5b9227cb67e7dbeaed4cdaf9d2d",
-    "size": 122406,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mugiwarasoficial-v1.4.45.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mugiwarasoficial-v1.4.45.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f3c220f61e31c5b9227cb67e7dbeaed4cdaf9d2d",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.mugiwarasoficial-v1.4.45.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.mugiwarasoficial-v1.4.45.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/f3c220f61e31c5b9227cb67e7dbeaed4cdaf9d2d",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.mugiwarasoficial-v1.4.45.apk"
     }
   }
 ]
