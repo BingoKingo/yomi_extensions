@@ -1120,19 +1120,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.manhuarm-v1.4.53.apk",
-    "path": "apk/tachiyomi-all.manhuarm-v1.4.53.apk",
-    "sha": "eb0ab37635cec8e8458af20758aea3036f7d23aa",
-    "size": 224592,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.manhuarm-v1.4.53.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.53.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/eb0ab37635cec8e8458af20758aea3036f7d23aa",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.manhuarm-v1.4.53.apk",
+    "name": "tachiyomi-all.manhuarm-v1.4.54.apk",
+    "path": "apk/tachiyomi-all.manhuarm-v1.4.54.apk",
+    "sha": "0ec9d220ff4d70132a31deeac720ce994a2d42d9",
+    "size": 245660,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.manhuarm-v1.4.54.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.54.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0ec9d220ff4d70132a31deeac720ce994a2d42d9",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.manhuarm-v1.4.54.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.manhuarm-v1.4.53.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/eb0ab37635cec8e8458af20758aea3036f7d23aa",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.53.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-all.manhuarm-v1.4.54.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/0ec9d220ff4d70132a31deeac720ce994a2d42d9",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.54.apk"
     }
   },
   {
@@ -8352,19 +8352,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.roliascan-v1.4.4.apk",
-    "path": "apk/tachiyomi-en.roliascan-v1.4.4.apk",
-    "sha": "3a52fcca883dd7aaa0561960e79cd1c88219cb13",
-    "size": 65065,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.roliascan-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.roliascan-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3a52fcca883dd7aaa0561960e79cd1c88219cb13",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.roliascan-v1.4.4.apk",
+    "name": "tachiyomi-en.roliascan-v1.4.5.apk",
+    "path": "apk/tachiyomi-en.roliascan-v1.4.5.apk",
+    "sha": "24fa18a928d17a0b0380eff9fb881b84cc19da3c",
+    "size": 68770,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.roliascan-v1.4.5.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.roliascan-v1.4.5.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/24fa18a928d17a0b0380eff9fb881b84cc19da3c",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.roliascan-v1.4.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.roliascan-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/3a52fcca883dd7aaa0561960e79cd1c88219cb13",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.roliascan-v1.4.4.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.roliascan-v1.4.5.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/24fa18a928d17a0b0380eff9fb881b84cc19da3c",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.roliascan-v1.4.5.apk"
     }
   },
   {
