@@ -15088,19 +15088,19 @@
     }
   },
   {
-    "name": "tachiyomi-pt.apecomics-v1.4.43.apk",
-    "path": "apk/tachiyomi-pt.apecomics-v1.4.43.apk",
-    "sha": "98369578739249e17ae7b95a9cdd6ea39baecadf",
-    "size": 139676,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.apecomics-v1.4.43.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.apecomics-v1.4.43.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/98369578739249e17ae7b95a9cdd6ea39baecadf",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.apecomics-v1.4.43.apk",
+    "name": "tachiyomi-pt.apecomics-v1.4.44.apk",
+    "path": "apk/tachiyomi-pt.apecomics-v1.4.44.apk",
+    "sha": "6aa6387154e83d232117b2874aeb8f0a08d738c4",
+    "size": 103864,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.apecomics-v1.4.44.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.apecomics-v1.4.44.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6aa6387154e83d232117b2874aeb8f0a08d738c4",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-pt.apecomics-v1.4.44.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.apecomics-v1.4.43.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/98369578739249e17ae7b95a9cdd6ea39baecadf",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.apecomics-v1.4.43.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-pt.apecomics-v1.4.44.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/6aa6387154e83d232117b2874aeb8f0a08d738c4",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-pt.apecomics-v1.4.44.apk"
     }
   },
   {
