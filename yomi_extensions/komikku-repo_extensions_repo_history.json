@@ -1168,19 +1168,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.manhuarm-v1.4.53.apk",
-    "path": "apk/tachiyomi-all.manhuarm-v1.4.53.apk",
-    "sha": "7197864626869b6673dd59045ea0b0d81f6e2a66",
-    "size": 224581,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.manhuarm-v1.4.53.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.53.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/7197864626869b6673dd59045ea0b0d81f6e2a66",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.manhuarm-v1.4.53.apk",
+    "name": "tachiyomi-all.manhuarm-v1.4.54.apk",
+    "path": "apk/tachiyomi-all.manhuarm-v1.4.54.apk",
+    "sha": "8590e46494c07f63f7d63a4c7bc253e9d6942c45",
+    "size": 245637,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.manhuarm-v1.4.54.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.54.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/8590e46494c07f63f7d63a4c7bc253e9d6942c45",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.manhuarm-v1.4.54.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.manhuarm-v1.4.53.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/7197864626869b6673dd59045ea0b0d81f6e2a66",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.53.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.manhuarm-v1.4.54.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/8590e46494c07f63f7d63a4c7bc253e9d6942c45",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.manhuarm-v1.4.54.apk"
     }
   },
   {
@@ -8448,19 +8448,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.roliascan-v1.4.4.apk",
-    "path": "apk/tachiyomi-en.roliascan-v1.4.4.apk",
-    "sha": "b1d0827c7917c87315a02382d8e87e3608d90d2b",
-    "size": 65037,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.roliascan-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.roliascan-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/b1d0827c7917c87315a02382d8e87e3608d90d2b",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.roliascan-v1.4.4.apk",
+    "name": "tachiyomi-en.roliascan-v1.4.5.apk",
+    "path": "apk/tachiyomi-en.roliascan-v1.4.5.apk",
+    "sha": "bc261a65477d30d333bc7e1c86a538a5efb86c0f",
+    "size": 68777,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.roliascan-v1.4.5.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.roliascan-v1.4.5.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/bc261a65477d30d333bc7e1c86a538a5efb86c0f",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.roliascan-v1.4.5.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.roliascan-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/b1d0827c7917c87315a02382d8e87e3608d90d2b",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.roliascan-v1.4.4.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.roliascan-v1.4.5.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/bc261a65477d30d333bc7e1c86a538a5efb86c0f",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.roliascan-v1.4.5.apk"
     }
   },
   {
