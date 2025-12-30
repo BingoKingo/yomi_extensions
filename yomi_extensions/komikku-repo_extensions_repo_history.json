@@ -80,6 +80,22 @@
     }
   },
   {
+    "name": "tachiyomi-all.batotov4-v1.4.1.apk",
+    "path": "apk/tachiyomi-all.batotov4-v1.4.1.apk",
+    "sha": "5311d4516a496e939da1c3bd8e4ee459bda50fe3",
+    "size": 107315,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batotov4-v1.4.1.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batotov4-v1.4.1.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/5311d4516a496e939da1c3bd8e4ee459bda50fe3",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.batotov4-v1.4.1.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batotov4-v1.4.1.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/5311d4516a496e939da1c3bd8e4ee459bda50fe3",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batotov4-v1.4.1.apk"
+    }
+  },
+  {
     "name": "tachiyomi-all.beauty3600000-v1.4.1.apk",
     "path": "apk/tachiyomi-all.beauty3600000-v1.4.1.apk",
     "sha": "43511c02b46fc1b217ab53b994f609cc158bde8a",
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.lermangas-v1.4.46.apk?ref=repo",
       "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/e93795fca2e0eed7ba0a8f9c677d72a706984e35",
       "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.lermangas-v1.4.46.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.lertoons-v1.4.4.apk",
-    "path": "apk/tachiyomi-pt.lertoons-v1.4.4.apk",
-    "sha": "939f47a27023a389ff92533abd6987792df46248",
-    "size": 49917,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.lertoons-v1.4.4.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.lertoons-v1.4.4.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/939f47a27023a389ff92533abd6987792df46248",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-pt.lertoons-v1.4.4.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-pt.lertoons-v1.4.4.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/939f47a27023a389ff92533abd6987792df46248",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-pt.lertoons-v1.4.4.apk"
     }
   }
 ]
