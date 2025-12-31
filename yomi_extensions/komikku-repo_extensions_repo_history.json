@@ -64,35 +64,35 @@
     }
   },
   {
-    "name": "tachiyomi-all.batoto-v1.4.58.apk",
-    "path": "apk/tachiyomi-all.batoto-v1.4.58.apk",
-    "sha": "7d6f6c084ec8084ee2cb9b1f3ad66b5f7a2bd64b",
-    "size": 79282,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batoto-v1.4.58.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batoto-v1.4.58.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/7d6f6c084ec8084ee2cb9b1f3ad66b5f7a2bd64b",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.batoto-v1.4.58.apk",
+    "name": "tachiyomi-all.batoto-v1.4.59.apk",
+    "path": "apk/tachiyomi-all.batoto-v1.4.59.apk",
+    "sha": "dab9e1ec7da5e0c5f0460ad76dcca4032b223143",
+    "size": 79287,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batoto-v1.4.59.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batoto-v1.4.59.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/dab9e1ec7da5e0c5f0460ad76dcca4032b223143",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.batoto-v1.4.59.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batoto-v1.4.58.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/7d6f6c084ec8084ee2cb9b1f3ad66b5f7a2bd64b",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batoto-v1.4.58.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batoto-v1.4.59.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/dab9e1ec7da5e0c5f0460ad76dcca4032b223143",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batoto-v1.4.59.apk"
     }
   },
   {
-    "name": "tachiyomi-all.batotov4-v1.4.1.apk",
-    "path": "apk/tachiyomi-all.batotov4-v1.4.1.apk",
-    "sha": "5311d4516a496e939da1c3bd8e4ee459bda50fe3",
-    "size": 107315,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batotov4-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batotov4-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/5311d4516a496e939da1c3bd8e4ee459bda50fe3",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.batotov4-v1.4.1.apk",
+    "name": "tachiyomi-all.batotov4-v1.4.2.apk",
+    "path": "apk/tachiyomi-all.batotov4-v1.4.2.apk",
+    "sha": "18f898349ff26d6f1657ceb18a2f5e876a232dec",
+    "size": 107341,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batotov4-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batotov4-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/18f898349ff26d6f1657ceb18a2f5e876a232dec",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.batotov4-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batotov4-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/5311d4516a496e939da1c3bd8e4ee459bda50fe3",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batotov4-v1.4.1.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.batotov4-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/18f898349ff26d6f1657ceb18a2f5e876a232dec",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.batotov4-v1.4.2.apk"
     }
   },
   {
