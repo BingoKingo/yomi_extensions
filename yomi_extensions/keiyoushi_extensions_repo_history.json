@@ -8848,19 +8848,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.tapastic-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.tapastic-v1.4.22.apk",
-    "sha": "11ffa7b4cafaf3d7b90dfecc847ee3216ec0bc5c",
-    "size": 94483,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.tapastic-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.tapastic-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/11ffa7b4cafaf3d7b90dfecc847ee3216ec0bc5c",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.tapastic-v1.4.22.apk",
+    "name": "tachiyomi-en.tapastic-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.tapastic-v1.4.23.apk",
+    "sha": "92a6dbffb6ec55684a5fdad42774ce5f6d5c2d6e",
+    "size": 98307,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.tapastic-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.tapastic-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/92a6dbffb6ec55684a5fdad42774ce5f6d5c2d6e",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-en.tapastic-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.tapastic-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/11ffa7b4cafaf3d7b90dfecc847ee3216ec0bc5c",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.tapastic-v1.4.22.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-en.tapastic-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/92a6dbffb6ec55684a5fdad42774ce5f6d5c2d6e",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-en.tapastic-v1.4.23.apk"
     }
   },
   {
@@ -11568,19 +11568,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.animesama-v1.4.12.apk",
-    "path": "apk/tachiyomi-fr.animesama-v1.4.12.apk",
-    "sha": "7cfa31952ff45b0df399268b4bbad7b959615cc5",
-    "size": 65912,
-    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.animesama-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.animesama-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7cfa31952ff45b0df399268b4bbad7b959615cc5",
-    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.animesama-v1.4.12.apk",
+    "name": "tachiyomi-fr.animesama-v1.4.13.apk",
+    "path": "apk/tachiyomi-fr.animesama-v1.4.13.apk",
+    "sha": "96a52184c57aea252093170f6f7ada12c1a37e04",
+    "size": 66041,
+    "url": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.animesama-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.animesama-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/96a52184c57aea252093170f6f7ada12c1a37e04",
+    "download_url": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-fr.animesama-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.animesama-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/7cfa31952ff45b0df399268b4bbad7b959615cc5",
-      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.animesama-v1.4.12.apk"
+      "self": "https://api.github.com/repos/keiyoushi/extensions/contents/apk/tachiyomi-fr.animesama-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/keiyoushi/extensions/git/blobs/96a52184c57aea252093170f6f7ada12c1a37e04",
+      "html": "https://github.com/keiyoushi/extensions/blob/repo/apk/tachiyomi-fr.animesama-v1.4.13.apk"
     }
   },
   {
