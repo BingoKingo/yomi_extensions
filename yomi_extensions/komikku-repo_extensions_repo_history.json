@@ -8944,19 +8944,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.tapastic-v1.4.22.apk",
-    "path": "apk/tachiyomi-en.tapastic-v1.4.22.apk",
-    "sha": "e34049d76683caae70b75d9e7171ab9715e759f1",
-    "size": 94461,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.tapastic-v1.4.22.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.tapastic-v1.4.22.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/e34049d76683caae70b75d9e7171ab9715e759f1",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.tapastic-v1.4.22.apk",
+    "name": "tachiyomi-en.tapastic-v1.4.23.apk",
+    "path": "apk/tachiyomi-en.tapastic-v1.4.23.apk",
+    "sha": "5c94a2067d363b92df36c66a37fecace924952e1",
+    "size": 98309,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.tapastic-v1.4.23.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.tapastic-v1.4.23.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/5c94a2067d363b92df36c66a37fecace924952e1",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.tapastic-v1.4.23.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.tapastic-v1.4.22.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/e34049d76683caae70b75d9e7171ab9715e759f1",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.tapastic-v1.4.22.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.tapastic-v1.4.23.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/5c94a2067d363b92df36c66a37fecace924952e1",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.tapastic-v1.4.23.apk"
     }
   },
   {
@@ -11664,19 +11664,19 @@
     }
   },
   {
-    "name": "tachiyomi-fr.animesama-v1.4.12.apk",
-    "path": "apk/tachiyomi-fr.animesama-v1.4.12.apk",
-    "sha": "602eb2df6d047d7bc4fd9c80adc70fcfeea321fd",
-    "size": 65892,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.animesama-v1.4.12.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.animesama-v1.4.12.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/602eb2df6d047d7bc4fd9c80adc70fcfeea321fd",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-fr.animesama-v1.4.12.apk",
+    "name": "tachiyomi-fr.animesama-v1.4.13.apk",
+    "path": "apk/tachiyomi-fr.animesama-v1.4.13.apk",
+    "sha": "71c6f77a53555d9369e700f51bbfc209cd7f7850",
+    "size": 66022,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.animesama-v1.4.13.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.animesama-v1.4.13.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/71c6f77a53555d9369e700f51bbfc209cd7f7850",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-fr.animesama-v1.4.13.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.animesama-v1.4.12.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/602eb2df6d047d7bc4fd9c80adc70fcfeea321fd",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.animesama-v1.4.12.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-fr.animesama-v1.4.13.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/71c6f77a53555d9369e700f51bbfc209cd7f7850",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-fr.animesama-v1.4.13.apk"
     }
   },
   {
