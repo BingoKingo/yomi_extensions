@@ -7808,19 +7808,19 @@
     }
   },
   {
-    "name": "tachiyomi-en.qiscans-v1.4.14.apk",
-    "path": "apk/tachiyomi-en.qiscans-v1.4.14.apk",
-    "sha": "bab2ef1d458374c86014e1d782e59cee52a459f4",
-    "size": 85053,
-    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.qiscans-v1.4.14.apk?ref=repo",
-    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.qiscans-v1.4.14.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/bab2ef1d458374c86014e1d782e59cee52a459f4",
-    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.qiscans-v1.4.14.apk",
+    "name": "tachiyomi-en.qiscans-v1.4.15.apk",
+    "path": "apk/tachiyomi-en.qiscans-v1.4.15.apk",
+    "sha": "b8a2b96cd6764376046179f15329f8b856534a5c",
+    "size": 84883,
+    "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.qiscans-v1.4.15.apk?ref=repo",
+    "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.qiscans-v1.4.15.apk",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/b8a2b96cd6764376046179f15329f8b856534a5c",
+    "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-en.qiscans-v1.4.15.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.qiscans-v1.4.14.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/bab2ef1d458374c86014e1d782e59cee52a459f4",
-      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.qiscans-v1.4.14.apk"
+      "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-en.qiscans-v1.4.15.apk?ref=repo",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/b8a2b96cd6764376046179f15329f8b856534a5c",
+      "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-en.qiscans-v1.4.15.apk"
     }
   },
   {
