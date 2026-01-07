@@ -50,16 +50,16 @@
   {
     "name": "tachiyomi-all.baobua-v1.4.2.apk",
     "path": "apk/tachiyomi-all.baobua-v1.4.2.apk",
-    "sha": "84f2d1ff775f280fe6e2167359093fb15bcf81dc",
-    "size": 56508,
+    "sha": "0d507bc7c4cecfadd4de24ef07f359995a7e055f",
+    "size": 56591,
     "url": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.baobua-v1.4.2.apk?ref=repo",
     "html_url": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.baobua-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/84f2d1ff775f280fe6e2167359093fb15bcf81dc",
+    "git_url": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/0d507bc7c4cecfadd4de24ef07f359995a7e055f",
     "download_url": "https://raw.githubusercontent.com/keitaiyomi/manga-repo/repo/apk/tachiyomi-all.baobua-v1.4.2.apk",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/keitaiyomi/manga-repo/contents/apk/tachiyomi-all.baobua-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/84f2d1ff775f280fe6e2167359093fb15bcf81dc",
+      "git": "https://api.github.com/repos/keitaiyomi/manga-repo/git/blobs/0d507bc7c4cecfadd4de24ef07f359995a7e055f",
       "html": "https://github.com/keitaiyomi/manga-repo/blob/repo/apk/tachiyomi-all.baobua-v1.4.2.apk"
     }
   },
