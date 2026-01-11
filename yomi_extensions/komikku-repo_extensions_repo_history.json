@@ -7360,6 +7360,22 @@
     }
   },
   {
+    "name": "tachiyomi-en.novel24h-v1.4.46.apk",
+    "path": "apk/tachiyomi-en.novel24h-v1.4.46.apk",
+    "sha": "5458764ef66856fa12ef9be26dfcd2ba1054f3a9",
+    "size": 86311,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.novel24h-v1.4.46.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.novel24h-v1.4.46.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5458764ef66856fa12ef9be26dfcd2ba1054f3a9",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.novel24h-v1.4.46.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.novel24h-v1.4.46.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/5458764ef66856fa12ef9be26dfcd2ba1054f3a9",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.novel24h-v1.4.46.apk"
+    }
+  },
+  {
     "name": "tachiyomi-en.novelcrow-v1.4.46.apk",
     "path": "apk/tachiyomi-en.novelcrow-v1.4.46.apk",
     "sha": "3dac58f5cd88f267c7ba7af573398ba9be2cb4f7",
@@ -14320,19 +14336,19 @@
     }
   },
   {
-    "name": "tachiyomi-ja.kisslove-v1.4.17.apk",
-    "path": "apk/tachiyomi-ja.kisslove-v1.4.17.apk",
-    "sha": "a993860c347e728a4f2b3693ea39272f6b16674e",
-    "size": 75080,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.kisslove-v1.4.17.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.kisslove-v1.4.17.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a993860c347e728a4f2b3693ea39272f6b16674e",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ja.kisslove-v1.4.17.apk",
+    "name": "tachiyomi-ja.kisslove-v1.4.18.apk",
+    "path": "apk/tachiyomi-ja.kisslove-v1.4.18.apk",
+    "sha": "fc69710f403233ae9bceae5092db3fdeb37cdae1",
+    "size": 84192,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.kisslove-v1.4.18.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.kisslove-v1.4.18.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fc69710f403233ae9bceae5092db3fdeb37cdae1",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-ja.kisslove-v1.4.18.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.kisslove-v1.4.17.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a993860c347e728a4f2b3693ea39272f6b16674e",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.kisslove-v1.4.17.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-ja.kisslove-v1.4.18.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/fc69710f403233ae9bceae5092db3fdeb37cdae1",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-ja.kisslove-v1.4.18.apk"
     }
   },
   {
@@ -15981,22 +15997,6 @@
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.leituramanga-v1.4.1.apk?ref=repo",
       "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/474a2e904dc508b20ae38108063d1a42a0163900",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.leituramanga-v1.4.1.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-pt.ler999-v1.4.11.apk",
-    "path": "apk/tachiyomi-pt.ler999-v1.4.11.apk",
-    "sha": "c72a6c0ab6cae1c40108a40d1e695d0910787203",
-    "size": 80308,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.ler999-v1.4.11.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.ler999-v1.4.11.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c72a6c0ab6cae1c40108a40d1e695d0910787203",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-pt.ler999-v1.4.11.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.ler999-v1.4.11.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/c72a6c0ab6cae1c40108a40d1e695d0910787203",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.ler999-v1.4.11.apk"
     }
   }
 ]
