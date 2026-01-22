@@ -6432,22 +6432,6 @@
     }
   },
   {
-    "name": "tachiyomi-en.mangataro-v1.4.6.apk",
-    "path": "apk/tachiyomi-en.mangataro-v1.4.6.apk",
-    "sha": "349887c30f923bcfbd5501ef1dcccfdc7df5ce03",
-    "size": 101976,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.6.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.6.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/349887c30f923bcfbd5501ef1dcccfdc7df5ce03",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mangataro-v1.4.6.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mangataro-v1.4.6.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/349887c30f923bcfbd5501ef1dcccfdc7df5ce03",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mangataro-v1.4.6.apk"
-    }
-  },
-  {
     "name": "tachiyomi-en.mangatellers-v1.4.4.apk",
     "path": "apk/tachiyomi-en.mangatellers-v1.4.4.apk",
     "sha": "b6a481aa2b39a8d7fa3fc9b0ce766ce3737dd94b",
@@ -7165,22 +7149,6 @@
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.manytoonme-v1.4.51.apk?ref=repo",
       "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/53ed9f3b95a64e30149385dfd976e52736657955",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.manytoonme-v1.4.51.apk"
-    }
-  },
-  {
-    "name": "tachiyomi-en.mayotune-v1.4.2.apk",
-    "path": "apk/tachiyomi-en.mayotune-v1.4.2.apk",
-    "sha": "508c2bc4bcdd0fc9edc0ec98336dcbb3f98231b7",
-    "size": 56564,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mayotune-v1.4.2.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mayotune-v1.4.2.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/508c2bc4bcdd0fc9edc0ec98336dcbb3f98231b7",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-en.mayotune-v1.4.2.apk",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-en.mayotune-v1.4.2.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/508c2bc4bcdd0fc9edc0ec98336dcbb3f98231b7",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-en.mayotune-v1.4.2.apk"
     }
   },
   {
@@ -15997,6 +15965,38 @@
       "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.imperiodabritannia-v1.4.53.apk?ref=repo",
       "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/a50df1aced33df1f0a7083b22eb80b0492ec56da",
       "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.imperiodabritannia-v1.4.53.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-pt.imperioscans-v1.4.49.apk",
+    "path": "apk/tachiyomi-pt.imperioscans-v1.4.49.apk",
+    "sha": "bbf0913fac304e1fe3ef7da88421d46a5f5cf263",
+    "size": 78004,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.imperioscans-v1.4.49.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.imperioscans-v1.4.49.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bbf0913fac304e1fe3ef7da88421d46a5f5cf263",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-pt.imperioscans-v1.4.49.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.imperioscans-v1.4.49.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/bbf0913fac304e1fe3ef7da88421d46a5f5cf263",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.imperioscans-v1.4.49.apk"
+    }
+  },
+  {
+    "name": "tachiyomi-pt.inkapk-v1.4.47.apk",
+    "path": "apk/tachiyomi-pt.inkapk-v1.4.47.apk",
+    "sha": "577be12fe7a420016d03edc7d585668cf876d22a",
+    "size": 131372,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.inkapk-v1.4.47.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.inkapk-v1.4.47.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/577be12fe7a420016d03edc7d585668cf876d22a",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-pt.inkapk-v1.4.47.apk",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-pt.inkapk-v1.4.47.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/577be12fe7a420016d03edc7d585668cf876d22a",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-pt.inkapk-v1.4.47.apk"
     }
   }
 ]
