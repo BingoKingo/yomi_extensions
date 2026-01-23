@@ -1984,19 +1984,19 @@
     }
   },
   {
-    "name": "tachiyomi-all.yabai-v1.4.1.apk",
-    "path": "apk/tachiyomi-all.yabai-v1.4.1.apk",
-    "sha": "2db2be312879824bc166aa6291f2542e81d06867",
-    "size": 58524,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.yabai-v1.4.1.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.yabai-v1.4.1.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2db2be312879824bc166aa6291f2542e81d06867",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.yabai-v1.4.1.apk",
+    "name": "tachiyomi-all.yabai-v1.4.2.apk",
+    "path": "apk/tachiyomi-all.yabai-v1.4.2.apk",
+    "sha": "ff278e69c03f2dc6dbb29a8c3914c2d789d4358b",
+    "size": 58460,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.yabai-v1.4.2.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.yabai-v1.4.2.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ff278e69c03f2dc6dbb29a8c3914c2d789d4358b",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-all.yabai-v1.4.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.yabai-v1.4.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/2db2be312879824bc166aa6291f2542e81d06867",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.yabai-v1.4.1.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-all.yabai-v1.4.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/ff278e69c03f2dc6dbb29a8c3914c2d789d4358b",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-all.yabai-v1.4.2.apk"
     }
   },
   {
