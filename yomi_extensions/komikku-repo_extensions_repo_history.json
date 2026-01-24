@@ -10720,19 +10720,19 @@
     }
   },
   {
-    "name": "tachiyomi-es.lectorjpg-v1.4.44.apk",
-    "path": "apk/tachiyomi-es.lectorjpg-v1.4.44.apk",
-    "sha": "1277ed4778e3bb031e4d58a44433e8a24b5a4317",
-    "size": 56622,
-    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.lectorjpg-v1.4.44.apk?ref=repo",
-    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.lectorjpg-v1.4.44.apk",
-    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1277ed4778e3bb031e4d58a44433e8a24b5a4317",
-    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.lectorjpg-v1.4.44.apk",
+    "name": "tachiyomi-es.lectorjpg-v1.4.45.apk",
+    "path": "apk/tachiyomi-es.lectorjpg-v1.4.45.apk",
+    "sha": "71b8b2a0526bb5075a00a786639c39d2be26e35a",
+    "size": 56657,
+    "url": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.lectorjpg-v1.4.45.apk?ref=repo",
+    "html_url": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.lectorjpg-v1.4.45.apk",
+    "git_url": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/71b8b2a0526bb5075a00a786639c39d2be26e35a",
+    "download_url": "https://raw.githubusercontent.com/komizoku/manga-repo/repo/apk/tachiyomi-es.lectorjpg-v1.4.45.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.lectorjpg-v1.4.44.apk?ref=repo",
-      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/1277ed4778e3bb031e4d58a44433e8a24b5a4317",
-      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.lectorjpg-v1.4.44.apk"
+      "self": "https://api.github.com/repos/komizoku/manga-repo/contents/apk/tachiyomi-es.lectorjpg-v1.4.45.apk?ref=repo",
+      "git": "https://api.github.com/repos/komizoku/manga-repo/git/blobs/71b8b2a0526bb5075a00a786639c39d2be26e35a",
+      "html": "https://github.com/komizoku/manga-repo/blob/repo/apk/tachiyomi-es.lectorjpg-v1.4.45.apk"
     }
   },
   {
