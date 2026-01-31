@@ -32,19 +32,19 @@
     }
   },
   {
-    "name": "aniyomi-all.torbox-v16.1.apk",
-    "path": "apk/aniyomi-all.torbox-v16.1.apk",
-    "sha": "375317552194db7de61d9618f5751754115132ee",
-    "size": 74335,
-    "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.torbox-v16.1.apk?ref=repo",
-    "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.torbox-v16.1.apk",
-    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/375317552194db7de61d9618f5751754115132ee",
-    "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.torbox-v16.1.apk",
+    "name": "aniyomi-all.torbox-v16.2.apk",
+    "path": "apk/aniyomi-all.torbox-v16.2.apk",
+    "sha": "ca701de47709a36baa8c5f5d95f040249857c177",
+    "size": 75967,
+    "url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.torbox-v16.2.apk?ref=repo",
+    "html_url": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.torbox-v16.2.apk",
+    "git_url": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/ca701de47709a36baa8c5f5d95f040249857c177",
+    "download_url": "https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/repo/apk/aniyomi-all.torbox-v16.2.apk",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.torbox-v16.1.apk?ref=repo",
-      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/375317552194db7de61d9618f5751754115132ee",
-      "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.torbox-v16.1.apk"
+      "self": "https://api.github.com/repos/Secozzi/aniyomi-extensions/contents/apk/aniyomi-all.torbox-v16.2.apk?ref=repo",
+      "git": "https://api.github.com/repos/Secozzi/aniyomi-extensions/git/blobs/ca701de47709a36baa8c5f5d95f040249857c177",
+      "html": "https://github.com/Secozzi/aniyomi-extensions/blob/repo/apk/aniyomi-all.torbox-v16.2.apk"
     }
   }
 ]
